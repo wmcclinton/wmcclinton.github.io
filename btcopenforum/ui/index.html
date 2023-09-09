@@ -1,0 +1,241 @@
+<!--Description - Send a message to public form (Cannot be shut down by any government) - Simple scan, write message, and send -->
+
+<!--Search, Order (Recent, Amount, Alphabetical) -->
+
+<!--List of Messages-->
+<!--Current Vaule in Wallet-->
+
+<!--Big Ass QR Code saying send message here-->
+
+<!--Scratch-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sort a HTML Table Alphabetically</title>
+<style>
+table {
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th {
+  cursor: pointer;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+</style>
+</head>
+<body>
+<h1>BTC Open Forum</h1>
+<script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+<div id="qrcode" ></div>
+<script type="text/javascript">
+new QRCode(document.getElementById("qrcode"), "tb1qygjvjj7pku34jkdg665lpfr2ldlt80u306tdag");
+</script>
+<p><strong>Send OPRETURN message to this address.</strong></p>
+<p>WARNING! No government or party can remove this message.</p>
+<p>As long as Bitcoin Network exists so will your messages.</p>
+<p></p>
+<p></p>
+<p><strong>Click the headers to sort the table.</strong></p>
+<p>The first time you click, the sorting direction is ascending (A to Z).</p>
+<p>Click again, and the sorting direction will be descending (Z to A):</p>
+
+<p id="result"> Status: Loading...</p>
+
+<table id="myTable">
+  <tr>
+   <!--When a header is clicked, run the sortTable function, with a parameter, 0 for sorting by names, 1 for sorting by country:-->
+   <th onclick="sortTable(0)">Time</th> 
+    <th onclick="sortTable(1)">Message</th>
+    <th onclick="sortTable(2)">Value</th>
+  </tr>
+  <tr>
+    <td>Loading...</td>
+    <td>Loading...</td>
+    <td>Loading...</td>
+  </tr>
+</table>
+
+<script src="https://mempool.space/mempool.js"></script>
+<script>
+    const init = async () => {
+        const { bitcoin: { addresses } } = mempoolJS({
+            hostname: 'mempool.space',
+            network: 'testnet'
+        });
+
+        // Get Transactions
+        const btcVaultAddress = 'tb1qygjvjj7pku34jkdg665lpfr2ldlt80u306tdag'
+        const address = btcVaultAddress;
+        const addressTxs = await addresses.getAddressTxs({ address });
+        let opreturns = []
+
+        const { bitcoin: { transactions } } = mempoolJS({
+            hostname: 'mempool.space',
+            network: 'testnet'
+        });
+
+        for (addr in addressTxs){
+            // Get OPReturns and Values
+
+            const txid = addressTxs[addr].txid;
+            const tx = await transactions.getTx({ txid });
+
+            try {
+                let block_height = tx.status.block_height;
+            } catch (error) {
+                console.log("ERROR:", error)
+            }
+                
+
+            let btc_addr = null
+            try {
+                btc_addr = tx.vin[0].prevout.scriptpubkey_address
+            } catch (error) {
+                console.log("ERROR:", error)
+            }
+            let OP_RETURN = null
+            let amount = null
+            let op_return_asm_orig = null
+            let block_time = tx.status.block_time
+
+            if (tx.vout && tx.vout.length) {
+                for (let o of tx.vout) {
+                    if (o.scriptpubkey_type == "op_return") {
+                        op_return_asm_orig = o.scriptpubkey_asm
+                        let op_return_asm = op_return_asm_orig
+                        let op_return_string = ''
+                        //// Transforming OP_RETURN
+                        const opPush = op_return_asm.split(' ').filter((_, i, a) => i > 0 && /^OP_PUSH/.test(a[i - 1]));
+                        if (opPush[0]) {
+                            op_return_asm = opPush[0];
+                        }
+                        if (!op_return_asm) {
+                            op_return_string = '';
+                        } else {
+                            const bytes = [];
+                            for (let i = 0; i < op_return_asm.length; i += 2) {
+                                bytes.push(parseInt(op_return_asm.substr(i, 2), 16));
+                            }
+                            op_return_string = new TextDecoder('utf8').decode(Uint8Array.from(bytes)).replace(/\uFFFD/g, '').replace(/\\0/g, '');
+                        }
+                        ////
+                        OP_RETURN = op_return_string
+                    }
+                    if (o.scriptpubkey_address == btcVaultAddress) {
+                        amount = o.value
+                    }
+                }
+            }
+            if (OP_RETURN != null && OP_RETURN.trim() != ''){
+                opreturns.push([block_time, OP_RETURN, amount])
+            }
+        }
+
+        // Update Table
+        var str = `<tbody><tr>
+            <th onclick="sortTable(0)">Time</th>
+            <th onclick="sortTable(1)">Message</th>
+            <th onclick="sortTable(2)">Value</th>
+        </tr>`;
+        opreturns.forEach((pair, ind) => {
+            time = pair[0]
+            message = pair[1]
+            value = pair[2]
+            str += `<tr>
+                <td>${time}</td>
+                <td>${message}</td>
+                <td>${value}</td>
+            </tr>`;
+        }); 
+        str += '</tbody>'
+        document.getElementById("myTable").innerHTML = str;
+        document.getElementById("result").textContent = "Status: Loaded"
+
+    };
+    init();
+
+    // Sort Table Function
+    function sortTable(n) {
+        var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+        table = document.getElementById("myTable");
+        switching = true;
+        //Set the sorting direction to ascending:
+        dir = "asc"; 
+        /*Make a loop that will continue until
+        no switching has been done:*/
+        while (switching) {
+            //start by saying: no switching is done:
+            switching = false;
+            rows = table.rows;
+            /*Loop through all table rows (except the
+            first, which contains table headers):*/
+            for (i = 1; i < (rows.length - 1); i++) {
+            //start by saying there should be no switching:
+            shouldSwitch = false;
+            /*Get the two elements you want to compare,
+            one from current row and one from the next:*/
+            x = rows[i].getElementsByTagName("TD")[n];
+            y = rows[i + 1].getElementsByTagName("TD")[n];
+            /*check if the two rows should switch place,
+            based on the direction, asc or desc:*/
+            if (dir == "asc") {
+                if(n != 1){
+                    if (Number(x.innerHTML) > Number(y.innerHTML)) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch= true;
+                        break;
+                    }
+                } else {
+                    if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch= true;
+                        break;
+                    }
+                }
+            } else if (dir == "desc") {
+                if(n != 1){
+                    if (Number(x.innerHTML) < Number(y.innerHTML)) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                } else {
+                    if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+                        //if so, mark as a switch and break the loop:
+                        shouldSwitch = true;
+                        break;
+                    }
+                }
+            }
+            }
+            if (shouldSwitch) {
+            /*If a switch has been marked, make the switch
+            and mark that a switch has been done:*/
+            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            switching = true;
+            //Each time a switch is done, increase this count by 1:
+            switchcount ++;      
+            } else {
+            /*If no switching has been done AND the direction is "asc",
+            set the direction to "desc" and run the while loop again.*/
+            if (switchcount == 0 && dir == "asc") {
+                dir = "desc";
+                switching = true;
+            }
+            }
+        }
+    }
+</script>
+
+</body>
+</html>
