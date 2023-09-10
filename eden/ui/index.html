@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>eden</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+</style>
+</head>
+<body class="w3-light-grey w3-content" style="max-width:1600px">
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:150px;" id="mySidebar"><br>
+  <div class="w3-container">
+    <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
+      <i class="fa fa-remove"></i>
+    </a>
+    <img src="img/logo.png" style="width:25%;" class="w3-round"><br><br>
+    <h4><b>eden</b></h4>
+  </div>
+  <div class="w3-bar-block">
+    <a href="#portfolio" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>PORTFOLIO</a> 
+    <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a>
+  </div>
+  <div class="w3-panel w3-large">
+    <a href="https://www.blockchain.com/explorer/assets/btc" title="bitcoin" target="_blank" class="w3-hover-opacity"><i class="fa fa-btc w3-hover-opacity"></i></a>
+  </div>
+</nav>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:150px">
+
+  <!-- Header -->
+  <header id="portfolio">
+    <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
+    <div class="w3-container">
+    <h1><b>eden</b></h1>
+    <h4><b>towards a better place.</b></h4>
+    </div>
+  </header>
+
+  <!-- First Photo Grid-->
+  <div class="w3-row-padding">
+    <div class="w3-white w3-third w3-container w3-margin" style="width:350px">
+      <img src="img/9.png" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b>AnetaBTC (Wrapping)</b></p>
+        <p>Decentralized, On Chain Wrapped Bitcoin. Fully On-chain Bitcoin on Cardano.</p>
+        <a href="https://anetabtc.io/" title="bitcoin" target="_blank" class="w3-hover-opacity">URL</a>
+        <a href="#about" title="bitcoin" target="_blank" class="w3-hover-opacity">Donate</a>
+        <a href="" title="bitcoin" target="_blank" class="w3-hover-opacity">Odyssey</a>
+        <p></p>
+      </div>
+    </div>
+    <div class="w3-white w3-third w3-container w3-margin" style="width:350px">
+      <img src="img/8.png" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b>Predicators (Robots)</b></p>
+        <p>A Framework for Bilevel Planning with Learned Neuro-Symbolic Abstractions.</p>
+        <a href="https://github.com/Learning-and-Intelligent-Systems/predicators" title="bitcoin" target="_blank" class="w3-hover-opacity">URL</a>
+        <a href="#about" title="bitcoin" target="_blank" class="w3-hover-opacity">Donate</a>
+        <a href="" title="bitcoin" target="_blank" class="w3-hover-opacity">Odyssey</a>
+        <p></p>
+      </div>
+    </div>
+    <div class="w3-white w3-third w3-container w3-margin" style="width:350px">
+      <img src="img/3.png" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b>LibraryAlexandrAI (AI Library)</b></p>
+        <p>Empowering Literary Quests with AI. AI Generated Libary of Books</p>
+        <a href="https://twitter.com/libalexandriai" title="bitcoin" target="_blank" class="w3-hover-opacity">URL</a>
+        <a href="https://www.patreon.com/AlexandriAI" title="bitcoin" target="_blank" class="w3-hover-opacity">Donate</a>
+        <a href="" title="bitcoin" target="_blank" class="w3-hover-opacity">Odyssey</a>
+        <p></p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Second Photo Grid-->
+  <div class="w3-row-padding">
+    <div class="w3-white w3-third w3-container w3-margin" style="width:350px">
+      <img src="img/11.png" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b>BTCOpenForum (Open Forum)</b></p>
+        <p>An Open Permanent Decentralized Message Board Protected by BTC Network.</p>
+        <a href="https://wmcclinton.github.io/btcopenforum/ui/index.html" title="bitcoin" target="_blank" class="w3-hover-opacity">URL</a>
+        <a href="#about" title="bitcoin" target="_blank" class="w3-hover-opacity">Donate</a>
+        <a href="" title="bitcoin" target="_blank" class="w3-hover-opacity">Odyssey</a>
+        <p></p>
+      </div>
+    </div>
+    <div class="w3-white w3-third w3-container w3-margin" style="width:350px">
+      <img src="img/2.png" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b>Odyssey (Payment)</b></p>
+        <p>A Decentralized Payment Protocol for Dev Task Management and Contracting.</p>
+        <a href="" title="bitcoin" target="_blank" class="w3-hover-opacity">URL</a>
+        <a href="#about" title="bitcoin" target="_blank" class="w3-hover-opacity">Donate</a>
+        <a href="" title="bitcoin" target="_blank" class="w3-hover-opacity">Odyssey</a>
+        <p></p>
+      </div>
+    </div>
+    <div class="w3-white w3-third w3-container w3-margin" style="width:350px">
+      <img src="img/12.png" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b>OracleChains (Prediction)</b></p>
+        <p>A Protocol for Crowdsourcing Oracle Information for Real-World Real-Time Data.</p>
+        <a href="" title="bitcoin" target="_blank" class="w3-hover-opacity">URL</a>
+        <a href="#about" title="bitcoin" target="_blank" class="w3-hover-opacity">Donate</a>
+        <a href="" title="bitcoin" target="_blank" class="w3-hover-opacity">Odyssey</a>
+        <p></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Third Photo Grid-->
+  <div class="w3-row-padding">
+    <div class="w3-white w3-third w3-container w3-margin" style="width:350px">
+      <img src="img/5.png" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <div class="w3-container w3-white">
+        <p><b>VirtueAI/Fabric (Decentralised AI)</b></p>
+        <p>Decentralized, Open Artificial Intelligence. Fully On-chain AI Built by You for You.</p>
+        <a href="https://bitcoin.org/en/" title="bitcoin" target="_blank" class="w3-hover-opacity">URL</a>
+        <a href="https://gofund.me/4fc9dc3b" title="bitcoin" target="_blank" class="w3-hover-opacity">Donate</a>
+        <a href="" title="bitcoin" target="_blank" class="w3-hover-opacity">Odyssey</a>
+        <p></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- About -->
+  <div class="w3-container w3-padding-large" style="margin-bottom:32px" id="about">
+    <h3><b>About eden</b></h3>
+    <p>eden is a set of projects trying to make the world more <strong>advanced</strong>, <strong>equitable</strong>, and <strong>decentralized</strong> - an overall better place.</p>
+    <p>(Note: eden only lives off the generosity of others. It is completely donation based to contract devolpers and income made by projects are re-invested back into the fund.)</p>
+    <p></p>
+    <p>So if you see something that you are eager to see in the world, please donate via the address below.</p>
+    <p></p>
+    <h5><strong>BTC (mainnet) ADDRESS</strong></h5>
+    <p></p>
+    <div id="qrcode"></div>
+    <p></p>
+    <p>~ Add an OPRETURN Message for sending funds to a specific project ~</p>
+    <p id="amount">Total (BTC) in Fund: Loading...</p>
+    <p></p>
+    <p></p>
+    <p>For Contributors: if you have any questions or want to join the team full time contact wbm3(at)mit.edu.</p>
+    <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+    <script src="https://mempool.space/mempool.js"></script>
+    <script>
+      const address = "bc1qtqx2x70nv2d39q7urkzaqukyxpzx70sg4kq428"
+      new QRCode(document.getElementById("qrcode"), address);
+      const init = async () => {
+        
+        const { bitcoin: { addresses } } = mempoolJS({
+          hostname: 'mempool.space',
+          network: 'mainnet'
+        });
+
+        const myAddress = await addresses.getAddress({ address });
+        let amount =  (myAddress.chain_stats.funded_txo_sum - myAddress.chain_stats.spent_txo_sum) / 100000000.0 
+
+        document.getElementById("amount").textContent = "Total (BTC) in Fund: " + amount.toString();
+        
+      };
+      init();
+    </script>
+    <hr>
+  </div>
+  
+
+  
+  <div class="w3-black w3-center w3-padding-24">Powered by <a href="https://bitcoin.org/en/" title="bitcoin" target="_blank" class="w3-hover-opacity">Bitcoin</a></div>
+
+<!-- End page content -->
+</div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+</script>
+
+</body>
+</html>
