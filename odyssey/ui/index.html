@@ -369,19 +369,26 @@ new QRCode(document.getElementById("qrcode3"), id);
     }
 </script>
 <script>
-    var url_content = null;
     async function funcRequest(url){
         await fetch(url)
-        .then((response) => {
-            return response.json(); // data into json
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            console.log("response");
+            console.log(response.text());
+            return response.text();
         })
-        .then((data) => {
-            url_content = data;
+        .then(data => {
+            // Display the fetched content in the "content" div
+            document.getElementById('content').innerHTML = data;
         })
-        .catch(function(error) {
-            console.log(error);
+        .catch(error => {
+            console.error('Fetch error:', error);
         });
     }
+
+    
 
     function sumHash(hash) {
         let total = 0;
@@ -399,17 +406,21 @@ new QRCode(document.getElementById("qrcode3"), id);
         const hashArray = Array.from(new Uint8Array(hashBuffer));
         const hashHex = hashArray.map(byte => byte.toString(16).padStart(2, '0')).join('');
 
+        console.log(data)
         console.log('SHA-256 Hash:', hashHex);
+        console.log(sumHash(hashHex).toString());
         return hashHex;
     }
 
     // Example usage
-    generateSHA256Hash('Hello, World!');
+    generateSHA256Hash(undefined);
     
 
     async function url2hashed_content(url) {
         var content = await funcRequest(url);
+        console.log("content:");
         console.log(content);
+        console.log("content end");
         return await generateSHA256Hash(content);
     }
 
