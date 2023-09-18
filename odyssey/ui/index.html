@@ -100,8 +100,6 @@ tr:nth-child(even) {
                 <input type="text" id="post_url" name="post_url" maxlength="30"><br><br>
                 Note (Max 32 characters):<br>
                 <input type="text" id="post_note" name="post_note" maxlength="32"><br><br>
-                <!--Will create message (Job ID + URL + Hash alphanumeric + Note) and display QR Code-->
-                <!--Job ID = Sum(URL Hash) + Sum(URL Content Hash) -->
                 <button id="myButton_Post">
                     Submit
                 </button>
@@ -423,12 +421,12 @@ new QRCode(document.getElementById("qrcode3"), id);
 
     myButton_Post.addEventListener("click", async function () {
         myPopup_Post.classList.add("show");
-        // (Job ID + URL + Job Hash + Note)
+        // (Job ID + "OPEN" + URL + Job Hash + Note)
         url = document.getElementById("post_url").value;
         url_hashed_content = await url2hashed_content(url);
         job_id = await url2id(url, url_hashed_content);
         note = document.getElementById("post_note").value;
-        document.getElementById("message_Post").textContent = job_id.toString() + " " + url + " " + sumHash(url_hashed_content).toString() + " " + note;
+        document.getElementById("message_Post").textContent = job_id.toString() + " OPEN " + url + " " + sumHash(url_hashed_content).toString() + " " + note;
     });
     closePopup_Post.addEventListener("click", function () {
         myPopup_Post.classList.remove("show");
@@ -442,14 +440,14 @@ new QRCode(document.getElementById("qrcode3"), id);
 
     myButton_Done.addEventListener("click", async function () {
         myPopup_Done.classList.add("show");
-        // (Soltuion ID + Job ID + Solution URL + Solution Hash + Address)
+        // (Job ID + Soltuion ID + Solution URL + Solution Hash + Address)
         // (6 + 6 + 30 + 3 + 35)
         url = document.getElementById("done_url").value;
         url_hashed_content = await url2hashed_content(url);
         solution_id = await url2id(url, url_hashed_content);
         job_id = document.getElementById("post_tid").value;
         addr = document.getElementById("done_addr").value;
-        document.getElementById("message_Done").textContent = solution_id.toString() + " " + job_id + " " + url + " " + sumHash(url_hashed_content).toString() + " " + addr;
+        document.getElementById("message_Done").textContent = job_id + solution_id.toString() + " " + " " + url + " " + sumHash(url_hashed_content).toString() + " " + addr;
     });
     closePopup_Done.addEventListener("click", function () {
         myPopup_Done.classList.remove("show");
@@ -462,11 +460,11 @@ new QRCode(document.getElementById("qrcode3"), id);
 
     myButton_Pay.addEventListener("click", function () {
         myPopup_Pay.classList.add("show");
-        // (Job ID + Solution ID + Note)
+        // (Job ID + Solution ID + "DONE" + Note)
         job_id = document.getElementById("post_id").value;
         done_id = document.getElementById("done_id").value;
         note = document.getElementById("pay_note").value;
-        document.getElementById("message_Pay").textContent = done_id.toString() + " " + job_id.toString()  + " " + note;
+        document.getElementById("message_Pay").textContent = done_id.toString() + " " + job_id.toString()  + " DONE " + note;
     });
     closePopup_Pay.addEventListener("click", function () {
         myPopup_Pay.classList.remove("show");
