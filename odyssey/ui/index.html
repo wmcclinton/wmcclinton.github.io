@@ -191,7 +191,7 @@ tr:nth-child(even) {
     </div>
 <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
 <script type="text/javascript">
-var id = "tb1qygjvjj7pku34jkdg665lpfr2ldlt80u306tdag"
+var id = "tb1qhkdpg9qjh0y6ztpdcp7h5k5879vkhwekvhxrug"
 new QRCode(document.getElementById("qrcode1"), id);
 new QRCode(document.getElementById("qrcode2"), id);
 new QRCode(document.getElementById("qrcode3"), id);
@@ -206,7 +206,7 @@ new QRCode(document.getElementById("qrcode3"), id);
         });
 
         // Get Transactions
-        const btcVaultAddress = 'tb1qygjvjj7pku34jkdg665lpfr2ldlt80u306tdag'
+        const btcVaultAddress = 'tb1qhkdpg9qjh0y6ztpdcp7h5k5879vkhwekvhxrug'
         const address = btcVaultAddress;
         const addressTxs = await addresses.getAddressTxs({ address });
         let opreturns = []
@@ -408,7 +408,7 @@ new QRCode(document.getElementById("qrcode3"), id);
     
 
     async function url2hashed_content(url) {
-        var content = await funcRequest("https://" + url);
+        var content = await funcRequest(url);
         console.log(content);
         return await generateSHA256Hash(content);
     }
@@ -447,7 +447,7 @@ new QRCode(document.getElementById("qrcode3"), id);
         solution_id = await url2id(url, url_hashed_content);
         job_id = document.getElementById("post_tid").value;
         addr = document.getElementById("done_addr").value;
-        document.getElementById("message_Done").textContent = job_id + solution_id.toString() + " " + " " + url + " " + sumHash(url_hashed_content).toString() + " " + addr;
+        document.getElementById("message_Done").textContent = job_id + " " + solution_id.toString() + " " + url + " " + sumHash(url_hashed_content).toString() + " " + addr;
     });
     closePopup_Done.addEventListener("click", function () {
         myPopup_Done.classList.remove("show");
