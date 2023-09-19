@@ -98,6 +98,11 @@ tr:nth-child(even) {
                 <p>Fill in the info below to submit a new job to the Odyssey Network with new bounty.</p>
                 URL (Max 32 characters - try using bit.ly):<br>
                 <input type="text" id="post_url" name="post_url" maxlength="30"><br><br>
+                URL Content Code (3 characters):<br>
+                compute with script: <a href="url2code.py" download>
+                    (python)
+                </a><br>
+                <input type="text" id="post_content" name="post_content" maxlength="3"><br><br>
                 Note (Max 32 characters):<br>
                 <input type="text" id="post_note" name="post_note" maxlength="32"><br><br>
                 <button id="myButton_Post">
@@ -127,9 +132,14 @@ tr:nth-child(even) {
                     <p><b>Post Done Job</b></p>
                     <p>Fill in the info below to submit a job you completed to the Odyssey Network.</p>
                     Job ID (See Tx OPRETURN):<br>
-                    <input type="text" id="post_tid" name="post_tid" maxlength="32"><br><br>
-                    Solution URL (Max 32 characters - try using bit.ly):<br>
+                    <input type="text" id="post_tid" name="post_tid" maxlength="6"><br><br>
+                    Solution URL (Max 30 characters - try using bit.ly):<br>
                     <input type="text" id="done_url" name="done_url" maxlength="30"><br><br>
+                    URL Content Code (3 characters):<br>
+                    compute with script: <a href="url2code.py" download>
+                        (python)
+                    </a><br>
+                    <input type="text" id="done_content" name="done_content" maxlength="3"><br><br>
                     Address:<br>
                     <input type="text" id="done_addr" name="done_addr" maxlength="36"><br><br>
                     <button id="myButton_Done">
@@ -158,10 +168,10 @@ tr:nth-child(even) {
                 <div class="w3-container w3-white">
                     <p><b>Pay Done Job</b></p>
                     <p>Fill in the info below to submit a completed job to the Odyssey Network and pay developer.</p>
-                    Job id:<br>
-                    <input type="text" id="post_id" name="post_id" maxlength="32"><br><br>
-                    Solution id:<br>
-                    <input type="text" id="done_id" name="done_id" maxlength="32"><br><br>
+                    Job ID (See Tx OPRETURN):<br>
+                    <input type="text" id="pay_post_id" name="pay_post_id" maxlength="6"><br><br>
+                    Solution ID (See Tx OPRETURN):<br>
+                    <input type="text" id="pay_done_id" name="pay_done_id" maxlength="6"><br><br>
                     Note (Max 32 characters):<br>
                     <input type="text" id="pay_note" name="pay_note" maxlength="32"><br><br>
                     <button id="myButton_Pay">
@@ -393,19 +403,10 @@ new QRCode(document.getElementById("qrcode3"), id);
 
     // Example usage
     generateSHA256Hash(undefined);
-    
 
-    async function url2hashed_content(url) {
-        var content = undefined; //await funcRequest(url);
-        console.log("content:");
-        console.log(content);
-        console.log("content end");
-        return await generateSHA256Hash(content);
-    }
-
-    async function url2id(url, hashed_content) {
+    async function url2id(url, url_content_code) {
         // ID = Sum(URL Hash) + Sum(URL Content Hash)
-        return sumHash(await generateSHA256Hash(url)).toString() + sumHash(await url2hashed_content(url)).toString();
+        return sumHash(await generateSHA256Hash(url)).toString() + url_content_code;
     }
 
 
@@ -413,10 +414,10 @@ new QRCode(document.getElementById("qrcode3"), id);
         myPopup_Post.classList.add("show");
         // (Job ID + "OPEN" + URL + Job Hash + Note)
         url = document.getElementById("post_url").value;
-        url_hashed_content = await url2hashed_content(url);
-        job_id = await url2id(url, url_hashed_content);
+        url_content_code = document.getElementById("post_content").value;
+        job_id = await url2id(url, url_content_code);
         note = document.getElementById("post_note").value;
-        document.getElementById("message_Post").textContent = job_id.toString() + " OPEN " + url + " " + sumHash(url_hashed_content).toString() + " " + note;
+        document.getElementById("message_Post").textContent = job_id.toString() + " OPEN " + url + " " + url_content_code + " " + note;
     });
     closePopup_Post.addEventListener("click", function () {
         myPopup_Post.classList.remove("show");
@@ -433,11 +434,11 @@ new QRCode(document.getElementById("qrcode3"), id);
         // (Job ID + Soltuion ID + Solution URL + Solution Hash + Address)
         // (6 + 6 + 30 + 3 + 35)
         url = document.getElementById("done_url").value;
-        url_hashed_content = await url2hashed_content(url);
-        solution_id = await url2id(url, url_hashed_content);
+        url_content_code = document.getElementById("done_content").value;
+        solution_id = await url2id(url, url_content_code);
         job_id = document.getElementById("post_tid").value;
         addr = document.getElementById("done_addr").value;
-        document.getElementById("message_Done").textContent = job_id + " " + solution_id.toString() + " " + url + " " + sumHash(url_hashed_content).toString() + " " + addr;
+        document.getElementById("message_Done").textContent = job_id + " " + solution_id.toString() + " " + url + " " + url_content_code + " " + addr;
     });
     closePopup_Done.addEventListener("click", function () {
         myPopup_Done.classList.remove("show");
@@ -451,10 +452,10 @@ new QRCode(document.getElementById("qrcode3"), id);
     myButton_Pay.addEventListener("click", function () {
         myPopup_Pay.classList.add("show");
         // (Job ID + Solution ID + "DONE" + Note)
-        job_id = document.getElementById("post_id").value;
-        done_id = document.getElementById("done_id").value;
+        job_id = document.getElementById("pay_post_id").value;
+        done_id = document.getElementById("pay_done_id").value;
         note = document.getElementById("pay_note").value;
-        document.getElementById("message_Pay").textContent = done_id.toString() + " " + job_id.toString()  + " DONE " + note;
+        document.getElementById("message_Pay").textContent = job_id.toString() + " " + done_id.toString()  + " DONE " + note;
     });
     closePopup_Pay.addEventListener("click", function () {
         myPopup_Pay.classList.remove("show");

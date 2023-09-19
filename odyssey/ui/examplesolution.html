@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/default.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+</head>
+<body>
+
+<h1>Job 0 - Solution (An Example Job for Odyssey)</h1>
+<br>
+<p>Hello,</p>
+<br>
+<p>See code below:</p>
+<br>
+<pre><code class="python">
+    import os
+    from hashlib import sha256
+    import sys
+    
+    try:
+        assert len(sys.argv) == 2
+    except AssertionError:
+        raise Exception("Missing website url try running: python url2code.py {webiste-url}")
+    
+    url = sys.argv[1]
+    output_stream = os.popen("curl " + url)
+    urlcontent = output_stream.read()
+    hex = sha256(urlcontent.encode('utf-8')).hexdigest()
+    print(hex)
+    
+    hex_sum = 0
+    for c in hex:
+        hex_sum += int(c, 16)
+    print("If code is 484 please check website and try again.")
+    print("URL content code:", hex_sum)
+
+</code></pre>
+<a href="url2code.py" download>
+    Download
+</a>
+<br>
+</body>
+</html>
