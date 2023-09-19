@@ -61,18 +61,23 @@ tr:nth-child(even) {
 <body class="w3-white w3-content" style="max-width:1600px">
     <div class="w3-main" style="margin-left:30px;margin-right:30px">
         <h1>Odyssey</h1>
-        <p><strong>Use UI to send OPRETURN message to this (testnet) address.</strong></p>
-        <p>WARNING! No way to remove or change this job once submitted.</p>
-        <p>Developers will attempt to accomplish your job until a DONE transaction is submitted.</p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
+        <p><strong>Odyssey is a protocol for posting Odd Jobs (od-jobs) to Bitcoin Network</p>
+        <p>Use this UI to send OPRETURN messages to Odyssey (testnet) address.</strong></p>
+        <p>WARNING! No way to remove or change an od-job once submitted.</p>
+        <p>Developers will attempt to accomplish your od-job until a DONE transaction is submitted.</p>
+        <br>
+        <p>Examples:</p>
+        <a href="https://wmcclinton.github.io/odyssey/ui/examplejob.html" title="bitcoin" target="_blank" class="w3-hover-opacity">Example Job</a>
+        <br>
+        <a href="https://wmcclinton.github.io/odyssey/ui/examplesolution.html" title="bitcoin" target="_blank" class="w3-hover-opacity">Example Solution</a>
+        <br>
+        <br>
         <p><strong>Click the headers to sort the table.</strong></p>
         <p>The first time you click, the sorting direction is ascending (A to Z).</p>
         <p>Click again, and the sorting direction will be descending (Z to A):</p>
 
         <p id="result"> Status: Loading...</p>
+        <br>
 
         <table id="myTable">
         <tr>
@@ -87,15 +92,13 @@ tr:nth-child(even) {
             <td>Loading...</td>
         </tr>
         </table>
-
-        <p></p>
-        <p></p>
+        <br>
 
         <div class="w3-row-padding">
             <div class="w3-third w3-container w3-margin-bottom">
               <div class="w3-container w3-white">
-                <p><b>Post New Job</b></p>
-                <p>Fill in the info below to submit a new job to the Odyssey Network with new bounty.</p>
+                <p><b>Post New Odd Job</b></p>
+                <p>Fill in the info below to submit a new od-job to the Odyssey Network with new bounty.</p>
                 URL (Max 32 characters - try using bit.ly):<br>
                 <input type="text" id="post_url" name="post_url" maxlength="30"><br><br>
                 URL Content Code (3 characters):<br>
@@ -113,7 +116,7 @@ tr:nth-child(even) {
                         <h1 style="color:black;">
                                 Odyssey
                             </h1>
-                        <p>Post New Job to Odyssey Network</p>
+                        <p>Post New Odd Job to Odyssey Network</p>
                         <div id="qrcode1" ></div>
                         <p></p>
                         <p>[IMPORTANT] Add OPRETURN Message:</p>
@@ -129,8 +132,8 @@ tr:nth-child(even) {
             </div>
             <div class="w3-third w3-container w3-margin-bottom">
                 <div class="w3-container w3-white">
-                    <p><b>Post Done Job</b></p>
-                    <p>Fill in the info below to submit a job you completed to the Odyssey Network.</p>
+                    <p><b>Post Done Odd Job</b></p>
+                    <p>Fill in the info below to submit a od-job you completed to the Odyssey Network.</p>
                     Job ID (See Tx OPRETURN):<br>
                     <input type="text" id="post_tid" name="post_tid" maxlength="6"><br><br>
                     Solution URL (Max 30 characters - try using bit.ly):<br>
@@ -150,7 +153,7 @@ tr:nth-child(even) {
                             <h1 style="color:black;">
                                     Odyssey
                                 </h1>
-                            <p>Submit Completed Job to Odyssey Network</p>
+                            <p>Submit Completed Odd Job to Odyssey Network</p>
                             <div id="qrcode2" ></div>
                             <p></p>
                             <p>[IMPORTANT] Add OPRETURN Message:</p>
@@ -166,8 +169,8 @@ tr:nth-child(even) {
             </div>
             <div class="w3-third w3-container w3-margin-bottom">
                 <div class="w3-container w3-white">
-                    <p><b>Pay Done Job</b></p>
-                    <p>Fill in the info below to submit a completed job to the Odyssey Network and pay developer.</p>
+                    <p><b>Pay Done Odd Job</b></p>
+                    <p>Fill in the info below to submit a completed od-job to the Odyssey Network and pay developer.</p>
                     Job ID (See Tx OPRETURN):<br>
                     <input type="text" id="pay_post_id" name="pay_post_id" maxlength="6"><br><br>
                     Solution ID (See Tx OPRETURN):<br>
@@ -182,7 +185,7 @@ tr:nth-child(even) {
                             <h1 style="color:black;">
                                     Odyssey
                                 </h1>
-                            <p>Send Job Payment to Odyssey Network</p>
+                            <p>Send Odd Job Payment to Odyssey Network</p>
                             <div id="qrcode3" ></div>
                             <p></p>
                             <p>[IMPORTANT] Add OPRETURN Message:</p>
