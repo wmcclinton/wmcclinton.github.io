@@ -369,46 +369,6 @@ new QRCode(document.getElementById("qrcode3"), id);
     }
 </script>
 <script>
-    function makeHttpObject() {
-        try {return new XMLHttpRequest();}
-        catch (error) {}
-        try {return new ActiveXObject("Msxml2.XMLHTTP");}
-        catch (error) {}
-        try {return new ActiveXObject("Microsoft.XMLHTTP");}
-        catch (error) {}
-
-        throw new Error("Could not create HTTP request object.");
-    }
-
-    var request = makeHttpObject();
-    request.open("GET", "https://google.com", true);
-    request.send(null);
-    request.onreadystatechange = function() {
-    if (request.readyState == 4)
-        alert(request.responseText);
-    };
-
-    async function funcRequest(url){
-        await fetch(url)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-            console.log("response");
-            console.log(response.text());
-            return response.text();
-        })
-        .then(data => {
-            // Display the fetched content in the "content" div
-            document.getElementById('content').innerHTML = data;
-        })
-        .catch(error => {
-            console.error('Fetch error:', error);
-        });
-    }
-
-    
-
     function sumHash(hash) {
         let total = 0;
         for (let i = 0; i < hash.length; i++) {
@@ -436,7 +396,7 @@ new QRCode(document.getElementById("qrcode3"), id);
     
 
     async function url2hashed_content(url) {
-        var content = await funcRequest(url);
+        var content = undefined; //await funcRequest(url);
         console.log("content:");
         console.log(content);
         console.log("content end");
