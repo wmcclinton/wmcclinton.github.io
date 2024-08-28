@@ -1,0 +1,49 @@
+- Eshar Next Sat
+- 
+- Watch Capital Markets Video
+    - Study
+    - Make Sheet
+- Stock game:
+    - separate deck into: A, J, Q, K (face cards)  and 2-10 (number cards)
+    - shuffle number cards and flip cards until you see a black:
+        - that is the starting price for the day
+            - * $100
+        - continue to flip cards over these are percentage up or down each hour for 8hrs (cards) after the starting price
+    - after each flip of a card: play the Ace or Queen to buy at a price and Jack or King to sell respectively.
+    - If you don’t sell by the end you get the closing price
+    - you can play Ace and Queen at the same time to double down
+    - play until someone gets to $200 or someone goes bankrupt (start with $100)
+    - 2 players each player gets 2 sets of face cards if 3-4 each player gets 1 set if 5-8 each player gets 1 pair of face cards
+- Multi regression to portfolio returns of risk factors
+    - every signal defines a series of portfolios which has a price that defines returns
+    - you can find the price of a portfolio by a weighting of arrow debreau securities
+        - so a return is you have some weighting at t and then have some other weighting at t+1, the difference of the return
+        - EMH means no arbitrage at each t
+        - let’s take each stock as an arrow debreau security -> you shouldn’t have more factors than you have stocks???
+- Sat
+    - Sev Docs
+    - Study for test
+    - Meet Fabric
+- Sun
+    - Madina Birthday
+    - Junto
+- Mon
+    - Alphanomics
+    - Study for test
+    - Meet Nobel Dao
+- Tue
+    - Take Test
+    - Thesis draft
+    - WSQ Project
+- 
+- [[Values]]
+    - Things to do once you have free time ((after PhD):
+        - Make Useful Intelligent Robots - LLM + Predicators + Diffusion Policies
+        - Make Self Sufficient Home
+        - Make Self Sufficient Bottle Ecosystem
+        - Write Book of Everything / Atlas
+            - Create Digital Library (VR + docs)
+        - Read Books
+        - Games:
+            -  Remake Rymdkapsel with emailed additions
+            - Make real tier wild animal simulator

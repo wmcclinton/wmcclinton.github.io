@@ -1,0 +1,18 @@
+- B4 plane:
+    - Go to temple KL
+    - Charge Phone
+    - Download YT video (Econometrics)
+    - On plane just think about projects and what to focus on this semester and then next. Focus on spending more time with Sevara
+- dydx diagram for teddy swap
+    - need oracles
+- Take care of your body
+- To do on Plane:
+- - Make Waswas proposal document:
+    - Trained using Alpaca and RLHF
+    - Training Sharia Compliance Agent on top of ChatGPT
+    - Train Midjourney with Sharia approved data and query checker
+- - Make Fabric Todos
+- Make plan for TLPK and Masters Thesis
+- Make Time distribution plan for DCI (CBDC, Aneta, and Fabric), LIS (Masters Thesis and BD), and Econometrics/Quant, and BJJ/Excersize
+- Teddy Swap Leverage Trading Diagram
+- Post and Delete IG

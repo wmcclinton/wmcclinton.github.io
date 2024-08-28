@@ -1,0 +1,10 @@
+- see yesterday
+- idea
+    - personal ai, librarian looks through folders and files with long as context window to find relevant information
+    - like google Search but for personal content
+- deriving black scholes
+- WSQ 3pm
+- Write about AGI solution
+    - VLMs to symbolic concepts like predicates or objects via optimizing our object
+    - what are the proxy objectives 
+    - ASRI+Life

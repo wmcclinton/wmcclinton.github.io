@@ -1,0 +1,16 @@
+- {{[[DONE]]}} Workout
+- {{[[DONE]]}}  WSQ Problems 10:30-12:30
+- {{[[DONE]]}} BD 1-4:30
+- {{[[DONE]]}}  BJJ and Judo 6:00-7:00 BJJ, 7:00-8:00 Judo
+- {{[[DONE]]}}  Respond to Dan Gould ODA
+- {{TODO}}  Start Studying for Capital Markets - Test Thursday 9am
+- Later:
+    - Fix grades from Fall F and I
+    - Check on Doni and SATI
+    - Make Harry Z my peer
+    - Do WSQ Questions
+    - Read more money than God Book
+    - Look into Jane Street trade
+    - Write about 2yr prediction from now
+    - {{TODO}}  Alphanomics Project
+    - {{TODO}}  Clean

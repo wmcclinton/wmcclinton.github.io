@@ -1,0 +1,137 @@
+- Get STFU Money
+    - remember the annoying ness of Hawaii
+    - so people stop asking you to do things and you can do what you want
+    - you felt trapped by asks, not having the space to do what you want
+- [[VFT]]
+    - Good starting point: https://www.twosigma.com/wp-content/uploads/2021/07/Using-Factors-to-Explain-Risk-in-Crypto-Assets-3.pdf
+        - look into lead lag patterns
+            - Bitcoin goes up, Alts go up
+            - Bitcoin goes down Alts go down
+    - Epsilon Strat:
+        - Strategy 3: Epsilon
+            - Strategy is two fold:
+                - Do a large (coarse analysis) to small deep dive analysis on stocks to find some good short-medium terms stocks to hold from weeks to months. For these I need to define testable hypotheses and theories about the market and test them with pre-defined exit positions and period to manage risk (semi-automatically managed).
+                - Run uncorrelated long-term portfolio, these holdings need to be managed automatically. For example, I want an uncorrelated NVIDIA portfolio that only provides returns based on NVIDIA's returns uncorrelated from the market.
+- Get Stronger and Less Scared
+- Sell Crypto Quant Trading Tech
+    - A few high paying clients
+- Know what you want
+- List if everything:
+    - (School) PhD - papers (3 more)
+        - 30hrs
+    - (School) Classes
+        - 5hrs
+    - (Work) Schonfeld - Miami Summer (then return)
+        - 10hrs
+    - (Work) WSQ - Become as good and active as Jim
+        - 10hrs
+    - (Slow) VFT - Annual Returns File (uncorrelated)
+        - 5hrs (During Fall)
+    - (Slow) Pylego - Sell 10, get people to build
+        - 5hrs (Before Fall)
+    - (Maintenance) BJJ, Judo, Walking, and Diet: Purple and 165 12%
+        - 15hrs
+- Focus takes FQ/IQ:
+    - Focus on making money (Schonfeld and Systematic Crypto Trading) and finishing your PhD (pylego on the side)
+    - BJJ, Judo, Walking, and Diet For Fitness
+- Be serious about your cash flow diagram
+    - Asset is measured by the income it generates not the price
+    - Control:
+        - 1. Income
+        - 2. Expenses
+- You can predict a persons future based on what they spend their time and money on
+- Remember Rich Dads advice rebuild the business and get the FQ:
+    - algorithmic crypto trading
+    - How to train a transformer?
+- Increase your financial IQs:
+    - 1. Making More Money
+    - 2. Protecting your Money
+    - 3. Budgeting your Money
+    - 4. Leveraging your Money
+    - 5. Improving your financial information
+- The process enjoy the procees
+    - what is the best way to improve your money making $/time - Finish PhD get QR role and match Citadel pay at a more relaxed shop 
+    - Land AI Data Center Deal (continue this part time with above ^)
+- What financial problems do you need to solve?
+    - Make more surplus
+    - Learn to start a business and do business taxes (pay less taxes)
+- And others:
+    - 1. Academic Intelligence
+    - 2. Professional Intelligence
+    - 3. Health Intelligence
+- If I make investing my career then I can’t be a successful investor and be poor
+    - I could be a successful academic and be poor
+- Take Information Theory or Micro Econ
+    - https://news.gallup.com/businessjournal/107584/relearning-economics.aspx
+    - 
+- Get comfortable with risk and constantly feeling uncomfortable/growing - doing well in this thing and applying to the next thing
+- What’s important is a stable mind and values:
+    - Remember Philosophy and Religion
+        - Western
+            - Stoicism
+            - Judeo-Christian
+            - Greeks
+        - Eastern
+            - Taoism
+            - Budism
+            - Hinduism
+- Figure out what you want?
+    - money stability, nice life?
+    - https://80000hours.org/2012/01/salary-or-startup-how-do-gooders-can-gain-more-from-risky-careers/
+    - Don’t forget passive income, keeping up with Jim, building businesses, All-In Podcast
+- Why not Schonfeld full-time after Winter Break
+- Become the best AI trader
+    - Focus on Passive Income Investments
+    - Crypto and Micro/Nano Caps
+- A Game Like Manifold Markets and out predict humanity
+    - https://en.m.wikipedia.org/wiki/Manifold_(prediction_market)#:~:text=Miles%2C%20and%20Destiny.-,Market%20structure,quality%2C%20with%20clear%20resolution%20criteria
+    - 
+- Storage and Data is important, make your own personal little Datacenter
+- Really Hammer Home the PC revolution of robotics
+- Join the ship Haves and Have nots of the AI revolution
+- Perfect Life:
+    - Schonfeld 3-4 days/week
+        - $250k + Bonus ($100-$200k)
+    - Crypto Trading + Data Centers 2-3 days/week
+        - $120k + equity (%1 of 1Bill)
+    - 5 years in Quant
+    - 20 years running global Robotics Program
+- How to make my first million dollars?
+- Then Billion?
+- Join MIT Trading/Quant Club
+- Think about your love of data - AI datacenters
+    - and learnings from Schon
+- Don’t be afraid try it again, Make plans for Virtue Foundation Trading
+    - $20k from Manish and Niel
+    - $10k from Me + Fam
+    - $5k from internship
+- Facts and trends:
+    - Crypto will be the economic default important
+    - Green Energy will be the default
+    - AI and Robotics will 10x global productivity
+    - AR/VR will continue to progress
+    - Natural Resources and Real Estate will still be important but deals will come up as economies evolve and people move
+- Make Really Good Pylego Product:
+    - Me: Product
+        - it should look like an Apple product: sleek, small, cheap, and capable
+    - Axhens: Marketing
+        - Sell 100
+    - Father: Assembly
+        - Make 100
+- $100k Vanguard
+    - 100% S&P 500
+- Todo:
+    - Remember One Thing that Ryan did learn from Schonfeld was don't be afraid for an appetite for Risk
+    - Think about MIT Catlyst
+    - Make Plan for PhD:
+        - 2 First author papers (black box skills and Advay)
+        - 1 workshop (Advay)
+        - 1 journal (past work)
+    - Make plan for $1 Italian home Summer 2025
+        - Find a mentor - email/call people who’ve done it before
+    - Find who owns this land:
+        - # 12°35'28.2"N 70°02'29.6"W
+        - ## 12.591178, -70.041554
+        - 60ft*120ft = 7200 sqft at around $11 per sqft
+- WSQ Question:
+    - DRW: If you are playing a game where you get 100 flips and you get paid out depending on how much (Heads / Total Flips ) x $100, you can stop at anytime. How would you play the game?

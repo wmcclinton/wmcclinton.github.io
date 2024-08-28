@@ -1,0 +1,15 @@
+- Todo:
+    - Schonfeld write up
+    - [[Schonfeld]]
+        - Diffusion Models for Order Book Modeling
+            - Pros:
+            - Cons:
+        - Supply Chain Analysis
+            - Pros:
+            - Cons:
+        - Automated Alpha Discovery and Testing
+            - Pros:
+                - most alpha we know about it’s just knowing when and when not to use it (measuring alpha decay)
+            - Cons:
+    - Finish Most of EI book
+    - Finish 100 Questions + Make Week Plan

@@ -1,0 +1,29 @@
+- Slides
+- Morning Routine
+- Plan for Virtue Foundation LLC
+- Mutual Funds -> Index Funds -> Hedge Funds -> AIX Funds???
+- Behavioural Economics class
+- It’s hard to beat the Dow at a large institution
+    - average picks
+    - irrational diversification
+    - rewards don’t match risks
+    - inertia
+- Evaluate your investment skills
+- [[Ground Rules]] 6 lessons:
+    - think of stocks as fractional ownership of businesses
+    - that swing irradically in the short term
+    - aligns with fundamentals over the long term
+    - viewed through lenses of long term compounding
+    - tend to produce great returns
+    - with an index product, it can be captured in a low cost way easy to implement way
+- [[Ground Rules]]
+    - Measure by:
+        - How (against the Dow )
+        - How long (minimum amount of time to measure)
+        - Test should be established in advanced
+- [[Predicators]]
+    - Skills:
+        - Door Opening
+        - Fridge/Drawer Opeing
+        - Putting Inside
+- Organize Junto meeting

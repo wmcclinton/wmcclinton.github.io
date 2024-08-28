@@ -1,0 +1,35 @@
+- New Years Resolution for New Year Resolve
+    - Body
+        - Get In Shape
+        - Compete Again In Comp
+    - Mind
+        - Make Quant Atlas
+        - Read
+        - Stay up to date watch Bloomberg
+    - Soul
+        - Meditate
+        - More Reflection
+        - Reread religious and philosophical texts
+    - Robots/AI, QR/Finance, BJJ/Health, Fabric/DCI
+        - Masters + RSS, Bakrat Paper, and Continual Learning Paper
+        - Get full time offer (In the zone - Daily Bloomberg/Hacking/Training)
+            - Schonfeld
+            - Two Sigma
+            - DE Shaw
+            - Citadel
+            - JaneStreet
+            - etc:
+                - AQR
+                - HRT
+        - Best shape of life
+    - Make list of books and courses to finish this year
+        - Advanced Portfolio Theory
+        - Active Equity Managments
+        - All of Statistics
+        - Warren Buffet Ground Rules
+        - Intelligent Investor
+        - FAQs in Quant
+        - Real Analysis Course
+        - Econometrics Course
+            - Alphanomics
+            - Capital Markets Harvard

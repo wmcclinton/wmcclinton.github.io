@@ -1,0 +1,13 @@
+- Email Heather for Manish
+- Go to Wedding appointment
+- Fix Testnet
+- Write and Send Dev update in the morning
+- Plan week
+- Workout
+- Financial board game scehdule
+- Friday meet Joe and Hannah shen
+- Thursday Neha Meeting
+- Tonight
+    - Plan Night
+    - Plan Week
+- Speak less, communicate more

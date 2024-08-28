@@ -1,0 +1,25 @@
+- Todo:
+    - Read, Read, Read, make note and find signals
+- [[Schonfeld]]
+    - The process of finding a signal
+        - Inspirations:
+            - Quantpedia
+            - SSRN
+            - Papers
+        - The Data
+            - Visualize the returns you want to predict, alongside the data you have - transform the data into different scalars for each concept so it’s visualized well - either raw or detrended is fine
+        - The Holes
+            - Try to see what parts of the signal are correlated and what parts are not for each different data
+            - How can they be systematically combined to match the data
+                - it’s like a puzzle where every data can be: x, +, floored, ceiling, temporally shifted backwards
+        - The Explanation
+            - Now that you have a match why does it make sense, you are capitalizing on a market misallocation. Which one of these explains it:
+                - behavioral factor
+                - paid for risk
+                - information advantage
+                - liquidity providing
+        - The Testing
+            - Now run your stats and visualizations to see if your signal is robust
+            - Finally when all parameters are fixed and chosen run backtest
+        - Important Note:
+            - What’s important in all of these is simplicity, reframe from complex data/ signals, complex compositions of them, weird esoteric explanations, and crazy testing strategies / parameter finding

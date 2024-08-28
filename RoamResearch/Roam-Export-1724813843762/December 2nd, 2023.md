@@ -1,0 +1,4 @@
+- Wouldn’t be too hard to make fully differentiable planning work with continuous actions
+- conjecture: sufficiently deep enough state vector handles non deterministic models i.e. state distribution instead of states
+- you need an objective and architecture for example masking objective works for learning distributions of patterns discrete symbolic chunks only with Transformers. We have an object now we just need an architecture
+- Maybe objective and architecture are the same thing like maybe a slightly more complex masking objective might work with vanilla nns

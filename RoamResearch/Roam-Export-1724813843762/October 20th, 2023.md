@@ -1,0 +1,35 @@
+- Get into shape, burn fat
+- Tonight:
+    - Fabric group chats
+    - Fabric Socials: a Weekly Updates, Twice a week hype post
+    - Doni plan and update, in 2 years run Fabric and Malaysia Research Center
+    - Make Competitor Chart and Points of Differentiation
+    - Add as a model type: https://dreamgaussian.github.io/
+    - ^ Right list of models/apps
+    - Finish MVP
+- Add check on DCI Slack and OpenCBDC Maintainers Channel
+- Add email Quantbot about Schonfeld offer
+- Print Max Dama, Project Hamilton, and Parsec paper
+- BD and then recitation Tmrw
+- Sign up for final quant session
+- Get book of 100+ greatest math riddles
+- 
+- Be better - Your lively hood depends on it
+- {{[[DONE]]}} Morning Calesthetics 10min
+- {{[[DONE]]}} Morning Stretching 5min
+- {{TODO}} Meditate 10min
+- {{TODO}} Write goals (PhD, QR, DCI - 1 each):
+    - PhD: Lab Meeting @4
+    - PhD: WUD + Predicators (Holding Handle)
+    - QR: Econometrics Recitation
+    - QR: Read lessons from dead economists
+    - DCI: Clean-up Fabric
+    - DCI: Decide on Apam Migonvi
+    - Clean House
+    - Newburyport Tmrw
+- Day Notes:
+    - 
+- Evening
+    - {{TODO}} Excerize
+    - {{TODO}} Hygiene and Skincare
+    - {{TODO}} Read 30min

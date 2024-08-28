@@ -1,0 +1,47 @@
+- TODO:
+    - Einstein Meeting
+        - Metrics for usage algorithm
+            - Type
+            - Liked or dislike
+            - Global Engagement
+            - Personal Engagement
+            - Similarity to other models via response testing
+            - Conversations for free down the road
+        - Discussion points
+            - TODO:
+                - Onboard Usmon
+                    - Max and Ben 
+                    - Khan Board
+                    - Slack
+            - January MVP done
+            - Algorithm picking algorithmn
+            - Fast Models
+    - RSS Paper and Diagram
+    - Watch Psychological Bias Videos
+    - Fix Habits to only 3
+        - 1. study qr
+    - Sheet of People Btc club
+    - Bitcoin Expo Website
+        - Tickets
+        - Write-up
+        - Peoples Pics
+        - Logo
+    - Write CoLLA paper
+    - Email Xinfeng Zhou about book appreciation and ask questions
+        - loved book
+        - ask for mentorship
+    - Finish AEM book
+    - Write about both books
+- [[Schonfeld]]
+    - Research Questions can Transformers predict order book flow
+    - Can it predict Volume?
+        - If it can predict price and volume then what’s the best way to turn it into an indicator?
+            - Money Flow Index - Volume and Direction
+            - OBV which is simpler to predict
+            - Maybe even Accumulation/Distribution Line
+            - Our should we collapse into price and use price indicators
+    - Read
+        - Momentum:
+            - Jegadeesh and Titman 1993
+            - Chen and De Bondt 2004
+            - Rachel et al 2007

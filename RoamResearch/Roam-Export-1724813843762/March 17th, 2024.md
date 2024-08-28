@@ -1,0 +1,22 @@
+- {{[[DONE]]}} 100 Pushups
+- {{[[TODO]]}} 50 Crunches
+- {{TODO}} 50 Reverse Crunches
+- {{[[DONE]]}} 100 Jumping Jacks
+- {{TODO}} 100 Squats
+- {{TODO}} Quick Run
+- {{TODO}} Shower
+- {{TODO}} Meditate
+- {{TODO}} Focus on being best: AI, QR, Crypto
+- 
+- 
+- 
+- Morning Step [[roam/templates]]
+    - {{TODO}} 100 Pushups
+    - {{TODO}} 50 Crunches
+    - {{TODO}} 50 Reverse Crunches
+    - {{TODO}} 100 Jumping Jacks
+    - {{TODO}} 100 Squats
+    - {{TODO}} Quick Run
+    - {{TODO}} Shower
+    - {{TODO}} Meditate
+    - {{TODO}} Focus on being best: AI, QR, Crypto

@@ -1,0 +1,3 @@
+- Finish RSS and Make WSQ study plan
+- Finish BJJ book
+- Meet with Advay on Monday

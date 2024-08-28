@@ -1,0 +1,90 @@
+- Surround yourself with finance people (experts)
+    -  Dropout
+    - Take RDPD advice
+    - Learn from others and grow your wealth bit by bit
+- Do your PhD after your 40 once your a millionaire already
+- Priorities:
+    - Become a great Quant (eventually in Crypto)
+        - Coursework
+        - Self Study
+        - Ask Questions and take notes
+        - Feynman notebook
+    - Learn business the RDPD way
+    - Hobby Robotics and Crypto
+- Later:
+    - Finish PhD
+    - Invest in Radical Markets
+    - Build at home robot
+- [[Values]] Listening to these things is not important if you don’t document and organize it and with you don’t apply it. the mind is a faulty thing journals and mechanical minds can enhance it by a lot
+    - create a network of people companies citations etc growing your idea of:
+        - How does one provide value in the world?
+        - How does one make money?
+        - How do you maintain wealth?
+        - What parts of these can be automated by machines and what cannot? Most importantly why?
+            - remember to stick to first principles
+    - Knowledge dump - refine these:
+        - Rich Dad Poor Dad, FIRE, FQ:
+            - Basics of growing Financial IQ
+        - Richest man in Babylon:
+            - Simple rules
+        - Inside the Black Box:
+            - What do quants do
+        - Advanced Portfolio Management:
+            - Details of the mathematics of portfolio management
+        - Active Equity Management - Zhou:
+            - More basics and details of portfolio management - specific for quants
+        - Mastering Bitcoin and Etheruem:
+            - How Blockchains work
+        - Internet of Money:
+            - The Bitcoin promise
+        - New Ideas from Dead Economists:
+            - History of Economic Thought
+        - Radical Markets:
+            - Imagining a future of how equitable economy can be
+        - High Performance Habits:
+            - How to perform
+        - Principles of Corporate Finance:
+            - Corporate Finces
+        - Bloomberg Course:
+            - Basic concepts
+        - Harvard Probablitiy Course:
+            - Basic concepts
+        - Intelligent Investor - Ben Graham
+            - How to manage investments and spot value
+            - Mr. Market
+        - Warren Buffet Ground Rules
+            - Same of above ^
+            - Figure out what works for you
+            - Mr. Market
+        - Quantitative Trading: How to Build Your Own Algorithmic Trading Business - Ernest Chan
+            - How does a Quant Business work
+        - Starting Your Career as a Wall Street Quant: A Practical, No‑BS ... by Brett Jiu
+            - Getting Started (I.e. getting a job)
+        - Future Readings:
+            - All of Statistics: A Concise Course in Statistical Inference - Larry A. Wasserman
+            - Option Pricing and Volatillity by Natenberg
+            - Frequently Asked Questions in Quantitative Finance - Paul Wilmott
+            - Max Dama
+            - Paul Dominic
+            - Machine Trading: Deploying Computer Algorithms to Conquer the Markets - Ernest Chan
+            - Algorithmic Trading: Winning Strategies and Their Rationale by Ernest P. Chan
+            - Advances in Financial Machine Learning - Marcos Lopez de Prado
+            - 151 Trading Strategies by Zura Kakushadze, Juan Andres Serur
+            - Introductory Econometrics by Brooks
+            - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Hastie: https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf
+            - Unkown Market Wizards by Jack Schwager
+            - Probability with Martingales  by Williams
+        - Past Readings:
+            - https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I/
+            - Machine Learning Course by Andrew Ng: https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+        - Do this for papers:
+            - 
+        - You can use ChatGPT to help flesh this out
+    - Other notes:
+        - Buying big companies are same are buying little companies at the end of the day your buying stake in the business if you buy enough of it you’ll be in control of what to do with it
+            - Stake holder capitalism - do more research in this
+            - Intrinsic Value usually via appraisals
+                - Earnings based or asset based, typically linked and used for different reasons
+                    - a company with healthy earnings you use earnings based approach, if not like a company that is about to go under you use and asset based (sometimes their assets can even be above their current market price)
+            - Growth stocks are hard to measure but what I arguably would say brings growth to the market
+    - Make a Max Dama na d Paul Dominic type guide for yourself

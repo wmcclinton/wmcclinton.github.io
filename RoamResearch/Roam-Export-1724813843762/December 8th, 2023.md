@@ -1,0 +1,18 @@
+- Go to BD and do skill
+    - Run Test Code
+    - Run Skill Code
+    - Combine
+    - Make plan for Extract and Insert NSRTs
+    - Generate Plan
+- Meet TLPK at 1pm
+- Thesis do Tonight and Saturday (Get out sometime next week)
+- 
+- Todos:
+    - Setup Linux on 2 PCs
+    - Petal private swarm
+    - Make Private Blockchain (only proof of work)
+    - Draw up V1 (central), V2 (partially central -proof of storage and partial proof of inference), V3 (decentral) Infrastructure Versions
+    - Thesis
+- 
+- Something about representation and optimization are the same thing any optimization problem can put inside the representation and vice versa
+- Email Tongzhou about compositionallity and planning

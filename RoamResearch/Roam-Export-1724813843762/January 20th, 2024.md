@@ -1,0 +1,12 @@
+- Send Job Postings to Bob
+- Project Plan and 100-200 Employment numbers in a Year
+- Order Bolognese stuff
+- RSS Section
+- CoLLA Paper
+- ICML Paper
+- Bitcoin Expo
+    - Webiste
+    - Tickets
+    - Logo
+    - Peoples Images
+- Study for Capital Markets

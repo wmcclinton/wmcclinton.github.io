@@ -1,0 +1,7 @@
+- Respond to
+    - Peter
+    - Advay
+    - MyQuantitative
+    - NeuroTrader
+- Write RSS - make figure
+- Email about Thesis

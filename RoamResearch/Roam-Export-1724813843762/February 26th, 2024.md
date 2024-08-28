@@ -1,0 +1,23 @@
+- X 8:30 Go to Alphanomics
+- X 11 Email DCI
+    - Add Cory Fields to the list and connect with block stream people
+- x 2:30 meet NTU professor
+- X Sensus info to NTU professor
+- X respond to Jonas
+- Wed pm meet with CJ
+- Thursday met Nobel Dao people
+- 
+- Respond to WSQ
+- 
+- Prepare for Test
+- Prepare to Leave for Malaysia
+- Do HW
+- Do signal conversion
+- Do WSQ update - French and Fama Crypto
+- PhD make plan and progress
+- Make Malyasia Plan
+- Read Books
+    - In pursuit of perfect portfolio
+    - When geniuses fail
+    - Adaptive markets
+    - Quantitative Value

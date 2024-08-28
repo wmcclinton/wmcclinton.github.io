@@ -1,0 +1,41 @@
+- Week
+    - M - Clean, BJJ, Courses, Todos
+    - T - Meet Advay, Atlas, Research, and Write RSS
+    - W - BD and BJJ, MIT BITCOIN EXPO
+    - Th - BD and BJJ, Write RSS
+    - F - BD, BJJ, Research
+    - Sa - BJJ and Meet Austin
+    - Su - Figure out Cleaners and Family Subscriptions, and Clothes
+- Todo email
+    - x MIT BITCOIN Expo
+    - Meditate to control your focus and dedication
+- x Todo buy
+    - Nose patch
+    - shampoo
+    - hair moisturizer 
+- Controlling your focus is very important
+- Game idea (do next weekend - think about robots)
+    - Born with genetic code
+        - epigenetic (stat changes) changes genetic
+    - Turn based fighting game like pokemon
+        - attack, guard, boost (rock paper scissors fighting mechanic)
+        - weighted dice rolls determine
+            - who goes first
+            - how much damage
+        - When you die you die
+        - Every win you get a lot of points to spend on 4 stats (simple mini games)
+        - every 2^n more battles you get another move (hand designed based on current stats)
+    - Personal stats
+        - speed
+            - attack speed and running away
+        - strength
+            - attack damage
+        - defense
+            - attack damage
+        - edge (skill/charisma)
+            - makes everything better (more lucky)
+        - age - computed based on time
+        - rank - computed based on stats
+        - name - given during birth
+    - Properties each player is represented as a emutable key which is hard to manufacture, requires private key to play
+    - private key signing I played with timestamp -> rng determined by chain -> new private key

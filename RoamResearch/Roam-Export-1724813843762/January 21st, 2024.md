@@ -1,0 +1,14 @@
+- Follow up with Kartin
+    - LinkedIn 
+    - Ideas
+        - I’m excited about IMOs because that’s the first step to getting liquidity for on chain models
+        - I can start by practicing using the protocol to add models on chain and then start going down hugging face models checking IP and asking/onboarding model developers, so eventually they can have their own IMO
+        - we can schedule another call, in the mean time I’ll sketch out a vision
+        - I want you to speak at the conference about zkOracle and zkAI
+    - Proposal
+- Figure out top areas/projects to work on and start companies
+    - AI + Crypto + Finance
+        - Interoperability
+        - Onchain AI - AI anywhere anytime
+    - DEFAI
+        - Crypto arbitrage

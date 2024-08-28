@@ -1,0 +1,343 @@
+- Todo:
+    - x TAMP Meeting
+    - x Email Mark
+    - x Email Tower
+    - x respond to Advay (Friday)
+    - x respond to DCI (Friday)
+        - Friday 1pm
+    - (Thurs) LIS Desk
+    - X BJJ
+    - X check in room for Expo
+    - X Make plan for expo
+    - X Do Dalies
+    - X Reach out to past mentor quants
+        - X WSQ
+        - X CodingJesus
+        - X Dmitri
+        - X Rohit
+        - X PDT Robotics Guy
+        - X JaneStreet Girl
+    - Write Spot CogMan Architecture
+    - Sleep
+- [[Values]][[Transformers]][[1-1-3-1]]
+    - 5 year old
+        - You want to train ai/robot brain
+        - depending on the shape of the brain it is easier or hard to train
+        - for example, when training the eye part of the brain that’s connected to the eyes it is important that it knows that parts of things close to each other matter a lot more that pieces further away
+        - transformers are a shape of the brain that says two things: no matter how far things are away they could be treated equally as important or even the father as more, and  how much they will we considered will figure out what matters by ... ???
+- 
+- 
+- [[Values]][[IDs]] IDs [[roam/templates]]
+    - 1. (Artificial Intelligence) Robotics/AI
+        - 1. Mathematics of Intelligence
+            - 1. Theory
+                - 1. Theory of Computation - 3 Classes
+                - 2. Calculus I-III + Vector Calc + Diff Eq - Undergrad
+                - 3. Discrete Mathematics - Undergrad
+                - 4. Linear Algebra - Undergrad
+                - 5. Bridge to Abstract Mathematics - Undergrad
+                - 6. Algorithms - Undergrad
+                - 7. RL - Sutton and Barto
+                - 8. AI (Undergrad) - Russel and Norvig
+                - 9. Intro to Real Analysis - YT Academy of Useless Ideasas
+            - 2. Applied
+                - 1. Machine Learning - Andrew Ng
+                - 2. Deep Learning - Andrew Ng
+                - 3. Program Synthesis - Grad
+                - 4. Deep Learning - Goodfellow, Bengio, Courville
+            - 3. Papers
+                - 1. Attention is all you need
+            - 4. Concepts
+        - 2. Engineering of Intelligence
+            - 1. Machine learning
+                - 1. Mastering Reinforcement Learning with Python - Bilgin
+                - 2. Probabilistic Machine Learning - Kevin Murphy
+                - 3. Natural Language Processing - Undergrad
+            - 2. Programming
+                - 1. Programming (Programming Concepts, Program Design, Computer Organization, Object Oriented Software, Data Structures) - Undergrad
+                - 2. Operating Systems - Undergrad
+                - 3. Cracking the Coding Interview - Mcdowell
+            - 3. Robotics
+                - 1. Hardware (Computer Logic Design and Computer Architecture) - Undergrad
+                - 2. Hardware Architecture for Deep Learning - Grad
+                - 3. Robotics (Undergrad, Grad - Manipulation)
+                - 4. Modern Robotics - Lynch and Park
+                - 5. Computational Sensorimotor Learning - Grad
+        - 3. Philosophy of Intelligence
+            - 1. General
+                - 1. Mind Design II - Collection
+                - 2. Automation and the Future of Work -
+                - 3. On Intelligence - Hawkins
+                - 4. A Thousand Brains - Hawkins
+                - 5. AI Superpowers - Kaifu Lee
+                - 6. The Master Algorithm - Pedro Domingos
+                - 7. [Future] Mind in motion
+                - 8. [Future] Livewired
+                - 9. [Future] The Hidden Spring
+            - 2. Consciousness
+                - 1. Godel, Escher, Bach - Holfstader
+                - 2. [Future] I am a Strange Loop - Holfstader
+    - 2. (Financial Intelligence) Finance/QR
+        - 1. Mathematics of Finance
+            - 1. Theory
+                - 1. Bayesian Stats (in R) - Undergrad
+                - 2. Statsx 100 - Harvard edx
+                - 3. Probability and Stochastics for Finance - IIT Course YT
+                - 4. 6.012 Intro to Probability - MIT YT
+                - 5. WallStreetQuant - Online Course
+                - 6. All of Statistics - Book
+                - 7. Probability and Measures - J.R. Norris - Notes
+                - 8. Advanced Probability - J.R. Norris - Notes
+                - 9. Bayesian Stats the Fun Way
+            - 2. Applied
+                - 1. 14.320 Econometrics - Grad
+                - 2. 15.456 Financial Engineering - Grad
+                - 3. Advances in Active Portfolio Management - Grinold and Kahn
+                - 4. Active Equity Management - Xinfeng Zhou
+                - 5. [Future] Active Portfolio Management - Grinold and Kahn
+                - 6. [Future] Advances in Financial Machine Learning - Prado
+                - 7. [Future] Probability with Martingales by Williams
+                - 8. [Future] Introductory Econometrics by Brooks
+                - 9. [Future] The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Hastie
+                - 10. Ec1723 Capital Markets Harvard
+                - 11. 15.465 Alphanomics
+        - 2. Application of Finance
+            - 1. Principles of Finance
+                - 1. 15.401 Principles of Finance - Andrew Lo YT
+                - 2. 15.401 Managerial Finance - Course
+                - 3. Bloomberg BMC - Online Course
+            - 2. Investing
+                - 1. A Random Walk Down Wall Street
+                - 2. [Future] The Intelligent Investor
+                - 3. [Future] Warren Buffett’s Ground Rules
+            - 3. Quantitative Trading
+                - 1. Inside the Black Box - Narang
+                - 2. Quantitative Trading: How to Build Your Own Algorithmic Trading Business - Ernest Chan
+                - 3. Heard on the Street - Timothy Falcon Crack
+                - 4. A Practical Guide to Quantitative Finance Interviews -Xinfeng Zhou
+                - 5. [Future] Option Pricing and Volatility by Natenberg
+                - 6. [Future] Frequently Asked Questions in Quantitative Finance - Paul Wilmott
+                - 7. [Future] Machine Trading: Deploying Computer Algorithms to Conquer the Markets - Ernest Chan
+                - 8. [Future] Algorithmic Trading: Winning Strategies and Their Rationale by Ernest P. Chan
+                - 9. [Future] 151 Trading Strategies by Zura Kakushadze, Juan Andres Serur
+                - 10. [Future] Unkown Market Wizards by Jack Schwager
+                - 11. The Tao of Trading by Simon Ree
+            - 4. Economics
+                - 1. Crash Course Economics
+                - 2. Principles - Ray Dalio
+                - 3. Changing World Order - Ray Dalio
+                - 4. Economics in One Lesson
+                - 5. Black Swan - Taleb
+                - 6. Cartoon introduction to Economics part 1
+                - 7. Cartoon introduction to Economics part 2
+                - 8. [Future] Wealth of Nation - Smith
+                - 9. [Future] Principles - Ricardo
+                - 10. [Future] Principles - Mills
+                - 11. [Future] Principles - Marshall
+                - 12. [Future] Economics - Samuelson
+            - 5. Career
+                - 1. Starting Your Career as a Wall Street Quant: A Practical, No‑BS ... by Brett Jiu
+                - 2. Career Guide - Max Dama
+                - 3. Career Guide - Paul and Dominic
+                - 4. Self-Study-Plan-for-Becoming-a-Quantitative-Trader - Quantstart
+                - 5. Case in point - Cosentino
+                - 6. A PhD is not enough
+                - 7. Getting what you came for
+                - 8. [Future] The 22 Immutable Laws of Marketing - Trout
+                - 9. [Future] The E Myth - Greber
+                - 10. [Future] Shoe Dog - Phil Knight
+                - 11. [Future] The Hard Thing about Hard Things - Horowitz
+                - 12. [Future] The Firm - McDonald
+                - 13. My Life as a Quant - Emmanuel Derman
+        - 3. History of Finance
+            - 1. The Ascent of Money: A Financial History of the World
+                - 1. Book by Niall Ferguson
+            - 2. Economic Thought
+                - 1. New Ideas from Dead Economists - Buchholz
+        - 4. Personal Finance
+            - 1. Financial Intelligence
+                - 1. Rich Dad Poor Dad - Kiyosaki
+                - 2. Rich Dad’s Increase Your Financial IQ - Kiyosaki
+                - 3. Rich Dad’s Retire Young Retire Rich - Kiyosaki
+                - 4. Rich Dad’s Tax Free Wealth - Kiyosaki
+                - 5. Rich Dad’s Start Your Own Corporation - Kiyosaki
+                - 6. The Richest Man in Babylon - Clason
+                - 7. Think and Grow Rich - Hill
+                - 8. How to be Richer, Smarter, and Better Looking than your parents - Bissonnette
+                - 9. The Psychology of Money - Housel
+    - 3. (Governance) Decentralization/Crypto/History
+        - 1. Blockchain
+            - 1. Bitcoin
+                - 1.Mastering Bitcoin - Antonopoulos
+                - 2. The Internet of Money - Antonopoulos
+                - 3. [Future] The Bitcoin Standard
+                - 4. [Future] The Truth Machine
+            - 2. Ethereum
+                - 1. Mastering Ethereum - Antonopoulos and Wood
+        - 2. Philosophies
+            - 1. Governance
+                - 1. Radical Markets - Posner and Weyl
+                - 2. Crash Course World History
+                - 3. Crash Course US History
+        - 3. Biographies
+            - 1. Walter Issacson
+                - 1. [Future] Steve Jobs
+                - 2. [Future] Einstein
+                - 3. [Future] Da Vinci
+                - 4. [Future] Benjamin Franklin
+        - 4. Thoughts
+            - 1.Vitalik
+                - blog/medium
+            - 2. Ross Ulbricht
+                - blog/medium
+            - 3.Marc Andressen
+                - A16z - technooptimisim
+            - 4. Paul Graham
+                - Blog
+    - 4. (Body Intelligence) Health/Fitness
+        - 1. Health
+            - 1. Nutrition
+                - 1. Thoughts
+                - 2. [Future] Body for life
+                - 3. [Future] How Not to Die
+        - 2. Self-Defense
+            - 1. Martial Arts
+                - 1. The Black Belt Blueprint: An Intelligent Approach to Brazilian Jiu Jitsu
+                - 2. [Future] Brazilian Jiu-Jitsu: Theory and Technique
+                - 3. [Future] Mastering The 21 Immutable Principles Of Brazilian Jiu-Jitsu: The Ultimate Handbook for Brazilian Jiu-Jitsu Students
+            - 2. Strategy
+                - 1. The Complete Strategy Collection: The Art of War, The Prince, The Book of Five Rings, On War and Arthashastra
+                    - 1. Art of War
+                    - 2. The Prince
+                    - 3. The Book of Five Rings
+                    - 4. [Future] On War
+                    - 5. [Future] Arthashastra
+                - 2. Mastery - Greene
+                - 3. 48 Laws of Power - Greene
+                - 4. Art of Seduction - Greene
+                - 5. The Dictator's Handbook - Mesquita and Smith
+                - 6. How to win friends and influence people - Dale Carnigie
+    - 5. (Spiritual Intelligence) Spirituality/Philosophy
+        - 1. Philosophy
+            - 1. Texts
+                - 1. Crash Course Philosophy
+                - 2. Crash Course Literature
+                - 3. Crash Course Mythology
+                - 4. Aesop's Fables
+                - 5. Ender’s Game (skim)
+                - 6. Flow - Csikszentmihalyi
+                - 7. Sapiens - Harari
+                - 8. Behave - Sapolsky
+                - 9. Chaos - James Glenn
+                - 10. In Praise of Love - Badiou
+                - 11. Thus Spoke Zarathustra - Nietzche
+                - 12. Notes from the end of everything -
+                - 13. Stoicism for inner peace - eizelganger
+                - 14. Meditations - Aurelius
+                - 15. Letters from a Stoic - Senecа
+                - 16. Discussions and Selected Writings - Epictetus
+                - 17. The Enchiridion - Epictetus
+                - 18. The Book of five Rings - Miyamoto Musashi
+                - 19. Candide - Voltaire
+                - 20. The Strangest Secret - Nightingale
+                - 21. Foundation Head - Ayn Rand
+                - 22. Atlas Shrugged - Ayn Rand
+                - 23. The Republic - Plato
+                - 24. Nicomachean Ethics - Aristotle
+                - 25. Metaphysics - Aristotle
+                - 26. [Future] Infinite Jest
+                - 27. [Future] Anarchy, State, and Utopia - Nozled
+                - 28. [Future] Things Hidden Since the Foundation of the World - René Girard
+                - 29. [Future] Man and His Symbols - Carl Yung
+            - 2. Thoughts
+                - …
+        - 2. Religion
+            - 1. Texts
+                - 1. The Bhagavad Gita - Easwaran
+                - 2. The Dhammapad - Easwaran
+                - 3. Tao Te Ching - Lau Tzu
+                - 4. Zhuangzi - The Complete Writings
+                - 5. The Analects - Confucius
+                - 6. [Future] Bible - Old and New Testament
+                - 7. [Future] Quran
+                - 8. [Future] Book of Mormon
+            - 2. Thoughts
+                - …
+        - 3. Psychology
+            - 1. Texts
+                - 1. The Philosophical Baby - Gopnik
+                - 2. The Scientist in the Crib - Gopnik
+                - 3. Crash Course Psychology
+            - 2. Thoughts
+                - …
+        - 4. Self-Help
+            - 1. Books
+                - 1. Deep Work
+                - 2. So Good they Can’t Ignore you - Cal NewPort
+                - 3. Elon Musk - Walter Isaacson
+                - 4. Innovators - Walter Isaacson
+                - 5. Diary of a CEO - Steven Bartlett
+                - 6. Side Hustle - Guillebeau
+                - 7. High Performance Habits - Burchard
+                - 8. Think Fast and Slow -
+                - 9. The Truth about Leadership -
+                - 10. Sprint -
+                - 11. Infinite Game - Sinek
+                - 12. Start with why - Sinek
+                - 13. New Thinking - Altraide
+                - 14. Talking to strangers - Gladwell
+                - 15. Small Talk - Pine
+                - 16. Ten Arguments for Deleting Your Social Media Accounts Right Now - Jaron Lanier
+        - 5. Quotes
+            - 1. “Science isn’t finished until it’s communicated”
+    - 6. (Biological Science) Biology/Life
+        - 1. Science of Biology
+            - 1. General Biology
+                - 1. General Bio - AP
+                - 2. Biology Crash Course
+                - 3. Crash Course Ecology
+            - 2. Cellular Biology
+                - 1. Immune - Kurgstadt - Phillip Dettemer
+            - 3. Anatomy
+                - 1. Crash Course Anatomy and Physiology
+                - 2. Gray’s Anatomy
+            - 4. Human Behavioral Biology
+                - 1. Human Behavioral Biology - Sapolsky Course
+        - 2. Neurology
+            - 1. Principles
+                - 1. Principles of Neuroscience - David Cox Edx
+            - 2. Brain-Computer Interfaces
+                - 1. BCI Course - Undergrad
+                - 2. Research - See Old Binder
+    - 7. (Physical Sciences) Non-Biological/Non-Life
+        - 1. Science of Physical Sciences
+            - 1. Chemistry
+                - 1. Crash Course Chem
+                - 2. General Chemistry - Undergrad
+            - 2. Physics
+                - 1. Crash Course Physics
+                - 2. Physics 1 - Undergrad
+                - 3. Physics 2 - Undergrad
+                - 4. Feynman's Lectures on Physics
+                - 5. [Future] Principia Mathematica - Newton
+                - 6. [Future] Principia Mathematica - Bertrand Russels
+            - 3. Computational Physics
+                - 1. Crash Course Computer Science
+                - 2. A New Science - Wolfram
+                - 3. Godel’s thoughts
+            - 4. General
+                - 1. Crash Course Astronomy
+                - 2. The Theoretical Minimum - Susskind
+                - 3. The Patterns that Explain the Universe - Clegg
+                - 4. [Future] Structures or why things don’t fall down - Gordon
+                - 5. [Future] Working in Public - Eghbal
+                - 6. [Future] The Art of Doing Science and Engineering Learning to Learn - Hamming
+                - 7. [Future] An Elegant Puzzle - Will Larson
+                - 8. [Future] Things Fall Together - Tibbits
+                - 9. [Future] Ignition! - Clark
+    - 8. Key Questions
+        - 1. Continuous vs. Discrete
+        - 2. Computable vs. Non-Computable
+        - 3. Life vs. Non-Life
+        - 4. Intelligence vs. Not-Intelligence
+        - 5. Math vs. Science vs. (New Science) Simulation

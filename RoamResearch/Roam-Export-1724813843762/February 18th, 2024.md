@@ -1,0 +1,12 @@
+- Figure out personal finances
+- Do alt coin research
+- Write about 2 year plan and decision to finish PhD in robotics
+- 
+- chaos and inability to measure with infinites precision allows for free will and determinism  
+- vote on buying from DEX or providing liquidity to DEXs
+- Maybe vote to make wallet president - has ability to decide on how to spend funds and veto privileges - all profits get distributed — or developer
+    - end of presidency you get coins based off term purchases — max 150000 epochs
+    - end of development you get coins based off term purchases — max 150000 epochs
+- simulate our tokennomics
+    - agents will randomly buy/sell based on asset momentum
+- Quadratic Voting - for or against

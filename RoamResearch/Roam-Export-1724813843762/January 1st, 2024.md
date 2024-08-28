@@ -1,0 +1,9 @@
+- jadendover - Jaden instagram
+- Plan can I get PhD in 3 more semesters by 2025?
+    - Outline Thesis and Fill it out
+        - Full Pipeline - Journal Paper
+        - Fully Differentiable Sesame TAMP - ICML/Bakrat
+        - Compositional and Continuous Learning - CoLLA
+- Can I land JaneStreet, Citadel, or HRT internship Summer 2025 or Full-time
+    - apply for events
+- Schonfeld Full-Time as Safety

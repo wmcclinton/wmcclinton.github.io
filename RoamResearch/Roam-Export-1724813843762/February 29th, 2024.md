@@ -1,0 +1,45 @@
+- How to get PhD in a year?
+- What matters in this world for progress?
+- Nova Prospect?
+- Nobel Dao
+- 
+- Respond to Alex Jonas
+- Figure out Bitcoin schedule and reach out:
+    - Alex Goldstein
+    - Bitcoin VC Panel
+    - Eric Vorhees
+- Focus on Course Materials and Readings
+    - I love these classes Capital Markets and Alphanomics
+    - Nova Prospect - let’s get it
+- Computers are a small part of the production function of the economy
+    - Education Productivity has changed in hundreds of years
+- Humans slow down productions
+- Really Understand Regression
+    - I like the data + date graph
+- Write about life and perspective on robotics
+- Simplify Life
+- Write Journal Paper and Thesis
+    - Can be Done in a year or Two
+    - What would it take
+    - !!!
+- [[Values]]
+    - The pursuit of Alpha why it’s more important than AI and Robotics
+        - How does it lead to better wealth distribution?
+            - Tech stands at the face of Compute, Energy, and Storage
+            - As utility and productivity increases so does the need to create impact in areas outside of tech to increase there productivity as well
+        - How can crypto and blockchain help?
+    - What does the slow change look like
+        - the slow change to a more equal world
+        - mass adoption of decentralised payments
+        - mass education of where to invest Bitcoin or Market Index or Community
+    - Lessons from Capital Markets
+        - Aaron Debreau Securities
+        - EMH
+        - Multifactor Models
+        - CAPM
+        - Dividend Growth Model
+    - Lessons from Alphanomics
+        - Value Investing
+        - EMH
+        - Multifactor Models
+        - Behavioral Finance

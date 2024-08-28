@@ -1,0 +1,23 @@
+- check if HRT was full-time apply if not
+- send emails
+    - Email Akash Deep - Finance HKS Class
+    - Apply for form and email Managing Human Capital Class
+        - Email Ethan Bernstein ([e@hbs.edu](mailto:e@hbs.edu))
+    - Apply to Authentic Leader devlopment class
+- do project
+- Things to do:
+    - Tuesdays 29th
+        - Pancakes
+        - Work
+        - Jacket
+        - Asian Fusion
+    - Wednesday
+        - Wakeup at 8am, Carousel Pancake, Musuems
+        - Dutch Place @7:30
+    - Thursday
+        - Staring at Jacob @10:30
+        - Haircut
+        - Laundry
+        - Dutch Place @7:30
+    - Friday
+        - Train

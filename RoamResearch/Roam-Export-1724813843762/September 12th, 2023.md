@@ -1,0 +1,55 @@
+- Morning Routine
+    - Will you do what it takes to live a longer, happier, healthier, more filling life today?
+    - {{[[DONE]]}} Make the choice that you want to be better for your family, the world, and those you love
+    - {{[[DONE]]}} Excersize (3x 45s do 15s rest)
+        - Ab Rollouts - 10
+        - Bicycles  - 20
+        - Burpees - 10
+        - Plank 
+        - Push-Ups (30+)
+    - {{[[DONE]]}} Stretch
+        - 15 min
+    - {{[[DONE]]}} Meditate and Tea
+        - 15 min
+    - {{[[DONE]]}} Write Todays Todos
+        - 5 min
+        - 17.800
+        - NJK Meeting
+        - 14.32
+        - Get BD card
+        - Study + WSQ project
+    - Day - 3
+- Day:
+    - 6:30 Woke up
+    - 6:30-7:00 Updated Bakrat sheet
+    - 7:00-8:30 Morning routine
+    - 8:30-9 breakfast
+    - 9:30-11 17.800
+    - 11-1 NJK meeting and Lunch
+    - 1-2:30 Class
+    - 2:30-4 Travel and relax
+- Evening Routine
+    - {{[[DONE]]}} It’s never too late, choose to save the day it’s all about incremental progress. Life’s a marathon
+    - {{[[DONE]]}} Skincare and Relaxation
+    - {{[[DONE]]}} Write Tomorrows Todos
+        - Study, Study, Study
+            - WSQ interview questions
+            - 500 interview questions
+        - Gordon Call
+        - Interview
+        - Figure out financial plan
+        - Polygence
+    - {{[[DONE]]}} Read +30min
+    - {{[[DONE]]}} Lay in bed by 11
+- Notes:
+    - Those who predict the future run the world. Learn how to predict the future
+    - figure out finances you are broke
+    - your broke create value and sell it
+        - Odyssey
+        - arbitrage cBTC
+        - Lesson #1: Leverage is dangerous yet powerful
+        - Lesson #2: don’t count money you don’t have
+    - Never be broke again
+    - Be broke for the next 3 years to never be broke again
+- Todo:
+    - On weekend record WSQ videos

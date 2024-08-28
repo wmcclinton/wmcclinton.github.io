@@ -1,0 +1,26 @@
+- Todo:
+    - Investment Management Club Meeting
+    - BD Skill
+    - Blog Post - Videos and Data
+    - Masters Thesis - Outline
+    - Workout with Sev at Home
+- Tomorrow:
+    - Review PR
+- 
+- 
+- Sorry haven’t been paying much attention to the convo. Have been burning my weekend reverse engineering Bitcoin. I’m basically done just need a few more todos and a lot of testing. Final Todos:
+    - add multiple outputs in tx
+    - fix stalling after multiple blocks
+    - test with multiple nodes, multiple wallets, and multiple computers
+    - Then all I have to do is add Proof of Inference, Dress it up, and add a client, then I should have a MVP
+- In the morning write out Fabric to MVP todos
+- Todo:
+    - (Important) Blog Post
+    - (Important) Masters Thesis Proposal
+    - VFF Valuations
+    - Pay Vanguard IRA
+    - Cancel Subscription
+    - Daily Quant Questions (100)
+    - Check on Aneta Code
+    - Fabric White Paper (Plane)
+    - {{[[DONE]]}} Send WSQ projct for final inerview

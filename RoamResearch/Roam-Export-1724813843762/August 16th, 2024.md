@@ -1,0 +1,23 @@
+- [[Life]] Be a better version of yourself - do what you like doing but more efficiently with larger impact
+    - Track everything and organize
+    - Schonfeld, VFT, Pylego, PhD
+    - Get Healthy and Ripped
+- STFU Money Reflection:
+    - Quant
+        - Get Citadel
+    - VFT
+    - Pylego
+        - Learn:
+            - how to do a Retail/Wholesale Business 
+        - Timeline and Money:
+            - ?
+    - SarAI - Data Center
+    - SATI - Data Center
+    - These Won’t do it:
+        - PhD
+        - WSQ
+- Rachel Dissertation
+- Move stuff from [[August 12th, 2024]]
+- Reflect on getting STFU money and stop messing around
+    - if you can’t keep you fitness in check and your finances/budget in check how can you wrangle the forces of life?
+- Read QV book and give to Eric So - ask about Merton

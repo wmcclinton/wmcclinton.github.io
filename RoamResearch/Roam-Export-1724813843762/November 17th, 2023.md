@@ -1,0 +1,21 @@
+- Todo formalise the logic below for the Schonfeld internship:
+    -  Graph neural network is equivalent to first order logical formulas
+    - Transformer is Graph Neural Network with Bilinear bias
+    - FOL and Conditioning
+- Think about how it relates to your objective TLPK slides
+    - 
+- Fiber Testnet:
+    - Fix -update
+    - Add 5 Models and test
+    - Test Eel interface still works
+        - add input for model hash
+    - Clean code and Audit
+    - Launch Testnet
+- Email Heather about Manish AI/ML Day
+- Meet Joe 10:30
+- Meet Hannah 11:15
+- Meet Finance 12
+- Meet Lin and Jorge
+- Help with BD
+- Lab Meeting
+- Get outfit for big day

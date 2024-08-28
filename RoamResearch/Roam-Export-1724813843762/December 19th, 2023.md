@@ -1,0 +1,5 @@
+- TODO Thesis
+- https://wir2022.wid.world/www-site/uploads/2023/03/D_FINAL_WIL_RIM_RAPPORT_2303.pdf
+- Finish Radical Markets
+- Inside the Black Box
+- And Advanced Portfolio Theory

@@ -1,0 +1,17 @@
+- Todo:
+    - {{[[DONE]]}} Morning Workout
+    - {{[[TODO]]}}  Meditate
+    - {{[[DONE]]}}  10:30 meeting with Yael
+    - {{[[DONE]]}}  Finish data pipeline for csv and parquet data
+        - using kdb idenfier info
+    -  {{[[DONE]]}}  Talk to Ryan about sequential decision making
+    - {{[[DONE]]}}  Hit up Preston to hit up roommate about Bancho
+    - {{TODO}}  Cook chicken pasta
+    - {{TODO}}  Ask Ekansh JaneStreet to connect with friends
+- [[Schonfeld]]
+    - Today mostly finished pipeline just need a bit more connecting ETL to AlphaSearch
+    - I need to learn SQL/Q-kdb and pandas better
+    - Would love to extend to connect to all parquet files in the 60 datasets maintained by the CDP team
+    - I should not forget WSQ and learning the basics
+    - Next step:
+        - Finish alpha pipeline - rough draft

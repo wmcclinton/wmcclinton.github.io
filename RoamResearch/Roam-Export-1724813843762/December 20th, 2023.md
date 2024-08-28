@@ -1,0 +1,9 @@
+- Pay Bills
+- Card Game (Bundles):
+    - Two Jokers vs Others (2-4)
+    - 9 Bundles (if has heart it is bad)
+        - if three cards no heart it’s a bundle
+    - First to 5 wins
+    - K, Q, J => next turn play that suit or skip (Discard Card) [They Stack]
+    - Game is played by on a players turn they draw cards = to number of players and distribute one to each player then play a card in your hand
+    - 

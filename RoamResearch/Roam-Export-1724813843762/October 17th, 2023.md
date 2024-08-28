@@ -1,0 +1,72 @@
+- I’m CEO/CTO/Lead Designer/Builder
+    - I need marketers and salesmen to find and make deals
+- Todo Tomrrow
+    - Clean House
+    - Follow up with Quant Places
+    - Do daily routine
+    - Make plan for PhD, QR, and DCI
+- Top G Daily [[roam/templates]]
+    - Be better - Your lively hood depends on it
+    - {{TODO}} Morning Calesthetics 10min
+    - {{TODO}} Morning Stretching 5min
+    - {{TODO}} Meditate 10min
+    - {{TODO}} Write goals (PhD, QR, DCI - 1 each):
+        - 
+    - Day Notes:
+        - 
+    - Evening
+        - {{TODO}} Excerize
+        - {{TODO}} Hygiene and Skincare
+        - {{TODO}} Read 30min
+- Goals 2023-24 [[roam/templates]]
+    - Goals:
+        - Setup Dream Career as Quant for Crypto
+        - Read Princeton Math Companion
+        - PhD
+            - Blog Post
+            - Masters Thesis
+            - Behavior 100
+            - WUD + Predicators
+            - Bakrat Paper - Causality
+        - QR
+            - Get Internship
+            - Econometrics
+            - 100 Study Q’s
+            - Read Lessons from Dead Economists
+        - DCI
+            - CBDC
+            - Fabric MVP
+            - Sharia Compliant AI MVP
+            - Literature Review
+- When analyzing a business look at Fix vs variable cost
+- Lead People:
+    - Respond to Bentley Person
+- Life Reflections
+    - It’s about being happy, healthy, and secure
+    - I should be working out everyday and hanging out with the ones I love and enjoy everyday
+    - I should also put in the work now to be successful later
+    - Opportunities (order by size * likeliness):
+        - Quantitative Research - Wall Street 
+            - Need to keep studying
+            - Finish PhD
+        - AnetaLabs/DCI
+            - Tokenised Gold
+            - Shira Compliant AI (PhD)
+            - Fabric (PhD)
+            - AnetaBTC v2 and v3
+            - Teddy Swap
+            - CBDC
+    - Happiness:
+        - Meditate
+        - BJJ
+        - Sev
+        - Travel
+    - Health:
+        - Diet
+        - Sleep
+        - Exercise 
+    - Security:
+        - Save
+        - Pay off Debt
+        - Financial Advising
+        - 401k

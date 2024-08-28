@@ -1,0 +1,10 @@
+- [[Life]] Fall Workshop
+    - Lab: PhD
+        - Athena
+    - Schonfeld/WSQ/VFT: Desk 3 Monitors
+        - Plov
+        - Shashlik
+    - PiGo: Lego Lab
+        - Lagman
+    - SarAI/SATI: Laptop
+        - Samsa

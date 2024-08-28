@@ -1,0 +1,33 @@
+- Morning Routine
+    - Will you do what it takes to live a longer, happier, healthier, more filling life today?
+    - {{TODO}} Make the choice that you want to be better for your family, the world, and those you love
+    - {{TODO}} Excersize (3x 45s do 15s rest)
+        - Ab Rollouts - 10
+        - Bicycles  - 20
+        - Burpees - 10
+        - Plank 
+        - Push-Ups (30+)
+    - {{TODO}} Stretch
+        - 15 min
+    - {{TODO}} Meditate and Tea
+        - 15 min
+    - {{[[DONE]]}} Write Todays Todos
+        - 5 min
+        - BD TAMP 11
+        - 14.32 1
+        - Tushar TAMP 3
+        - Get 20 Task Data
+        - Do remaining Quant Qs
+        - Add Odyssey Tasks
+    - Day - 8
+- Day:
+- Evening Routine
+    - {{TODO}} It’s never too late, choose to save the day it’s all about incremental progress. Life’s a marathon
+    - {{TODO}} Skincare and Relaxation
+    - {{TODO}} Write Tomorrows Todos
+    - {{TODO}} Read +30min
+    - {{TODO}} Lay in bed by 11
+- Spring 2024 take AI Venture studio and do VMS
+    - Also take Angrist econometrics
+- Web3 - what is web3?
+- Do Gtech Interview

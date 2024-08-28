@@ -1,0 +1,5 @@
+- 14.320 HW
+- WSQ Project
+- Quant Studying
+- Predicators Meeting
+- (Thesis Proposal this weekend)

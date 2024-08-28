@@ -1,0 +1,46 @@
+- Morning Routine
+    - Will you do what it takes to live a longer, happier, healthier, more filling life today?
+    - {{[[DONE]]}} Make the choice that you want to be better for your family, the world, and those you love
+    - {{TODO}} Excersize (3x 45s do 15s rest)
+        - Ab Rollouts - 10
+        - Bicycles  - 20
+        - Burpees - 10
+        - Plank 
+        - Push-Ups (30+)
+    - {{[[DONE]]}} Stretch
+        - 15 min
+    - {{[[DONE]]}} Meditate and Tea
+        - 15 min
+    - {{[[DONE]]}} Write Todays Todos
+        - 5 min
+        - Odyssey fix 484 content
+        - Do first Post Done Pay sequence
+        - 17.800 do HW
+        - Follow-up with all quant places and $200k job op
+    - Day - 7
+- Day:
+- Evening Routine
+    - {{[[DONE]]}} It’s never too late, choose to save the day it’s all about incremental progress. Life’s a marathon
+    - {{[[DONE]]}} Skincare and Relaxation
+    - {{[[DONE]]}} Write Tomorrows Todos
+        - 17.800
+        - BD TAMP
+        - 14.32
+        - Tushar TAMP
+        - Get 20 Task Data
+        - BJJ MIT
+        - Polygence
+        - Talk to Doni
+    - {{[[DONE]]}} Read +30min
+    - {{[[DONE]]}} Lay in bed by 11
+- Todo:
+    - Odyssey fix 484 content
+    - Do first Post Done Pay sequence
+    - 17.800 do HW
+    - Do morning routine
+    - Follow-up with all quant places and $200k job op
+- Look into QuantBot and other Robotics + Quant Companies
+- Completely Revamp YC Profile for Eden and reach out to the women who reached out
+- https://roboquant.org/index.html
+- Finish Odyssey and Put all company Todos and get people to do them
+- Finish WSQ project

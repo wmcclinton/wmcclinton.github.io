@@ -1,0 +1,44 @@
+- [[Values]][[2-1-2-10]][[Ec1723]]
+    - Capital Markets Notes:
+        - My goal is understand the functions the black box market needs to fulfill, and try to re engineer / reimplement the black box with decentralized trust and machines
+        - Making it seemless and cheap for everyone
+        - What does all states mean for Arrow-Debreau Securities
+        - 
+- Ec1723 Sign up for Section Recitation
+- Miners can chose to get either the cash rewards or fabric from the contract
+- Respond to Anish
+- 2:30 tomorrow/Wednesday at BD
+- 
+- 9-10am BD slides
+- 10:30pm Dan Elitzer Meeting
+- 11 BD Meeting
+- 12-1pm read
+- Huamns will make computer space time Ann’s simulate life inside it
+- 1pm Harvard Class - Harvard Hall 101
+- Figure out life/schedule - Days (DCI?)
+- And Final Goal
+    - 3 Companies: Aneta, Fabric, VFT
+    - PhD + QR
+- CoLLA and Advay Thrusday
+- Mental Check:
+    - PhD
+        - Email Advay
+        - CoLLA Plan
+    - BD
+        - Slides/code
+    - QR
+        - Alpha Discovery Outline - Send Email
+            - We have data and want to find alpha, input is the data and constraints out put is alpha that work with constraints
+            - Currently
+                - Data -> Features / Indicators -> Trades -> Returns -> Alpha (given Beta)
+                - We can’t to give data and search all possible features / indicators, at all trade frequencies and types, for the best returns / alpha
+    - DCI/MITBTCExpo
+        - Send DCI Website with tickets
+            - Get Max and Ben to finish it
+        - Meet Dan (ask for Speakers)
+        - Follow-up with DCI Speakers
+    - BJJ
+        - Go
+        - Yoga 4:30 Thursday
+- Other:
+    - Email USF MIT Media Guy

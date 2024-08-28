@@ -1,0 +1,33 @@
+- Todo
+    - Make gameplan for TLPK meeting and papers
+    - Finish Fabric model test and add
+        - tmrw fix file exchange
+    - Read for Quant Make Plan (Read and Practice)
+        - With ChatGPT
+        - print out
+            - 3 books
+            - class
+                - Econometrics
+                - And Alphanomics
+            - and practice
+    - Diplomacyplus Game
+        - Add Player Info
+        - Add Unit Colors
+        - Add Game Logic
+- Plan Life
+- Finances:
+    - Need to save for Wedding, Kids, and House
+- I want to be a great quant
+- I want PhD (by May 2026)
+    -  the planning bias and objective
+    - you can take the gradient or hill climbing  through our objective in each part individually
+    - MLP -> Graph NN -> Transformer -> Planning bias
+- Thought Leader
+- Grow Wealth the Slow Old Fashion way (will last longer)
+- Easy Come Easy Go
+- Hard Come Hard Go
+- 
+- Build your foundation
+- It’s almost there
+- 
+- PhD, Quant, and Fabric can all be about trading AI models especially transformers

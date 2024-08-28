@@ -1,0 +1,6 @@
+- Clean
+- Do White Board
+- Make Week Plan
+- Semster Plan
+- And Year Plan
+- Finish Fabric Todos

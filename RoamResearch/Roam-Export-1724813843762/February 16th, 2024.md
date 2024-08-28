@@ -1,0 +1,26 @@
+- Check on Advay
+- Conformant Prediction vs Bayesian Linear Regression
+- Do timecard
+- Try making lang compression
+    - goal to learn new predicates and operator sequences from language
+    - then we can learn to ground both operators and predicates
+    - what if an operator sequence has gaps
+- Uber is great,
+    - I want to build something as fluid as Uber
+- Question for Eso:
+    - On Backtesting:
+        - In robotics it’s hard to much without a simulator, it is possible to build adaptive policies that generalize off of one demo but this requires a lot of intuition and work on the designers end.
+        - A lot of modern robotics get around policy design by using a simulator. We embed physics which we can simulate in side and engine that we can try different things and then during execution either succeed out the gate with polices that are robust to the simulation or two learn how to adapt our policies by estimating the parameters of our simulator first than optimizing online
+        - My question is there a notion of a simulator for testing signals, I know it might not make sense to consider all worlds (similarly we don’t assume being robust and simulating all different types of physics in our simulator) but given some economical law as about the market which some changeable parameters we can simulate different markets instead of just backtesting on one dataset. This will allow us to test robustness too
+        - Example what about a world where 2008 was a bit later or people we slightly more conservative or bullish.
+        - https://www.nature.com/articles/s42254-020-00273-3
+        - https://deepblue.lib.umich.edu/bitstream/handle/2027.42/31402/0000319.pdf?sequence=1&isAllowed=y
+        - https://www.sciencedirect.com/science/article/abs/pii/S0165188998000815
+        - https://www.researchgate.net/profile/Blake-Lebaron/publication/2465250_Asset_Pricing_Under_Endogenous_Expectations_in_an_Artificial_Stock_Market/links/624c806acf60536e2343f150/Asset-Pricing-Under-Endogenous-Expectations-in-an-Artificial-Stock-Market.pdf
+        - ^ I like this, are their interesting projects to test if something like this would be useful. In robotics we know a simulator is useful by executing a policy that is learned from the simulator and see if it works in the real world we can compare traditional backtest vs. robust backtest (via our simulator) in how they overfit or probability they will overfit similar to this paper:
+            - https://deliverypdf.ssrn.com/delivery.php?ID=291017116081000113100019088079018069055063001016012032102066116104008067111020118007027096058007119109030020066120007104120031041042078020060028075070122090000015038019076091093102118010119099067069023112084019027125094031081092126083113122119081029&EXT=pdf&INDEX=TRUE
+            - potential people to talk to;
+                - Eso
+                - Andrew Lo
+                - B. Lebaron
+                - William Brian Arthur

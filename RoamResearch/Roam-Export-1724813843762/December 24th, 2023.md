@@ -1,0 +1,42 @@
+- Organization and keeping teach of information is key read
+    -  the interrogator by Raymond Toliver and practice on Schonfeld 
+- All CEOs, Portfolio Managers, and Quants are doing the same thing resource management
+    - mainly time and money
+    - Investment Process
+        - Research and Strategy Development
+            - How do you come up with new ideas for trading strategies?
+            - How do you test these ideas?
+            - What kind of things are you looking for to determine whether a strategy works or not?
+        - Data sourcing, gather, cleaning and management
+            - How do you store the data?
+            - and why that way?
+            - How do you clean the data?
+        - Investment selection and structuring
+            - Are your alpha models theory driven or data driven?
+            - Which alpha strategies are you using trend, reversion, value yield, growth, or quality
+            - Are you making individual bets or relative?
+            - If relative what do you mean by relative exactly?
+            - Over what time horizon and what investment universe?
+            - How are you mixing your various alpha models?
+        - Portfolio Construction
+            - How do you do portfolio construction?
+            - What are you limits and why do you set them their?
+            - What are the inputs to you portfolio construction?
+            - What are you trying to achieve with portfolio construction (what is your objective function)
+        - Execution
+            - What kind of transaction cost model are you using?
+            - And why did you choose to model transaction costs the way you did?
+            - How are you executing traded manually or algorithmically?
+            - Tell me about your order execution algorithmns
+            - what kinda things did you build into them (hidden vs visible)(active vs passive)
+        - Risk Management and Monitoring
+            - What does your risk model account for and why those things?
+            - What are your various risk limits and why did you set them where you did?
+            - Under what circumstances would you ever intervene with your model?
+            - What are you monitoring on and on going basis?
+    - All quants choose from the menu if you know where in the menu they are looking it’s not proprietary 
+    - Details matter
+        - Gain Trust
+        - Ask the right questions
+        - Organize the information
+    - There is no secret sauce

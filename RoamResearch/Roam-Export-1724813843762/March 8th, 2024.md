@@ -1,0 +1,9 @@
+- LIS slides:
+    - How to write a journal paper
+    - These are the ideas I want to communicate:
+        - Minimising expected planning time is what we want to do and our proxy is good. Hill climbing on this objective is reasonable with these operations. Monotonically optimising for efficiency and effectiveness
+    - It will probably be a paper about the search I’m doing why it’s hard: global vs local
+        - empirically what greedy look ahead depth works for the tasks we care about
+        - how beam search can help
+- https://youtu.be/_TrKARhF5cI?si=nTjodf8GDtk96pre
+- 

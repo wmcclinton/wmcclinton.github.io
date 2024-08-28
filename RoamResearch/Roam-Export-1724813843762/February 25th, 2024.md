@@ -1,0 +1,8 @@
+- (When back from event) Send Nobel Dao - Documents to sign
+- (Today) Send Email to Nico Schafer Nova Prospect - asking for part-time work and potential year at NP
+- (Today) Explain to Jasur the task
+- (Tonight) Update Website
+- (Monday) Send Ashley Email
+- (Whenever) OSAP - convert all signals to python make data pipeline to test all signals
+    - and so you can use different data
+- Make PhD plan and TLPK update plan

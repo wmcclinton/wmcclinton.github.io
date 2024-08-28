@@ -1,0 +1,22 @@
+- https://youtu.be/3sEeVJEXTfY?si=YS6rvGbZ6bZZzsDY
+- https://dydx.exchange/crypto-learning/crypto-margin-trading
+- 
+- stay under 2000 calories, diverse food
+    - cook more
+    - stretch more
+    - morning calesthetics
+- Get Power Stand
+- James Jean - Art
+- Sharia Compliant AI after October 28th
+- 
+- Todo on plane:
+    - Reflect and Plan life:
+        - Daily Schedule
+    - KL Plan
+    - NUS Plan
+    - DCI Plan + Singapore
+    - Decentralised AI, Sharia Compliant AI, Digital Gold Project
+    - Watch econometrics courses
+    - Read two books:
+        - Lessons from Dead Economists
+        - Ascent of Money

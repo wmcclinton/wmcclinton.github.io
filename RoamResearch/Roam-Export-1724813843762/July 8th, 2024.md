@@ -1,0 +1,24 @@
+- Final Internship Todos:
+    - Finish Yael Generic Data Loader (truebeats, Wolfe, fastest, and eventually any charm data) and Get Supply Chain Data
+    - Implement gtsw1_ and gtsw2_ and generic Truebeats and Wolfe signals
+        - reproduce paper results with Barra Model
+        - check correlation with ym.y (hopefully greater than 0.1)
+        - do alpha decay and heatmap to search and show robustness
+    - Clean up original notebook and write descriptions
+    - (Bonus) Do analysis with 20 B&V signals
+- Body Goals
+    - Diet 500 calories deficit and BJJ every other day - fast track to Hawaii
+- Todo:
+    - X Workout at the Park
+    - X Walk 6000 steps
+    - X Read Market Making Paper
+    - Supply Chain Data
+    - Finish Generic Data Loader
+    - X Outline Final Two Signal Todos in Notebook
+        - X Draft Experiment Files
+    - X Draft Final Report
+    - BJJ
+    - Elevate Security Deposit
+    - Schonfeld Quote
+- [[Life]]
+    - I need my own LLM filled with my financial learnings and books and papers

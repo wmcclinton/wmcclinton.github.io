@@ -1,0 +1,8 @@
+- think about going vegan
+- TODO: quickly make cheat sheet look at simple python review and cheat sheet, + crack the coding interview
+- Email interviewer back thanking him for his patience and apologizing for being a bit slow since I’m on vacation in Amsterdam
+- [[Trading Notes]] 
+    - Don’t distill wrong lessons from experience will take a lot to relearn - trends vs wisdom 
+    - A lot of bets are loses not because of choosing the wrong direction but by not taking a large enough bet
+    - Most of trading can be understood as protecting against risk (not only capitalizing on gains)
+        - Stop loss is life saving - remember how you lost $10k in one day

@@ -1,0 +1,42 @@
+- Finish Alphas / Presentation
+- Email about 2 classes
+    - Graduate Asset Pricing
+    - Personal Finance
+- Study Citadel:
+    - Do https://leetcode.com/problems/regular-expression-matching/
+- [[Schonfeld]][[Life]]
+    - Finally understand Risk Models
+        - Stat Arb vs the Economists
+        - Does adding factors make predicting return streams easier or harder?
+        - They are both right
+        - Stat Arb thinks about the problem as the risks are lol IR and hard to predict thus lets only predict idio
+        - Economists think RISKs are the only persistent, explainable, alpha or bets
+        - Tomorrows Beta is tomorrows Alpha
+        - French and Fama:
+            - Factors as better predictions, so we can leverage the factors for more predictable return
+        - Stat Arb:
+            - Factors as Risk, so we can capitalize on idio/alpha because it's easier to predict and less volatile
+        - Side Note:
+            - Diversification in Time
+            - Seisure as a market crash, phase lock all time scales ^
+            - Selling your Book - Cooperative Strats/market manipulation vs. Competitive where sharing has market decay 
+        - If you run PCA on data, bigger factors are easier to predict
+        - As more people acknowledge the Risk Factors and leverage returns for it the volatility goes up and IR goes down, 
+            - Or does it go up because we are all doing the same thing
+        - Economist and Stat Arb are kinda doing the same thing looking for that next thing that explains alpha - I would say the difference is whether they share it 1. and 2. the typical time horizon they care about (maybe)
+        - Mosaic
+    - If you have a signal and make it orthogonal to Barra can it be better at predicting future returns or is it always worse 
+    - I’m such a beginner, so much to learn (Ryan Alder definitely has 2+ years of experience and it shows)
+    - Potential Ideas for [[Schonfeld]] continuation:
+        - Transformers for Price Data (Also related Asset Embeddings, Overfitting/Training LLMs, Big Data)
+        - Original 10000 equities project Correlations at scale with GPU - just weight basic one historic correlations
+        - Deep Learning for Stat Arb
+            - https://arxiv.org/pdf/2106.04028
+            - https://cfe.columbia.edu/sites/default/files/content/slides/MarkusPelger_Slides%20Deep%20Learning%20Statistical%20Arbitrage.pdf
+            - 
+        - (Interest) Modeling Drawdowns (Also related Black Swan events)
+        - (Interest) Better Risk Models - Barra From Scratch (Also related Conforment prediction)
+        - (Interest) Quantum Arb
+    - The Brain at least the neocortex is a large table of correlations and decentralized memory that caches the statistical properties of the the world, and acts as a tool for our base desires / lizard brain which maintains our homeostasis and reproductive capabilities
+        - this model of the world model internal sensations and phenomena too, as well as even meta properties about the system itself - where the ability to model oneself is conscience which is not a true or falsity but a scale
+        - evolution is happening to everything homeostasis and stability is the fitness criteria and every since molecule to lizard brain to cortex is pursuit of that

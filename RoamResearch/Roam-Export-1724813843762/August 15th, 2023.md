@@ -1,0 +1,88 @@
+- Goals:
+    - 1. Financial IQ
+        - Businesses (Aneta, VF, VA, Gen), Paper Assets (Vanguard), Real-Estate (Uzb), Commodities (???)
+    - 2. PhD/BD
+        - PhD in Robotics minor in Quant Finance
+    - 3. BJJ/Health
+        - Black Belt - 165 lbs 12% BF
+    - 4. Travel/Russian
+        - See the world - Fluent in Russian
+- Today:
+    - 09:24 gave Max gcode design task
+    - 10:17 called embassy for Sev
+    - Morning Routine:
+        - {{[[DONE]]}} [[Morning Routine]]
+            - {{[[DONE]]}} [[Journalling]]
+                - I have an opportunity to capitalize on cBTC arbitrage to expand my quant/VirtueFinance endeavors. Don’t forget to embody your values of: Grit/Determination, Intelligence/Wisdom, Compassion/Goodness, Honesty/Reliability, and Dwysywd {{word-count}}
+            - {{[[DONE]]}} [[Morning Workout]]
+                - 100 Push-ups
+                - 5x5 Ab-Rolls
+    - 10:30-12:00 PhD/Work
+        - 10:48 Head to BD
+        - 11:14 At BD
+    - 12:00-1:00 Lunch Break
+    - 1:00-2:30 PhD/Work
+        - 13:42 Break - worked on dragging skill since 12
+        - 14:20 Back
+    - 2:30-3:00 Afternoon Break
+    - 3:00-4:30 PhD/Work (or Business)
+    - 4:30-6:00 Evening Break
+        - 17:58 Worked Till now on Drag Skill
+    - 6:00-7:30 Exercise
+    - 7:30-8:30 Dinner Break
+        - Watched Jim Rickards talk on BRICS+ Aug 22nd
+    - 8:30-10:00 Business
+        - Met and hung with Bakrat (Final days)
+- [[Notes]]:
+    - [[TODO]]:
+        - BD graphs + Demo
+        - Drag Classifier and skill with Parma for order of pulling
+        - TAMP Blog Post
+            - Fix citations
+            - Recast problem setting example to BEHAVIOR
+            - Fix Fuzzy code figures and red underlines
+            - Add stuck state in Downward-Refinability Section
+            - 10+ Behavior vids in a collage
+            - Update Behavior Table, remove other graph
+        - Make WSQ study sheet/notes and study an hour
+        - Talk to real-time about mass robotics
+        - Find MBA 3rd Person (Class or YC)
+        - [Today](Hand to Max this week) MVP Genesis Website
+            - list of links
+            - web editor page
+            - deploy button/page
+        - (If you have time today) Aneta Arb code
+        - (Secondly) VirtueAI Lite Paper
+    - AnetaBTC Wallet: https://mempool.space/address/bc1qxdl0ynmu3fdvsht8wsmt5vgsgkdt8er6d44c27
+    - What future do you see:
+        - One of near infinite abundance and expansion, but also balance, harmony, and equality
+        - Create a compelling vision of the future
+    - Look backward in your past to see the future
+        - Harder for younger leaders
+        - Recurring themes in your life:
+            - AI/Automation
+            - Technology
+            - Decentralization
+            - Hackathons/Startups
+            - Unconventional Paths
+    - 6 WFS Global Trends:
+        -  demographics, economics, government, environment, society, and technology
+    - Only Optimists survive
+    - More time reading, talking, and thinking about the future
+    - Train your emotional intelligence
+    - The leader only coordinates the wants and desires of the rest of the group
+    - My problem is I don’t talk enough about the idea and why I believe in it so much. I keep it secret to keep it safe, but this might be doing more harm than good
+    - Leaders bring out the answers and best in others. Ask good questions, not have good answers
+    - I'm on a good path: MIT PhD a couple good papers, VirtueAI and Aneta - Crypto, VirtueFin - Crypto Trading, and Genesis - IoT App and Device Marketplace + Development platform
+        - Todo:
+            - VirtueAI Lite Paper
+            - Aneta V2
+            - VirtueFin - cBTC arbitrage
+                - [DONE] Mint cBTC to ADA address with python OP_RETURN
+                - Use Selinium to swap cBTC with ADA on minswap https://selenium-python.readthedocs.io/index.html
+                - Then finally use lucid to send ADA to coinbase
+            - Genesis - IoT Platform - MVP + Web editor plugin + System Diagram
+                -  I think doing a mixture of bring other peoples content on our platform and getting our name/devices out there through the current marketplaces for now is what’s key
+                - No actually the open sourceness and thingiverse type design was actually what I was going for. I didn’t necessarily want to make the parts just have them all in one space
+    - Genesis will be good for cheap humanoids and quadrupeds too
+    - Slept @3 doing cBTC arbitrage - figured out OP_RETURN

@@ -1,0 +1,5 @@
+- [[Aneta]] Consolidation and Sending to Austin Wallet (after 0.1 BTC)
+- You think too highly of yourself
+    - What one thing you want to be good at
+- Get couples counsler
+- Clean or dirty signal for washer

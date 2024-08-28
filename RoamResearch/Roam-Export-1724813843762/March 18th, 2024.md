@@ -1,0 +1,24 @@
+- {{TODO}} 100 Pushups
+- {{TODO}} 50 Crunches
+- {{TODO}} 50 Reverse Crunches
+- {{TODO}} 100 Jumping Jacks
+- {{TODO}} 100 Squats
+- {{TODO}} Quick Run
+- {{TODO}} Shower
+- {{TODO}} Meditate
+- {{TODO}} Focus on being best: AI, QR, Crypto
+- MIT Bitcoin Expo Website
+- Email Harvard Course
+- Get back into Alphanomics
+- Get Doni on right track
+    - Make list of Teddy Swap Bugs
+    - Cement month plan:
+        - algorithmic stable coin
+        - leverage trading
+        - futures
+        - shorting
+        - options
+        - Kucoin type Dex
+- Meet other Malaysian developer
+- read alphanomics book
+- check on MIT BTC Expo Funding
