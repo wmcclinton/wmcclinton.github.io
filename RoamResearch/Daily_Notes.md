@@ -1,99 +1,3 @@
-1-1-3-1
-
-
-
----
-
-1
-
-
-
----
-
-14
-
-
-
----
-
-15
-
-
-
----
-
-16
-
-
-
----
-
-17
-
-
-
----
-
-1:
-
-
-
----
-
-2-1-2-10
-
-
-
----
-
-2-1-2-11
-
-
-
----
-
-2-2-3-11
-
-
-
----
-
-2-2-5-13
-
-
-
----
-
-2:
-
-
-
----
-
-ASRI
-
-
-
----
-
-Alphanomics
-
-
-
----
-
-Aneta
-
-
-
----
-
-Angkasa Rumah
-
-
-
----
-
 April 10th, 2024
 
 - Alphanomics clas: 8-10am
@@ -187,18 +91,6 @@ April 12th, 2024
 
 ---
 
-April 13th, 2024
-
-
-
----
-
-April 14th, 2024
-
-
-
----
-
 April 15th, 2024
 
 - MIT Bitcoin Expo - Todo:
@@ -250,13 +142,6 @@ April 17th, 2024
 
 ---
 
-April 18th, 2024
-
-- email professors
-
-
----
-
 April 19th, 2024
 
 - Todo:
@@ -281,18 +166,6 @@ April 1st, 2024
 - Capital Markets - Catch Up
     - Lectures
     - + HW
-
-
----
-
-April 23rd, 2024
-
-
-
----
-
-April 24th, 2024
-
 
 
 ---
@@ -327,12 +200,6 @@ April 26th, 2024
     - Wednesday 
     - Thursday - after lunch
     - Friday Morning 10:30
-
-
----
-
-April 28th, 2024
-
 
 
 ---
@@ -759,13 +626,6 @@ August 13th, 2023
 
 ---
 
-August 13th, 2024
-
-- 
-
-
----
-
 August 14th, 2023
 
 - Goals:
@@ -867,12 +727,6 @@ August 14th, 2023
         - Doers
         - Reliable
         - Loyal
-
-
----
-
-August 14th, 2024
-
 
 
 ---
@@ -1643,12 +1497,6 @@ August 21st, 2023
 
 ---
 
-August 21st, 2024
-
-
-
----
-
 August 22nd, 2023
 
 - Goals:
@@ -1728,12 +1576,6 @@ August 22nd, 2023
     - Why do you feel alone and isolated, like Sev prioritizes her work. I guess it feels the same with me.
     - You are sleep deprived and exhausted never work like this again
     - Have a more relaxed and balance life
-
-
----
-
-August 22nd, 2024
-
 
 
 ---
@@ -1870,12 +1712,6 @@ August 24th, 2023
 
 ---
 
-August 24th, 2024
-
-
-
----
-
 August 25th, 2023
 
 - Goals:
@@ -1906,12 +1742,6 @@ August 25th, 2023
         - Daily Calisthenics and Meditation (easy - Now)
         - Message PDT guy tell him about looking for full time (easy - Mon)
         - Follow up with DEShaw and GSA
-
-
----
-
-August 25th, 2024
-
 
 
 ---
@@ -2356,12 +2186,6 @@ August 3rd, 2024
 
 ---
 
-August 4th, 2024
-
-
-
----
-
 August 5th, 2024
 
 - Todo:
@@ -2495,31 +2319,6 @@ August 9th, 2024
         - Write about Plan for Thesis
         - Write about Plan for QR
         - Write about Plan for Life
-
-
----
-
-CBDC
-
-
-
----
-
-CORL
-
-- 
-
-
----
-
-Cardano
-
-
-
----
-
-DONE
-
 
 
 ---
@@ -2698,12 +2497,6 @@ December 21st, 2023
     - Jose Azar
     - Fiona Scott Morton
 - J. Lanier Who runs the World
-
-
----
-
-December 22nd, 2023
-
 
 
 ---
@@ -3170,18 +2963,6 @@ December 8th, 2023
 
 ---
 
-DeepArb
-
-
-
----
-
-Ec1723
-
-
-
----
-
 February 10th, 2024
 
 - Write out timeline and branching points
@@ -3446,12 +3227,6 @@ February 19th, 2024
         - What state should we use
     - LLM - Voyage - Basic English - Operator Hierarchy Priors for Bilevel Planning
         - ???
-
-
----
-
-February 1st, 2024
-
 
 
 ---
@@ -4029,42 +3804,6 @@ February 9th, 2024
 - Research Questions - Predicators Replanning with reasoning about not getting into stuck states see Rachel - FF Replan
 - Be sure that in every section claims are made and the reader knows what they should take away
 - Advay code
-
-
----
-
-Golden Rules
-
-
-
----
-
-Ground Rules
-
-
-
----
-
-Hobbies
-
-
-
----
-
-IDs
-
-
-
----
-
-Idea
-
-
-
----
-
-Intelligent Investor
-
 
 
 ---
@@ -4690,12 +4429,6 @@ January 19th, 2024
 
 ---
 
-January 1st, 2023
-
-
-
----
-
 January 1st, 2024
 
 - jadendover - Jaden instagram
@@ -4868,12 +4601,6 @@ January 25th, 2024
 
 ---
 
-January 26th, 2024
-
-
-
----
-
 January 27th, 2024
 
 - Einstein Code: Todos to Joe
@@ -4932,12 +4659,6 @@ January 29th, 2024
     - Workout Daily
     - Meditate
     - Take serious the Doc
-
-
----
-
-January 2nd, 2023
-
 
 
 ---
@@ -5014,12 +4735,6 @@ January 31st, 2024
 - Find Center - Find Purpose
 - I’m this perfect world what current companies will already be big?
 - What companies and tech are missing?
-
-
----
-
-January 3rd, 2023
-
 
 
 ---
@@ -5347,12 +5062,6 @@ January 9th, 2024
     - throat -Daily Atlas (1hr)
     - crown - right daily goals and weekly if monday
     - third eye - meditate to train mind to focus what needs to be focused on
-
-
----
-
-Journalling
-
 
 
 ---
@@ -5846,12 +5555,6 @@ July 25th, 2024
 
 ---
 
-July 26th, 2024
-
-
-
----
-
 July 27th, 2024
 
 - Todo:
@@ -5861,12 +5564,6 @@ July 27th, 2024
     - Draft SarAI AI institute Emails
     - Pylego Designs
     - Read Green Book
-
-
----
-
-July 28th, 2024
-
 
 
 ---
@@ -6187,12 +5884,6 @@ July 3rd, 2024
             - Finally when all parameters are fixed and chosen run backtest
         - Important Note:
             - What’s important in all of these is simplicity, reframe from complex data/ signals, complex compositions of them, weird esoteric explanations, and crazy testing strategies / parameter finding
-
-
----
-
-July 4th, 2024
-
 
 
 ---
@@ -6996,19 +6687,6 @@ June 9th, 2024
 
 ---
 
-Life
-
-
-
----
-
-March 10th, 2024
-
-- 
-
-
----
-
 March 11th, 2024
 
 - Alphanomics
@@ -7614,13 +7292,6 @@ May 18th, 2024
 
 ---
 
-May 19th, 2024
-
-- 
-
-
----
-
 May 1st, 2024
 
 - {{[[DONE]]}} Stretch
@@ -7694,25 +7365,6 @@ May 22nd, 2024
 - Pack and Move Big Stuff
 - Change Tour Date
 - Schedule WSQ Meeting
-
-
----
-
-May 23rd, 2024
-
-- 
-
-
----
-
-May 24th, 2024
-
-
-
----
-
-May 25th, 2024
-
 
 
 ---
@@ -8047,42 +7699,6 @@ May 9th, 2024
 
 ---
 
-Meditate
-
-
-
----
-
-Morning Routine
-
-
-
----
-
-Morning Workout
-
-
-
----
-
-Narrative Economics
-
-
-
----
-
-Note
-
-
-
----
-
-Notes
-
-
-
----
-
 November 10th, 2023
 
 - Todo tomorrow:
@@ -8267,12 +7883,6 @@ November 17th, 2023
 
 ---
 
-November 18th, 2023
-
-
-
----
-
 November 19th, 2023
 
 - cancel Aruba all inclusive
@@ -8299,13 +7909,6 @@ November 1st, 2023
     - Only if mempool criteria settled i.e. 10% will model be accepted I.e. downloaded to adjacent nodes
     - Models priority will be kept track up and bottom models get removed
     - There is a fixed model amount
-
-
----
-
-November 20th, 2023
-
-- 
 
 
 ---
@@ -9039,18 +8642,6 @@ October 11th, 2023
 
 ---
 
-October 12th, 2023
-
-
-
----
-
-October 13th, 2023
-
-
-
----
-
 October 14th, 2023
 
 - Get Masters and try to do PhD abroad in Malaysia
@@ -9262,12 +8853,6 @@ October 19th, 2023
     - prepare for full time next semester - work on maintaining CBDC and Fabric
 - Schonfeld:
     - Good job you got a 10-12 week summer offer from Schonfeld
-
-
----
-
-October 1st, 2023
-
 
 
 ---
@@ -9740,78 +9325,6 @@ October 9th, 2023
 - PhD Thesis
     - Extended Operator Learning
     - Causality in Robotics 
-
-
----
-
-Odyssey
-
-
-
----
-
-POMO
-
-
-
----
-
-PhD
-
-
-
----
-
-Plane
-
-
-
----
-
-Predicators
-
-
-
----
-
-Questions
-
-
-
----
-
-Quotes
-
-
-
----
-
-Research
-
-
-
----
-
-Robotics
-
-
-
----
-
-Rymdkapsel
-
-
-
----
-
-SATI
-
-
-
----
-
-Schonfeld
-
 
 
 ---
@@ -11444,66 +10957,6 @@ September 9th, 2024
 
 - Reach out to https://jaraxxus-me.github.io/
     - about end-to-end bilevel planning
-
-
----
-
-TODO
-
-
-
----
-
-The Diary of a CEO
-
-
-
----
-
-The Internet of Money
-
-
-
----
-
-Trading Notes
-
-
-
----
-
-Transformers
-
-
-
----
-
-VFT
-
-
-
----
-
-Values
-
-
-
----
-
-WSQ
-
-
-
----
-
-Willie McClinton
-
-
-
----
-
-Workout
-
 
 
 ---
