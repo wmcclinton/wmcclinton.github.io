@@ -1,8 +1,0 @@
-- Formulate our entire planning objective and representations as a big NN and optimisation problem. Talk about how hard coding a representation is like freezing a part of the network. This defines a nice space to search over with finite predicates and actions, in a continuous state space
-- Think about Leslie’s continuous state space problem
-- Read Graph NN expressivity paper
-- 
-- get around infinite sum in cost
-    - missing [0, 1] if goal was found before
-- 
-- Behavior GPT-V predicate evaluations

@@ -1,9 +1,0 @@
-- [[Life]]
-    - learn from the German Wiermar:
-        - Tell people what and why to do something not how
-        - Be a Doer and a Thinker
-        - Flexibility of the mind is a powerful thing
-        - Mission Command Mentality
-        - Humility at the sense of the game, not humility at the feet of your opponent
-        - Holding two ideas at the same time and still taking action
-        - Plans are useless but planning is indispensable

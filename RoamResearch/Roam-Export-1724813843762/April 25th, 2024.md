@@ -1,9 +1,0 @@
-- {{[[DONE]]}} Morning Excersize
-- {{[[TODO]]}} Finish Broken Money
-- {{TODO}} Alphanomics HW
-- {{[[DONE]]}} LWNT Meeting 3:30pm
-- {{[[DONE]]}} Advay Meeting 4:30pm
-- {{TODO}} BJJ Gi 6pm
-- {{TODO}} Finish Alphanomics HW
-- {{TODO}} TLPK Slides
-- 

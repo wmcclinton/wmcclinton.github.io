@@ -1,5 +1,0 @@
-- e62-233 for hackathon
-- check on NobelDao funds
-- [[Values]]
-    - https://chat.openai.com/g/g-hc1otXI5V-yarvis-life-coach
-    - YARVIS

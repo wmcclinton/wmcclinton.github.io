@@ -1,4 +1,0 @@
-- Make Habit of this: https://youtu.be/XZYpUkUpYvk?si=Dg8f9pIrxpUEpI2m
-- Get better at communication
-- [[Life]]
-    - Realized why Quantum Mechanics is called “Quantum” Mechanics because it’s the result of Quantizing (making discrete) Einstein Theory of General Relativity - it’s shares this with Quantitative Finance because these it the numeration (discretization) of Finance 

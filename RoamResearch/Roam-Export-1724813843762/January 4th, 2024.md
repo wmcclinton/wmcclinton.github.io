@@ -1,5 +1,0 @@
-- The Tree of Life
-- The Abolish of Man
-- Gerald Gabs
-- 
-- Ask if Tower Research Interview is for Full-Time

@@ -1,2 +1,0 @@
-- https://images.squarespace-cdn.com/content/v1/5bc6826490f904980a50659a/26b5f7ef-88af-4d85-a6dd-2dd419328ca4/Look+back2b.jpg?format=2500w
-- just because you have a Nobel price that doesn’t me your perfect and can predict the market and play god, see Long Term Capital

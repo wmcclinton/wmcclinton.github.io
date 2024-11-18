@@ -1,4 +1,0 @@
-- Send Handbook to speakers ask for slides / link to slides (preferably PDF - or Google slides)
-- Send Flyers to clubs and Abbie
-- Make sure orders and payments are good
-- Email IOHK again

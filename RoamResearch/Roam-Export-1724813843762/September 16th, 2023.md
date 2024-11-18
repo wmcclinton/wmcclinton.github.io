@@ -1,3 +1,0 @@
-- make deal flow list
-- write peoples action items for the month
-- lifestyle business

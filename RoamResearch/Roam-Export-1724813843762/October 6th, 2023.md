@@ -1,7 +1,0 @@
-- Meet about Schonfeld (Interview Prep)
-- Meet about DCI with Robert Bench
-- Videos B4 Malaysian
-- Sync with Robert Bench after Malaysia
-- Do Flower
-- And figure out life
-- Follow up with Quant Recruiters

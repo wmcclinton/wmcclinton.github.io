@@ -1,6 +1,0 @@
-- [[Values]][[2-2-5-13]] My Life as a Quant Emmanuel Derman
-    - Understand and master the universe with only imagination and symbols
-    - https://emanuelderman.com/wp-content/uploads/2002/08/cranks.pdf
-    - It was the age of the physicist where in trying to understand the market predictive formulas we sought, but now is time for the computer scientist to come where the world is seen as just me game in a endlessly possibility of simulations
-- https://shorturl.at/vMUX8
-- Send Email to MyQuantitative asking about progress after first internship

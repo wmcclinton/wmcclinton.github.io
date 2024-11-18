@@ -1,9 +1,0 @@
-- alphanomics
-- 10-1 BD print flyers
-- BU
-- Northeastern
-- Tufts
-- Harvard
-- MIT
-- 3pm Tom Thesis
-- 8pm Bitcoin Expo

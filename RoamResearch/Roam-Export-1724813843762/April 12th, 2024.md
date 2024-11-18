@@ -1,7 +1,0 @@
-- Alphanomics HW
-- 12pm Lightning
-- 3pm WSQ
-- 4pm LIS
-- ???
-- Make list of classes to visit next week to advertise NobelDAO
-- respond to Jump Trading

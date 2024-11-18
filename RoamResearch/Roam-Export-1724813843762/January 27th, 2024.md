@@ -1,4 +1,0 @@
-- Einstein Code: Todos to Joe
-    - Save information
-    - Fix context window
-- Plan week - sync with Bob Bench

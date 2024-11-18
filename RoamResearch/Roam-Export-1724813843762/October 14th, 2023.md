@@ -1,8 +1,0 @@
-- Get Masters and try to do PhD abroad in Malaysia
-    - Or just take a gap and bring Sev and start a company (Fall 2024)
-    - Then at 30 go back to finish
-- Ascent of Money
-    - Money is important and financial systems are constantly evolving I should be a part of it
-- Malaysia Plan
-    - Sev can study for Masters and make YouTube channel, we’ll marry so she can have US visa
-    - I will see if I can do a year at SNU or just defer

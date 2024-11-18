@@ -1,5 +1,0 @@
-- institutional investors are trusts of the guilded age
-    - This ages Red Queen Problem
-    - Jose Azar
-    - Fiona Scott Morton
-- J. Lanier Who runs the World

@@ -1,9 +1,0 @@
-- PhD [[Research]]
-    - Fall - Draft Journal Paper - Operator Learning - Behavior 100
-        - Papers and Thesis didn’t outline these important things:
-        - Incrementatlity and Compositionally for combining models and lifelong learning
-    - Fall - Open World Bilevel Planning - Co-Author with Lin
-    - Spring - Fully Differentiable Bilevel Planning
-        - First Author
-    - Spring - Continuous Lifelong Operator Learning
-        - First Author

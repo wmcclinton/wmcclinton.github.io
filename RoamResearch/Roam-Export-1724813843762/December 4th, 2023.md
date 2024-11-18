@@ -1,7 +1,0 @@
-- Todo Finish Fabric with Doni
-    - Telegram Interface
-    - Clean up Code
-    - Launch
-    - Make todos for Doni and team
-        - List all outstanding things
-- Meet Bakrat and Make Gameplan

@@ -1,9 +1,0 @@
-- Quant
-    - Feynman of Quant
-- Fabric
-- PhD
-- Research how to actually get rich
-- Write Masters Thesis Draft with Behaviour Results inside
-    - Draft Theory Paper
-- Write Fabric white paper
-- Fabric Launch Testnet-Mini and Testnet-Main

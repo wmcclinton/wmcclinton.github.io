@@ -1,5 +1,0 @@
-- 7-8 1hr Make 1 sided formula sheet
-- 8-9 1hr Do practice test 1
-- 9-10:30 1.5hr Do practice test 2
-- 10:30-12 1.5hr Do practice test 3
-- 12-1 1hr Do mistakes over again

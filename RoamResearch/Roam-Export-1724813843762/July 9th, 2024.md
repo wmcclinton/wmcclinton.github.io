@@ -1,9 +1,0 @@
-- Todo:
-    - Workout in Park
-    - Load Supply Chain Data
-    - X Pilates
-    - Complete Part 1 of Kx course
-    - Talk to Ryan about Market Making with RL
-- Later:
-    - https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259?gi=88d9b5ef5489
-    - 

@@ -1,4 +1,0 @@
-- Todo:
-    - 9am Attackathon
-    - 12pm Lunch
-    - 6pm Nobel DAO Event

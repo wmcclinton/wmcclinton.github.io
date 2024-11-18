@@ -1,7 +1,0 @@
-- Alphanomics 
-- Professor meeting at 10:30
-- BD meeting at 1
-- Chaincode meeting at 3
-- look at Eso data
-- Incremental Operator Learning
-    -  Creating a closed world

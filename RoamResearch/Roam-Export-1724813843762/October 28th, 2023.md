@@ -1,9 +1,0 @@
-- Todo:
-    - Reshedule haircut
-    - BJJ
-    - Haircut
-    - Tomas Comments
-    - Behavior Videos
-    - Clean Deep
-    - Quant Plan
-    - Thesis plan

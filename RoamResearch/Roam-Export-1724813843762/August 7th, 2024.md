@@ -1,5 +1,0 @@
-- if you do bad tell Aaron and ask to hook up with another team pre talk to Hannah from Citadel DSG
-- Todo:
-    - Research Talking Points
-    - Prob, Stats, and Econometrics
-    - Programming Concepts

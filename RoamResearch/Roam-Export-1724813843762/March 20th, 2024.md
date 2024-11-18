@@ -1,2 +1,0 @@
-- Figure out Tao and Harvard expo
-- Message speakers

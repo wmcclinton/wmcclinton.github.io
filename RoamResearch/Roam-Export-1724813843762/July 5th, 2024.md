@@ -1,2 +1,0 @@
-- I like robots wouldn’t mind working for Disney 
-    - see how to train your dragon new robot movie

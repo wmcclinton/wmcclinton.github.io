@@ -1,7 +1,0 @@
-- Tmrw:
-    - {{TODO}} Finish Dockerfile
-    - {{TODO}} Test GPT2 and Add it
-    - {{TODO}} Add Dall-e mini on the towers (with flag)
-    - {{TODO}} Finish Testnet
-    - {{[[DONE]]}} Get tower, text Bob about deals and Hamas
-    - 

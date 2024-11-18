@@ -1,4 +1,0 @@
-- Austin Meeting at 9am
-- Meet Ben and Max Tomorrow morning
-- BD meeting at 11
-- Get DCI in order, follow up with everyone on monday
