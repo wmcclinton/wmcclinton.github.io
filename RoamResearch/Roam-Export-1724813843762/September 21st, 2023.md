@@ -1,0 +1,34 @@
+- Morning Routine
+    - Will you do what it takes to live a longer, happier, healthier, more filling life today?
+    - {{TODO}} Make the choice that you want to be better for your family, the world, and those you love
+    - {{TODO}} Excersize (3x 45s do 15s rest)
+        - Ab Rollouts - 10
+        - Bicycles  - 20
+        - Burpees - 10
+        - Plank 
+        - Push-Ups (30+)
+    - {{TODO}} Stretch
+        - 15 min
+    - {{TODO}} Meditate and Tea
+        - 15 min
+    - {{TODO}} Write Todays Todos
+        - 5 min
+    - Day - 10
+- Day:
+- Evening Routine
+    - {{TODO}} It’s never too late, choose to save the day it’s all about incremental progress. Life’s a marathon
+    - {{TODO}} Skincare and Relaxation
+    - {{TODO}} Write Tomorrows Todos
+    - {{TODO}} Read +30min
+    - {{TODO}} Lay in bed by 11
+- Think about going to bali
+- Call eversource
+- You already have the perfect career setup
+    - You have 3 years to have a great setup
+- **15.465 Alphanomics: A New Approach to Security Analysis **
+- Email quantbot
+- Do career narrative/planning for Investing Career
+- Make Plan for Pursuing that narrative
+- Go down S&P and Dow Jones top 10 and create value estimate
+- And top 10 crypto coins
+- Organize Binder

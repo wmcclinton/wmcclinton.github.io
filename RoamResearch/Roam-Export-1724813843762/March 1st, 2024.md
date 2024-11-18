@@ -1,0 +1,21 @@
+- Meet Nobel Dao
+    - 12am Monday night
+- [[Values]]
+    - Understanding the Trees of beliefs allow you to predict the future
+- 
+- Todo:
+    - Submit HW
+    - Make March Goals
+    - How does the future look and why is alpha not everything
+    - Think about PhD Thesis and Life
+    - Reflect on stuff written yesterday
+    - Start Studying for tests
+        - Focus on classes
+            - Even tho SATI is focused on Blockchain, AI, and Robots:
+                - My focus is on;
+                    - Quantitative Research
+                        - Course - Internship
+                    - AI/Robotics
+                        - PhD
+                    - Blockchain
+                        - SATI - DCI

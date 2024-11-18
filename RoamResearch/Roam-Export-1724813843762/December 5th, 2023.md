@@ -1,0 +1,13 @@
+- Finish Fabric
+- Meet Bakrat
+- WUD Skill
+- Thesis Data
+- Lin Data
+- Organizing people in a better way to produce something better than whats already out there
+- Access to information and markets people didn't have access to or even creating markets where they don't existed yet
+- 
+- TODO:
+    - Solve AI with LLMs
+        - Take our fully differentiable Bi-level planning formulation and insert LLMs everywhere
+    - Make Fabric work with Stochastic models
+        - Easy make temperature 0

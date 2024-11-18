@@ -1,0 +1,11 @@
+- Watch Bloomberg Daily
+- Make your Businesses 
+- Stack your paper - build your robots - stay educated and get your PhD
+- Life:
+    - Games
+    - Women
+    - Music
+    - Gambling
+    - Funs of life
+        - don’t take life too seriously
+            - or at least know when to and not too

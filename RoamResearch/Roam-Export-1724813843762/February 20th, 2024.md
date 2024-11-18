@@ -1,0 +1,37 @@
+- Todo:
+    - Do morning exersizes
+    - Make Speaker Confirmation Sheet
+    - Follow-wp and email all speaker on Bitcoin Expo list
+    - 12pm - Take Public Transportation
+    - 1:30-3:00 Capital Markets Class
+    - 4:00 PM Meet Tobin 
+    - Delete the Apps
+    - Clean House
+    - Do HW and look at Data
+    - X Follow up with Kent Connection to NTU professor 
+- Questions:
+    - What is your motivation for attending graduate school?
+        - Learn about the state of the art in the fields of AI, Robotics, Blockchain, and Computational Economics - for better distribution of resources
+    - What kinda work do you want to do afterwards?
+        - Quantitative Research or R&D for Industry
+    - What research question are you interested in?
+        - How to learn actionable models about the world that can help you plan and predict outcomes.
+    - What skills do you have or would want to acquire?
+        - QR Skills - Stats, Alphanomics, Game Theory
+        - Modeling
+        - Working with Big Data
+        - Math/Scientific Rigor
+        - Starting Independent Businesses
+            - Entrepenuership
+- Continue WSQ project creating French Fama four factor graph on Crypto seen in Lecture 9 in Capital Markets class
+    - email WSQ checking in and asking if he wants me to turn it into a curriculum piece
+- I know why Schonfeld picked me ^
+- How does Renissance test their factors after they mechanically find them 
+- 
+- What are good properties for factors to have other accounting for idiosyncratic risk are good or than 
+- What are good ones for crypto
+- Find time to meet and discuss with Gabaix intersection of CS/AI behavior and factors
+- ^ Email Gabaix
+- 
+- Try to get on Tobin Prospectus paper and connect with stable coin person
+    - Head of Bitcoin Regulation for other countries

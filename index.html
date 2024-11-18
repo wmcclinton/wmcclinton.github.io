@@ -17,18 +17,32 @@ body, html {height: 100%}
   background-position: center;
   background-size: cover;
 }
+.overlay {
+    position: relative;
+    z-index: 2; /* Higher layer than the GIF */
+    text-align: center;
+    top: 50%; /* Adjust as needed for positioning */
+    transform: translateY(-50%);
+    color: #fff; /* Adjust text color for better visibility */
+}
+
 </style>
 </head>
 <body>
 
 <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
-  <div class="w3-display-topleft w3-padding-large w3-xlarge">
-    AI Researcher and Engineer
+  <div class="overlay">
+    <div class="w3-display-topleft w3-padding-large w3-xlarge">
+      Quantitative Researcher | AI Engineer
+    </div>
   </div>
   <div class="w3-display-middle">
-    <image src="giphy.gif">
+    <div class="w3-center">
+      <image src="giphy.gif"></image>
+    </div>
     <h1 class="w3-xxlarge w3-animate-top w3-center">Willie McClinton</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
+    <p class="w3-large w3-center"><i>Open Source Innovation - Decentralize Societies - Automate Industries</i></p>
     <div class="w3-xlarge w3-section w3-center">
       <a href="https://scholar.google.com/citations?user=JycsdR0AAAAJ&hl=en&oi=ao"><i class="fa fa-graduation-cap w3-hover-opacity"></i></a>
       <a href="https://www.linkedin.com/in/wbm3/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>

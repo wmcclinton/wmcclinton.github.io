@@ -1,0 +1,14 @@
+- [Earned] Virtue Finance Setup and Start
+- (Sat) Figure out finances and pay loan
+- (Sat) Forex Book
+- (Sun) 14.320 HW
+- (Sun) Aneta Code
+- (Sun) Plan week
+    - Blog Post
+    - Masters Proposal
+    - Investment Management Club
+    - BD skills
+    - Simple PoW Blockchain
+    - VFF
+- (Monday) Pay Discover Debt and Add to Vanguard
+- Today Cancel All Extra Subscriptions

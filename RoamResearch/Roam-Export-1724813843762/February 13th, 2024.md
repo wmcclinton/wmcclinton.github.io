@@ -1,0 +1,14 @@
+- I’m failing BD and DCI, is that ok?
+- Make a market simulation to show how market mispricing gets fixed (mean reversion), show how momentum can form - use Shiller model
+- 
+- 
+- Print Verfied ML with ZK paper
+- Print Predicate Invention and Operator Learning Paper
+- TLPK Meeting:
+    - We have the predicate invention paper and new operator learning procedure, maybe together they can learn to use diffusion policies (assuming some connecting operators and predicates are given)
+        - We’ll basically maximize the same objective with hill climbing in the loop as proposed before
+        - This can be the first step on the way to the journal paper I wanted to do
+        - Propose Predicates (can minimize predicate proposal by current predicates - along with modal logic), Hill Climb to Find Operators, Score, repeat
+- [[Values]]
+    - Buffet vs Thorp
+        - The game of bridge

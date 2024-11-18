@@ -1,0 +1,17 @@
+- QR, AI Reasercher, Startup
+    - Ikaigai 4 but with actual metrics
+- We need a Market for Data and Intelligence
+- Folkopoly - Henry George Original Game
+    - Make The Landlords Game (aka old monopoly and add vickrey’s auction)
+        - vickrey commons
+        - with option of partial common ownership
+        - texas shoot out for price finding is actually good
+        - Harbors Tax
+        - Common Ownership Self-Assests Tax on Wealth
+            - right to use
+            - right to exclude
+- By trying to understand the mind and what goes on underneath the currents I saw the world and everything in it from galaxies to stars to governments to bits, and ended up with a simultaneous top down and bottom up look at my self
+- Text Max and Ben, And Habibi group about Radical Markets
+- Taiwan Decentralized Decomcracy
+    - Pollist
+    - governance of radical exchange

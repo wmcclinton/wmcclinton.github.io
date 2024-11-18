@@ -1,0 +1,57 @@
+- Goals:
+    - 1. Financial IQ
+        - Businesses (Aneta, VF, VA, Gen), Paper Assets (Vanguard), Real-Estate (Uzb), Commodities (???)
+    - 2. PhD/BD
+        - PhD in Robotics minor in Quant Finance
+    - 3. BJJ/Health
+        - Black Belt - 165 lbs 12% BF
+    - 4. Travel/Russian
+        - See the world - Fluent in Russian
+- Today:
+    - Morning Routine:
+        - {{TODO}} [[Morning Routine]]
+            - {{TODO}} [[Journalling]]
+                - ... {{word-count}}
+            - {{TODO}} [[Morning Workout]]
+                - 100 Push-ups
+                - 5x5 Ab-Rolls
+    - 10:30-12:00 PhD/Work
+        - ...
+    - 12:00-1:00 Lunch Break
+    - 1:00-2:30 PhD/Work
+        - ...
+    - 2:30-3:00 Afternoon Break
+    - 3:00-4:30 PhD/Work (or Business)
+        - ...
+    - 4:30-6:00 Evening Break
+    - 6:00-7:30 Exercise
+    - 7:30-8:30 Dinner Break
+    - 8:30-10:00 Business
+        - ...
+- [[Notes]]:
+    - Wake up
+        - Study R Squared
+        - Study Interpreting Multi Regression
+        - Make study sheet
+        - Review crypto project questions:
+            - what was sharpe? Not that great
+                - find on google
+            - what did you use instead for hml? nvt
+            - what are the 3 types you tried? explain
+                - hml - <1 less than 1.2 Sharpe of Market 
+                - umd - Momentum something ridiculous  
+                - strev - <0.8 less than 1.2 Sharpe of Market
+    - Interview went well only talked about my project which they enjoyed.
+    - Todo (In Amsterdam):
+        - Finish Project on Resume
+        - Arbitrage cBTC
+        - Apply to Full-Time: 
+            - big name JS, HRT, Two Sigma, DE Shaw, Citadel, Bridgewater, AQR, Renaissance, SIG
+            - Spam a lot on handshake and LinkedIn 
+        - Record Main WSQ course
+        - Read Active Equity Management and Take Notes
+        - Finish 15.456 Class and take notes
+        - Finish Option, Volatility, and Pricing Book
+        - Study, Study, Study
+        - Grow and be smart
+    - Quant won’t make you rich just provides stability, creating something new of value will make you rich as well as increasing your Financial IQ. Work your 60hr work weeks but don’t forget to build businesses too: courses, YouTube, real estate, startups (Aneta, VirtueAI, Genesis, VirtueFinance, etc)

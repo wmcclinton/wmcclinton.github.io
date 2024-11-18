@@ -1,0 +1,16 @@
+- Go to Alphanomics
+- Send Bitcoin Expo Emails
+    - Email all Cold Emails
+- Do BD
+    - 
+- Do HW
+    - Today
+- Tuesday
+    - Capital Markets
+    - 4:30pm meet Sam Lehman
+    - 4-7pm BD
+    - 7pm Dinner with Harvard Blockchain Dircetor
+- Wednesday
+    - 9:30pm - 1pm BD
+    - 1pm BD meeting
+    - Valentine’s Day

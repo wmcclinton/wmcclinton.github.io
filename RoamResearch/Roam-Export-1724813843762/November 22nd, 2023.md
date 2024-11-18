@@ -1,0 +1,4 @@
+- Use $3.5k Coinbase and $2k end of month MIT to pay credit down to $7.5k
+- https://www.ivey.uwo.ca/media/3775518/the_cross-section_of_expected_stock_returns.pdf
+- https://www.sciencedirect.com/science/article/abs/pii/0304405X78900260
+- Spend more time with Sevara, so she doesn’t go crazy

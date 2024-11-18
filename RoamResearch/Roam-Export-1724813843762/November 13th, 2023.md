@@ -1,0 +1,13 @@
+- Prepare for DCI meeting
+- Send Emails to mentors
+- https://youtu.be/KDpPkqaA_04?si=6O0HJC1Jj9pgm0tw
+    - EKZL
+- Diplomacy+ game
+    - if you have the initial state and everyone’s orders every turn you can reconstruct the full game state and send and display it
+    - Finish:
+        - Make State Render
+        - Make Move Parser
+        - Make State Updater
+- Connect Manish with Heather
+- Todo:
+    - Plan my life

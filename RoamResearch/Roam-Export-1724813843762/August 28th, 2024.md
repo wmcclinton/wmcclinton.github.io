@@ -1,0 +1,41 @@
+- YARVIS-V2
+    - keep me organized
+    - intake
+    - processing
+    - reviewp
+- 
+- 
+- 
+- 
+- 
+- 
+- Todo:
+    - Talk to Lin about ICRA
+        - Test Teamviewer
+    - PiGo Kickstarter
+    - VFT save old datasets
+- Focus:
+    - Quant
+        - Schonfeld
+            - Venus
+                - Adding generic tests and datasets to NLN
+                - Figure out if datasets add value (Ester/Simmer)
+                - WQFA & OSAP signals
+            - DeepArb
+                - install tensorflow gpu with pyq data
+        - WSQ
+            - additional questions
+            - resumes
+            - assessment (just copy millenium)
+        - VFT
+            - get all old finance commodity, forex, and crypto data and save it 
+    - Robotics
+        - PhD
+            - two papers
+        - PiGo
+            - Client list - Kickstarter
+        - SATI
+    - Health
+        - BJJ
+        - Judo
+        - Diet

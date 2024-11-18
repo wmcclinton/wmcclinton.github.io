@@ -1,0 +1,42 @@
+- Meet Gavin
+- Finish reading Inside the Black Box
+- Start Advances in Active Portfolio Management
+- Start Quant Feynman Journal
+    - add Martingales, look into martingales
+- Make Life Plan - Ikigai, Values, Escape the Rat Race
+    - 10 years
+    - 6 years
+    - 2.5 years
+    - 1 years
+- Write Inside the Black Box Summary
+    - Parts of the blackbox (write inputs and outputs)
+        - Alpha Model - optimist
+        - Risk Model - pessimist
+        - Transaction Cost Model - frugal accountant
+        - Portfolio Optimizer and Objective Function - rules
+            - alpha returns, variance, and correlation measurements
+            - mean variance model - markowitz
+            - GARCH heteroskadasicty
+            - Black Literman
+            - Grinold and Kahn - Features
+            - Monte Carlo Simulation
+            - Data Mining
+- Revamp goals and screen saver
+- Write your current network and try to expand
+- Dropout then get PhD in Computational Economics
+    - Top Top MIT
+    - Top Top Stanford
+    - Top Top Princeton
+    - Top Top UCB
+    - Top CalTech
+    - Top Columbia
+    - CMU
+    - Cambridge
+    - Oxford
+    - Top London School of Economics
+    - Brown
+    - Top NUS
+    - Top ETH Zurich
+- Then start a prop shop
+- https://blog.samaltman.com/what-i-wish-someone-had-told-me
+- message coding Jesus and say thank you tell him about Schonfeld

@@ -1,0 +1,21 @@
+- Ken French and Fama of the Crypto Market
+- 
+- Update Website
+    - Write potential sponsors outreach to Henry
+- Relax
+- Plan Next Two Weeks
+- Plan PhD
+- Walk around with Sev
+- Read Books and Papers
+    - Focus on PhD
+    - Quant Career
+    - Expo and Dragon Fund
+- Im going to join a market-neural team who does exactly what we communicated in class
+    - get a big risk factor model from a vendor
+    - then define signals/starts and find alpha
+    - but if every signal defines a portfolio than I don’t understand the difference between alpha and beta, for example I define an UMD signal (Momemntum) and find with some parameters it generates alpha what prevents me from making/calling that risk factor
+        - I think it’s just a conceptual problem I have
+    - Is it risk factors are what we are trying to control for and alpha is what we can provide
+    - are than the huge collection of risk factors that we get just a list of know alphas the market will most likely exploit
+- What is ur personal take of UMD
+- 

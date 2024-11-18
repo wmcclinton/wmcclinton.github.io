@@ -1,0 +1,47 @@
+- Morning:
+    - Schonfeld Yael meeting plan
+    - WSQ Assessment
+        - Updates:
+            - Resume optimization course
+            - Prep course
+        - Questions
+        - Assessment
+            - yfinance crypto data
+        - Assisting with Resume Reviews
+        - Discord - TA for the Fall
+- Yilun Defense 1pm
+    - Notes:
+        - Pointers:
+            - https://arxiv.org/pdf/2406.11179
+            - https://arxiv.org/pdf/1903.08689
+            - https://arxiv.org/pdf/2302.11552
+            - https://arxiv.org/pdf/2211.15657
+            - https://arxiv.org/abs/2309.08587
+            - https://arxiv.org/pdf/2402.01103
+- Call Gordon 1:30
+    - PDT Partners
+    - GQS
+    - DE Shaw
+    - Vatic
+    - Janestreet
+- Meeting Yael 2:30
+- Register for Classes
+- Jim WSQ 6pm
+- Get Life Back of Track:
+    - Workout (Half Willie Murphy) MWF
+        - 1 mile
+        - 50 - pull-ups 
+        - 100 - lower abs
+        - 100 - upper abs
+    - Meditate
+    - Diet - calorie count (eat balanced)
+        - 165 - 12% -1-2lbs a week (<2000 calories)
+    - Read
+        - 2 books 2 weeks
+    - Write
+    - Focus: 
+    - PhD, Schon, VFT, WSQ, PiGo, SarAI, SATI
+- Todo:
+    - Cancel 10th planet
+    - Pay Elevate
+    - Get Dental Insurance

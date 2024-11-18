@@ -1,0 +1,81 @@
+- Todo this week:
+    - PhD (30hrs):
+        - Meet with Lin (T 4:30)
+        - Outline Journal Paper (F)
+        - 10hrs Study for Citadel Interview Thursday (T,W)
+    - Schonfeld (10hrs):
+        - Write up proposal for DeepArb (M)
+        - Write up todos for Project Venus (M)
+        - Make simple NN using gpu and a data loader from 5555 on ny5-pr-rsntr-02 (F)
+    - WSQ (10hrs)
+        - Do half of assessment document (M, F)
+    - PiGo (5hrs)
+        - Make v2 design (F)
+        - Make client list and criteria for Sevara (Axhens, Ryan, Terry, and I) (F)
+    - (Maxed out this week) VFT (5hrs)
+        - Make and Send Max document (M)
+        - Setup a few exchanges and make Universe (Short-able) (M)
+        - Make function to compute covariance / cointegration (M)
+        - Setup Server
+    - SarAI (1hr)
+        - Draft Email and Send (M,T)
+    - SATI (Skip)
+- 
+- 
+- First Thing:
+    - Sell All Except $30k in Nvidia and $14k in VOO
+    - $50k in cash
+- [[Life]]
+    - Learn, Master, than Innovate
+- General Information that’s good to know:
+    - Basic Math: Algebra and Calculus
+    - Probability and Stats
+    - Information Theory
+    - Micro Econ and Finance
+    - Theory of Compuation
+    - Computer Hardware
+    - Programming
+- Todo:
+    - Write Todo list for seven things:
+        - Quant, PiGo, VFT, SarAI, SATI, PhD/Classes, WSQ
+        - Quant
+            - Get Citadel Internship
+            - Schonfeld:
+                - Venus:
+                    - cron job for two datasets
+                    - add signal to ester and simmer galileo
+                - DeepArb
+                    - Write up project proposal / sheet - Deep Learning Stat Arb
+                    - Reproduce paper results
+        - PiGo V2 Designs - make prototype - make website (they pay and sends me their shipping address and gives them invoice) - make kickstarter campaign
+        - VFT
+            - Go thru Sherzods stuff
+            - Sketch out our version of galileo system strat
+            - Sketch out Pairs, Lead-Lag Arb strat
+            - Outline Risk Model implementation
+            - Outline plan for handling drawdowns and risk/return analysis
+        - SarAI/SATI
+            - schedule meetings and do less <3hrs per week
+        - PhD
+            - TLPK ReSync Slides (Konidaris Plan)
+                - Willie’s Version of Tom’s Pipeline
+                - Next Four Papers:
+                    - Journal Paper
+                    - Open World
+                    - End-To-End
+                    - Lifelong
+                - How it’s different from Nishanth and Lin
+            - Fall - Draft Journal Paper - Operator Learning - Behavior 100 
+                - Combing Desperate works to sketch out Willie’s version of Tom’s pipeline
+                - Papers and Thesis didn’t outline these important things:
+                    - Use of black box skills - the learning algorithms are agnostics to the underlying skills and predicates
+                    - Incrementatlity and Compositionally for combining models and lifelong learning
+                    - ability to optimising off-policy and therefore can use alongside a curiosity objective or improvement objective (planning to practice)
+            - Fall - Open World Bilevel Planning - Co-Author with Lin
+            - Spring - Fully Differentiable Bilevel Planning
+                - First Author
+            - Spring - Continuous Lifelong Operator Learning
+                - First Author
+                - Final Paper (Before Thesis)
+        - WSQ
+            - Finish Market Making Jupyter

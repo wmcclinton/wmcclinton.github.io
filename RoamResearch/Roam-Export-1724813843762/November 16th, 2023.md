@@ -1,0 +1,40 @@
+- Blockchain is not for storing data, it’s for trustless decentralised consensus 
+    - use BitTorrent for sharing data
+- look at fediverse
+- Priorities PhD
+    - You have infinite interest
+    - Finite time and resources
+- Neha Proposal:
+    - TODO:
+        - read Project Hamilton Paper
+        - read Proof of Deep Learning Paper
+        - read Minotaur Paper
+    - Met Manish and he said that I don’t have to work on CBDCs to be in DCI
+    - I wanted to do CBDC maintenance so I could be around smart people at DCI while I work on my idea:
+        - Consensus mechanisms for AI Models:
+            - Storage
+            - Training/Compute
+            - Inference
+        - How can we standardize AI (make it safe) and put it on a network for anyone to access
+        - I imagine a need for the Linux of AI models helping maintain and standardize AI models before it’s only dominated by big players
+- Dentist 10am
+- Email Heather about Mark Raibert -> Manish AIML Conf
+- Meet Jorge 11/12
+- Meet Neha 2:30
+- BD after
+- BTC Club meeting 7pm
+- BTC Board meeting 8:30pm
+- Later:
+    - Cancel All Subscriptions
+        - CORL reimbursement
+        - $100 membership? Patreon
+    - Prepare for Neha Meeting (Thursday 2:30)
+    - R&D Conference
+    - Setup LIS Env
+    - BJJ
+    - Testnet (3 Towers)
+        - Make Windows and Ubuntu Install Scripts
+    - Finish Diplomacy Plus
+    - Later:
+        - Joe Meeting Friday 10:30
+        - Hannah Meeting Friday 11:15

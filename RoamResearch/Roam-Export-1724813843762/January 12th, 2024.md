@@ -1,0 +1,21 @@
+- Meet Advay
+- X Send Aaron updated CV
+    - Classes
+    - Bitcoin Expo
+    - RSS preparation
+- RSS Paper
+- DCI Meeting 1pm
+- Respond to WSQ - about job
+- Thesis submission update
+- Buy grips Amazon 
+- Need to dedicate Quant Self study daily
+- Life in Boston
+- 
+- Review WSQ and CJ responses and integrate them into study strategy
+- 
+- Look into Zerohedge
+- One thing you might read to develop fundamental / market intuition could be earnings releases
+- https://web.stanford.edu/~boyd/cvxbook/
+- https://www.stat.cmu.edu/~ryantibs/convexopt-F18/
+- You can check [quantpedia.com](http://quantpedia.com/) (or just go straight to ssrn) for quant papers. Perhaps a good way to do it is also, as you go through Xinfeng Zhou's book, look at the papers he references and skim them. Skim like 1-2 a week and you should hit your stride and start to develop a feel for the landscape.
+- https://www.amazon.com/Man-All-Markets-Street-Dealer/dp/0812979907/ref=sr_1_1?nodl=1&qid=1705019478&refinements=p_27%3AEdward+O.+Thorp&s=books&sr=1-1&dplnkId=8abf4824-1ee0-498a-8ef2-a947e9e8c371

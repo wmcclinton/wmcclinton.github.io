@@ -1,0 +1,7 @@
+- Three:
+    - Masters Thesis
+    - Fabric Paper
+    - Theory Paper / Cognitive Architcture Paper
+        - Look at Yans and look at your old one and diff the two
+    - AI Aggreation
+        - Connect ChatGPT 4 to our interface

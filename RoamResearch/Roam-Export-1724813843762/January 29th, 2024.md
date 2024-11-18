@@ -1,0 +1,14 @@
+- Sign up and email about Alphanomics
+- Follow up with WSQ and email CJ
+- 
+- Get Harvard ID Card
+- Meet with Bob at DCI tell him I can only do Part Time (1-2 days a week) with Classes (internship), Bitcoin Expo, BD, and my Robotics Research
+- 
+- Figure out Financial Plan and Priorities
+- Priorities: PhD, BD, QR (classes), MIT Bitcoin Expo
+    - Partial: ASRI, Fabric, DCI
+    - Later: VFT
+- Enjoy life
+    - Workout Daily
+    - Meditate
+    - Take serious the Doc

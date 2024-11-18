@@ -1,0 +1,20 @@
+- Write out timeline and branching points
+    - Plus your jumping amounts for each
+        - Startup - 2 mill
+        - Quant Full-Time - >$400,000 ToC
+        - Malaysia - 
+- Todo:
+    - QR:
+        - Do HW
+            - Econ 1723
+            - Alphanomics 15.465
+        - Read Eso book Quantitative Value
+    - LIS:
+        - Look at Advay’s code
+        - Scope Leslie’s Project
+    - X MIT Bitcoin Expo:
+        - Make Expo schedule 1.5 days
+        - Figure out speakers to reach out too
+        - Figure out sponsors to reach out too
+    - X ASRI:
+        - Make proposal for Bob MIT Blockchain Club and Bitcoin Club + Unimas

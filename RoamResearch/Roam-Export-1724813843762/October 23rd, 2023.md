@@ -1,0 +1,21 @@
+- Be better - Your lively hood depends on it
+- {{TODO}} Morning Calesthetics 10min
+- {{TODO}} Morning Stretching 5min
+- {{TODO}} Meditate 10min
+- {{TODO}} Write goals (PhD, QR, DCI - 1 each):
+    - 
+- Day Notes:
+    - 
+- Evening
+    - {{TODO}} Excerize
+    - {{TODO}} Hygiene and Skincare
+    - {{TODO}} Read 30min
+- 
+- TODO:
+    - Sev Breakfast 9:30am
+    - BJJ
+    - Meet Harry
+    - Meet Doni
+    - Econometrics HW
+    - TLP Comments
+    - Meet Fabric Management

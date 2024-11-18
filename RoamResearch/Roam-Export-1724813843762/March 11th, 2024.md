@@ -1,0 +1,14 @@
+- Alphanomics
+- Work on WSQ project and email WSQ
+- Figure out weekly schedule
+- Get funds from Bob - Decide Malaysia - Wednesday
+- Monday:
+    - Hard Workout and Project
+- Tuesday:
+    - Morning Workout and Advay and Project
+- Wednesday:
+    - Alphanomics MIT Bitcoin Expo and restling for BJJ
+- Thursday:
+    - Hard Workout and Project
+- Friday
+    - Project and VFT Launch

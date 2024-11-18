@@ -1,0 +1,16 @@
+- BWS - Beginner Shred
+    - Nutrition is everything
+        - Eating slow and having lots of healthy snacks helps a lot
+        - Calorie Counting and Hitting Marcos
+        - Tracking Tracking Tracking
+        - Most import:
+            - Calorie Intake
+            - Protein Intake
+        - TBH you can eat like shit keep your protein up and be in a calorie deficit and see progress
+    - Workout
+        - 3 days a week
+    - Take it slow, try hard but 80% will do
+    - Do Intro Checklist
+- New Ideas from Dead Economists
+    - The connection between money / market price and information is huge, and very interesting
+        - Adam Smith was on to something

@@ -1,0 +1,18 @@
+- Goals:
+    - 1. Financial IQ
+        - Businesses (Aneta, VF, VA, Gen), Paper Assets (Vanguard), Real-Estate (Uzb), Commodities (???)
+    - 2. PhD/BD
+        - PhD in Robotics minor in Quant Finance
+    - 3. BJJ/Health
+        - Black Belt - 165 lbs 12% BF
+    - 4. Travel/Russian
+        - See the world - Fluent in Russian
+- Morning Routine:
+    - {{TODO}} [[Morning Routine]]
+        - {{TODO}} [[Journalling]]
+            - ... {{word-count}}
+        - {{TODO}} [[Morning Workout]]
+            - 100 Push-ups
+            - 5x5 Ab-Rolls
+- [[Notes]]:
+    - Apply to WSQ list for full time

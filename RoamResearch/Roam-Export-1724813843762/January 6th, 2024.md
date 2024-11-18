@@ -1,0 +1,21 @@
+- Finish yesterday todos
+- get in shape 
+- make weekly plan
+- email a person daily
+- 
+- Rules for buying back your life
+    - When saved now Every 10 years out you can count as x2 (10%)
+    - Everything should be inflation adjusted
+    - Retirement costs are around $100k annual
+    - Kids college education should be a monthly cost - extra $1k a month - kids are then like a $2700 a month addition - $32k annual
+    - 
+- Follow up with Advay - Goel
+- Todo Tonight:
+    - Print 80 year plan 
+        - 4 papers long, and start marking
+    - Write new goals on blackboard
+    - Write new plan on White Board
+    - New screen saver
+    - Make micro plan now
+        - how to make more money (better than risk free rate) pay less taxes and start preparing for final 31
+        - also daily plan and Feynman planning through Atlas

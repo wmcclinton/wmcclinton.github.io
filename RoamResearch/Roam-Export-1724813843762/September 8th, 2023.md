@@ -1,0 +1,89 @@
+- Morning Routine
+    - Will you do what it takes to live a longer, happier, healthier, more filling life today?
+    - {{[[DONE]]}} Make the choice that you want to be better for your family, the world, and those you love
+    - {{[[DONE]]}} Excersize (3x 45s do 15s rest)
+        - Ab Rollouts - 10
+        - Bicycles  - 20
+        - Burpees - 10
+        - Plank 
+        - Push-Ups (30+)
+        - {{[[POMO]]: 15}}
+    - {{[[DONE]]}} Stretch
+        - 15 min
+    - {{[[DONE]]}} Meditate and Tea
+        - 15 min
+    - {{[[DONE]]}} Write Todays Todos
+        - 5 min
+    - Day - 1
+- Day:
+    - 8-9 TLPK presentation
+    - 9-11 Groceries
+    - 11-12 Clean Desk and PC
+    - 12-1 TLPK slides
+    - 1-2 Food and 14.32 review
+    - 2-3 14.32
+    - 3-4 Eden
+    - 
+- Evening Routine
+    - {{TODO}} It’s never too late, choose to save the day it’s all about incremental progress. Life’s a marathon
+    - {{TODO}} Skincare and Relaxation
+    - {{TODO}} Write Tomorrows Todos
+    - {{TODO}} Read +30min
+    - {{TODO}} Lay in bed by 11
+- Todos:
+    - Get groceries
+    - Clean Lab Desk
+    - Make TLPK slides
+    - 2-3 14.32 Recitation
+    - 3-4 TLPK meeting
+    - 4-5 Lab Meeting
+    - 5:30-7 BJJ
+    - Order BDay food
+        - And coordinate
+    - Add Quant Events to calendar
+    - Figure out Class, Studying, BJJ, and Meeting Schedule
+    - Monday follow up with Quant loose ends
+    - Study for an hour
+- Revelations:
+    - Your time is your time
+    - You are mixing too much work and play
+        - Award Work with Play (80-20)
+- Grocery List:
+    - Tofo X
+    - Chicken X
+    - Lentals X
+    - Fish
+    - Broccili X
+    - Carrots X
+    - Baked Beans
+    - Lemon
+    - Collard Greens
+- Figure out finances
+    - You’ve been reckless for long enough
+    - Now time to go in google mode again
+- Learn the Foundations
+    - How money works
+    - How Blockchains work
+    - How AI and Manufacturing works
+- Don’t forget to sign up to clubs
+- things take a lot of time reduce
+- Be honest with what you think the results will be
+- [[Odyssey]] Power of a Protocol
+    - Send Vault amount of contract and message git task url
+    - When task done summit original ^ transaction id, repo code, and address to send it to
+    - Vault will check if address actually did PR
+- Eden is about open source public projects and protocols, money is made via donations and first mover advantage only
+- 5:30-7 BJJ
+- 8-10 Eden
+- Minimized Priorities
+    - Quant Research
+        - Internship
+        - Classes
+    - Robotics/AI Research
+    - Freelance Blockchain and AI Development
+        - Aneta
+        - Eden
+        - Odyssey
+        - Etc
+    - Staying Healthy
+- Lay low - Save Money

@@ -1,0 +1,33 @@
+- Todo:
+    - {{[[DONE]]}} Workout
+    - {{[[DONE]]}} Meditate
+    - {{[[DONE]]}} Work
+    - {{[[DONE]]}} BJJ
+    - {{[[TODO]]}} Read
+    - {{[[DONE]]}} Write
+    - {{[[DONE]]}} Say no to Bob
+    - 
+- [[Schonfeld]]
+    - How do you measure performance (i.e. are you guys doing better at extracting alpha over the years)?
+    - How decide on how much money to allocate to a new strategy?
+    - Write about MCMC and ergodic processes and their relationships to chaos
+    - What is the selling point of kdb a big look up table in ram?
+    - Write:
+        - Write about the $13million dollar position gap first day
+        - Shower Thoughts:
+            - Thank parents for getting me a bucket of legos and a nxt mindstorm
+            - Due to that I think that’s why programming came so natural to me
+                - functions are like pieces that can fit together like Lego blocks to build what ever shape or function you desire
+            - Also pushing me  academically (especially in math)
+            - Starting to program in 5th grade at 10 years old with scratch is pretty impressive and in 6-8th grade with nxt
+            - I had a head start
+            - Thank my parents now that I’m helping people trade tens of millions of assets a day, I’m realising that some of these things only I can do
+            - I’m feeling self actualization, realizing there are somethings that only I can do because of my experiences at such a young age legos, programming, math, Cs, people/neuroscience, AI
+- [[Research]]
+    - PhD worthy final questions
+        - How does Operator Learning Scale with data, what are the theoretical limits. What about n-branch step search, full search hill-climbing, what about beam search?
+            - Solve Behavior
+            - How slow does it get? Parallelisation? Guarantees?
+        - When and when won’t it work with black box skills and a demo?
+            - Aloha-like demo
+        - Journal Paper

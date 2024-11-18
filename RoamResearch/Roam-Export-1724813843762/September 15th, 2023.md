@@ -1,0 +1,45 @@
+- Morning Routine
+    - Will you do what it takes to live a longer, happier, healthier, more filling life today?
+    - {{[[DONE]]}} Make the choice that you want to be better for your family, the world, and those you love
+    - {{[[DONE]]}} Excersize (3x 45s do 15s rest)
+        - Ab Rollouts - 10
+        - Bicycles  - 20
+        - Burpees - 10
+        - Plank 
+        - Push-Ups (30+)
+    - {{[[DONE]]}} Stretch
+        - 15 min
+    - {{[[DONE]]}} Meditate and Tea
+        - 15 min
+    - {{[[DONE]]}} Write Todays Todos
+        - 5 min
+    - Day - 6
+- Day:
+- Evening Routine
+    - {{TODO}} It’s never too late, choose to save the day it’s all about incremental progress. Life’s a marathon
+    - {{TODO}} Skincare and Relaxation
+    - {{TODO}} Write Tomorrows Todos
+    - {{TODO}} Read +30min
+    - {{TODO}} Lay in bed by 11
+- TODO:
+    - 17.800 HW - 21st - 4hrs  - TTh
+    - 14.32 HW - 28th - 4hrs  - TTh
+    - Odyssey MVP - 8hrs - MW
+    - Fabric Lite Paper - 8hrs - MW
+    - Aneta Update Code - 4hrs - Weekend
+    - Quant Remaining Study Questions and Recording - 4hrs  - MW
+    - Behavior Blog Post - 4hrs - TTh
+    - 20 Task Data - 4hrs - TTh
+- TLPK:
+    - Skills might not fit Chaining Policies
+    - Perception might be different
+    - Do gusto hours
+    - Do Masters Thesis Proposal
+    - the Medium is the message
+- BTC
+    - just because the cost of producing the message is zero that doesn’t mean the value is zero
+    - control over the medium is not the source of quality, control is not the way to achieve quality
+    - gatekeepers are not the source of quality
+- Todo
+    - Fix CORL video
+    - reply to schoenfeld

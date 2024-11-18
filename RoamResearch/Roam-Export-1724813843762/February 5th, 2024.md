@@ -1,0 +1,69 @@
+- Tomorrow night:
+    - Sev Excersize
+    - Cook
+    - HW
+- Todo:
+    - AI/Robotics
+        - LIS (T/Th)
+            - Move to new office
+            - !!! Figure out UROP - FDBP
+            - Behaviour Thesis Extension
+        - BD (part-time)
+            - Do Task Planning
+    - QR
+        - Classes
+            - Alphanomics (M/W)
+                - Read for class
+            - Capital Markets (T/Th)
+                - HW
+                - And Catch Up
+        - Meet with Carbin - 11:45
+        - WSQ (part-time)
+            - Later
+    - Crypto
+        - DCI (M/F)
+            - CBDC plan with Sam
+        - MBE (small-W)
+            - Connect with DCI and Chaincode/Dan/Luke
+                - Email
+            - Meet with Greg
+                - Message
+        - Fabric/Einstein (?)
+            - Email Professors (later)
+            - Name (later)
+            - Meeting 2:30 (M/F)
+                - Doni  pager - get simple MVP website up as soon as possible
+                    - UI -> locked smart contract -> response (get there money)
+                    - Website and Telegram (can use credits)
+        - ASRI (?)
+            - ^
+    - Health
+        - Daily Excersize
+            - With Sev
+        - Diet
+            - Cook
+- [[Values]][[CBDC]]
+    - .
+- [[Values]][[Alphanomics]][[2-1-2-11]]
+    - Talk to Eric So about PhD
+    - Nice P90x actually works
+    - Knows Thaler
+        - part of fuller & thaler
+    - Shiller 1984 noise trader model (Dope)
+        - Same as Financial Markets
+        - Same as Housing Market Index
+    - 
+- [[Values]]
+    - Money will come by being useful and doing what you love
+    - My dream is to go to somewhere warm and work hybrid for an institution dedicated to making the world a better place
+        - 40hr/week quant job (maybe World Quant)
+        - 20hr/crypto institute or DCI
+- Schedule time with Eric So
+- Train the will
+    - Curuosity gets you started
+    - Discipline keeps you going
+    - Values keep you happy
+- How to ask for money
+- Work on communication
+    - Self Neuro-Lingustic Programming
+- Future you - Manifest

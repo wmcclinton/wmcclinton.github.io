@@ -1,0 +1,27 @@
+- Time
+- Money
+- And Value are everything
+- Time cannot be made but can be traded for Money or Value
+- Money can buy others Time or sellable Value
+    - Money can be printed by anyone
+- Value is created via Time and Creativity
+- You start with a Lifetime of time you want Value
+    - you need to spend money to survive
+- A Value to money trade is half a trade where Value to Value is the full, money is only a medium. you trade with expectation that you can buy more valuable things
+- Every choice should be thought of how much would someone need to pay you or you need to bay someone to have this thing of Value - that is it’s price or current value
+- Some things have infinite or negative infinite value and calculus with these is hard infinity + infinity = infinity but negative infinity + infinity is undefined 
+    - infinity - infinity is also undefined
+- People will optimise their holdings to maximise present and future value, that trade off of having a thing now versus the future is also a value (present value)
+- Most mistakes in life are about lack of information what markets exist what are their prices:
+    - some things have no markets
+    - some things have much better markets than you think
+    - value of information is hard to gauge
+- Find the things which are infinite negative and positive value (these are your hard constraints)
+    - you can’t do calculus with them
+- Life has constraints you don’t have infinite time or money. And most people have an negative infinite value constraint on dying and not being fed. Even thought unintuitive find the saving amount or annual salary that’s like neg infinite value if you go below it might be zero. Logic might be if I didn’t have this much money now I would not be able to feed me or my family thus I should never dip below that point.
+    - people tend to do infinite calculus and say something like well if I get something infinitely valuable after this negative infinite I will balance out or be in a better position, but that’s not true it’s undefined we don’t know which infinite is bigger
+- Timing of having value is important but less important than avoiding get stuck in infinite value calculus. Also present value can help with these decisions
+- Lastly, if you can ever buy infinite value with finite money buy it or avoid negative infinite value  by paying pay it, these are your spending hopes and where most of your money should go.These are your sink states. Be reasonable and buy at market rate tho even though it’s infinites. Also always avoid infinite calculus.
+- 
+- if it doesn’t refine EPT should be infinity not 0
+- write overleaf with final proposal and send to TLPK and Tom

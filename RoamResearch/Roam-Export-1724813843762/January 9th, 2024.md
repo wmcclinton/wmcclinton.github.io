@@ -1,0 +1,87 @@
+- Goals:
+    - X - Meet Advay 10am - Explain to him ICML project ((or IROS)
+        - x send summary and sources
+        - x Project 
+            - Goal: Make Fully Differentiable Bilevel Planner
+            - How:
+                - Formulate search problem as a representation learning problem, and define objected to optimize.
+                - See how this formulation is equivalent to a less general typical imitation learning setup
+                - Add architectural biases (transformer/convolution) to help empirically and figure out what do these mean theoretically
+            - Resources:
+                - Bilevel Planning Blog Post
+                - Wiki planning problem
+                - Very related to AlphaGo and PDSketch
+                - See Jiayuan messages: NN -> GNN -> Transformers
+                - Others:
+                    - Predicate Invention Paper
+                    - Operator Learning Paper
+                    - Skill Learning Paper
+    - Do Dalies
+        - (tonight) Book (night)
+        - X Paper - Transformers
+        - (finish tmrw) Atlas - Transformers, WSQ, and Inside the Black Box - Feynman Style
+            - Use ChatGPT as a student and to help
+    - (tonight/morning) Start Writing RSS paper part
+        - Outline Appendix D Section
+    - X Make Plan for research (RSS, ICML/IROS, COLLAs)
+    - X - Respond to Ashley DCI
+- [[Values]][[Transformers]]
+    - https://www.quantamagazine.org/how-ai-transformers-mimic-parts-of-the-brain-20220912/
+    - https://arxiv.org/abs/1706.03762
+    - Me:
+        - I want to complete this analogy "Convolutional Neural Networks" are to "the local receptive fields of neurons in the visual cortex" as "Transformers" are to 
+    - ChatGPT:
+        - "Convolutional Neural Networks (CNNs) are to the local receptive fields of neurons in the visual cortex as Transformers are to the distributed attention mechanisms in human cognition."
+        - Here's an explanation of this analogy:
+        - CNNs and Visual Cortex:
+            - Local Receptive Fields: In the visual cortex, neurons are sensitive to specific regions of the visual field, detecting localized features such as edges, colors, and textures. This is analogous to the way convolutional layers in CNNs use filters to detect features in portions of the input image.
+            - Hierarchical Processing: The visual cortex processes visual information in a hierarchical manner, with different layers of neurons responding to increasingly complex features. CNNs mimic this hierarchical structure, with deeper layers combining the features detected by earlier layers to recognize more complex patterns.
+        - Transformers and Distributed Attention Mechanisms:
+            - Distributed Attention: Human cognition, particularly in tasks involving language and memory, utilizes distributed attention mechanisms. These mechanisms selectively focus on different parts of the input information (like words in a sentence or elements in a sequence) and relate them to each other regardless of their position.
+            - Transformers' Attention Mechanism: Similarly, the core mechanism of Transformers is the attention mechanism, specifically the self-attention component. This allows the model to weigh and relate different parts of the input data (such as different words in a sentence), regardless of their sequential position. It helps the model to understand the context and the relationships between elements in the input.
+        - In summary, while CNNs mimic the localized and hierarchical processing of the visual cortex ideal for spatial data like images, Transformers emulate the distributed and context-aware processing of human cognition, making them highly effective for sequential data like text or time series.
+    - How does Distributed Attention relate to planning? 
+- Research:
+    - RSS
+        - Write Appendix (CogMan)
+    - ICML/IROS
+        - Fully Differentiable TAMP
+        - Fix Theory
+        - Implement Empirically on Grid World Tasks
+            - Model Based - Behavior Cloning
+                - vs typical Behavior Cloning
+        - Beat BC Baselines
+    - CoLLA
+        - Thesis wants: finish and turn into a paper, learn on behavior and show composition and transfer
+        - See Thesis plan prior to thesis:
+            - https://docs.google.com/document/d/1skH0j-mUjen6BGq7-y6zo7bRttu0laasJEqUq4f3ytg/edit
+            - 
+- Predicators + Aloha
+    - Problem
+        - Predicators does TAMP but needs hand-coded skills even if Predicators and Operators are given
+            - Can induce these from skills
+        - Aloha gives a nice infrastructure to learn shortish policies from imitation learning data
+    - Soultion
+        - Learn Policies with Aloha, Handwrite predicates and induce operators
+            - samplerless
+        - Plan to Practice when free, otherwise accomplish human given goals
+            - if fail try to replan, if stuck ask for help finishing the current skill - add to demos
+        - On new demos rerun imitation learning
+        - To bootstrap learning help with lowest competence skill
+    - How
+        - Skills learn via Imitation Learning like in Aloha
+        - Predicates are Hand Written from object oriented SAM+Detic System
+        - Use SeSaMe (CogMan - Replanning System)
+    - Next Problem
+        - Now that it is learning and achieving long range behavior how do you use the data collected to demonstrate how to over come failures
+            - like if a skill is doing poorly and not getting better by practicing you can give it more demos
+        - LLMs turn language into predicates and turn errors and asks into Natural Language
+            - Might be cool to answer questions about state or say why they are doing something (necessary effects)
+- Habbits [[roam/templates]]
+    - root - Daily Excersize (Morning Routine) - preferably outside
+    - sacral - Daily Bloomberg, Daily Reading Paper (1hr), and Book (1hr) gratitude journal
+    - solar plexus - Calorie Counting
+    - heart - Tell Sev you love her
+    - throat -Daily Atlas (1hr)
+    - crown - right daily goals and weekly if monday
+    - third eye - meditate to train mind to focus what needs to be focused on

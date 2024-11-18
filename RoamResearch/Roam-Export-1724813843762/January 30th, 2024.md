@@ -1,0 +1,36 @@
+- 10am show BD
+- Harvard ID Card
+- Class
+- 4pm DCI Bob
+- 7pm Meet WSQ
+- What’s a clearing house
+- 
+- Re-envision Eden
+    - Online Distributed Economy 
+        - Payment
+        - Markets
+        - Finance
+        - Resources
+        - Organisation and Labor
+        - Education
+        - Governance
+    - How does the world of the future look? Cross boarder, global, free
+    - How does the US work?
+- Think about Alpha Coin
+    - https://www.worldquant.com/how-we-work/
+    - WorldQuant alphas -> coin reward
+    - OnChain Portfolio -> rewards to investors and coin holders
+    - Distributed Hedge Fund
+- https://www.42network.org/
+    - peer to peer teaching
+- DEXs - 
+- Decentralised Job Board -
+- What are the real world connectors?
+    - Stable Coins
+- 
+- [[Values]][[2-2-5-13]]
+    - Why are most Bonds traded OTC
+- Convo with Bob
+    - ChainCode HRT
+        - Core Devs
+    - 3 Panels - DCI will help

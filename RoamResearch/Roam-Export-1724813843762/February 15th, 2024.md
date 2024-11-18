@@ -1,0 +1,16 @@
+- Figure out MIT Bitcoin Expo
+- Figure out life
+- Figure out finances
+- Make LIS slides:
+    - Talk about what was written on the 13th
+    - Put Ahays work into context
+    - Add incremental operator learning and explain how that’s finding local solutions to the problem instead of trying to find the global ones all at once
+- Pay Gas
+- Pay Taxes
+- Find Income for Sev
+- 
+- Do Alphanomics first questions 7:30-8:30
+- Do Capital Markets HW 9-1
+- Capital Markets Class 1:30-3:00
+- Do Alphanomics HW 3:00-5:00
+- Make plan for looking at data

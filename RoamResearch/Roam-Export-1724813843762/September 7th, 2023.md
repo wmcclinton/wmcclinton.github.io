@@ -1,0 +1,295 @@
+- Todo Tmrw:
+    - Todos
+    - 14.32 Recitation
+    - Clean Lab Desk
+    - Make TLPK slides
+    - TLPK meeting
+    - Lab Meeting
+    - BJJ
+    - Order BDay food
+    - Add Quant Events to calendar
+    - Figure out Class, Studying, BJJ, and Meeting Schedule
+    - Monday follow up with Quant loose ends
+- They want you to fail so they can say I told you so
+- Another Day [[roam/templates]]
+    - Morning Routine
+        - Will you do what it takes to live a longer, happier, healthier, more filling life today?
+        - {{TODO}} Make the choice that you want to be better for your family, the world, and those you love
+        - {{TODO}} Excersize (3x 45s do 15s rest)
+            - Ab Rollouts - 10
+            - Bicycles  - 20
+            - Burpees - 10
+            - Plank 
+            - Push-Ups (30+)
+        - {{TODO}} Stretch
+            - 15 min
+        - {{TODO}} Meditate and Tea
+            - 15 min
+        - {{TODO}} Write Todays Todos
+            - 5 min
+        - Day - 
+    - Day:
+    - Evening Routine
+        - {{TODO}} It’s never too late, choose to save the day it’s all about incremental progress. Life’s a marathon
+        - {{TODO}} Skincare and Relaxation
+        - {{TODO}} Write Tomorrows Todos
+        - {{TODO}} Read +30min
+        - {{TODO}} Lay in bed by 11
+- [[The Diary of a CEO]] 
+    - Stories are more powerful than data but data is important too - this is important for applications too
+    - Self Mastery - if you don’t have dominion over yourself you will never hold dominion over others - Leonardo Davinci
+    - Story - (what really is my story)
+    - Philosophy - forecasts how you will behave
+    - Team - every organisation is a group of people
+    - Filling the 5 Buckets
+        - What you know - Knowledge
+        - What you can do - Skills
+        - Who you know - Network
+        - What you have - Resources
+        - What the world thinks of you - Reputation
+    - You cannot pour from empty buckets
+    - Having clarity is so important take time to foster it
+    - Ego tends to make you skip the buckets, but you’ll pay for it
+    - Knowledge and Skills are your longevity
+    - Make a obligation to yourself to teach it
+        - if you want to learn read
+        - if you want to know about it do
+        - if you want to master teach
+    - Have skin in the game - loss aversion is strong
+    - Feynman Technique
+    - Obligation to teach
+    - the person who learns the most in the classroom is the teacher
+    - Seeing is believing
+    - The amount of data we have to have our beliefs is preposterous but is needed 
+    - Do the thing you fear and keep doing it - this is how you train your beliefs
+    - Decide what you want to belief but don’t and do uncomfortable things based on the belief till you think it’s true
+        - in situations where you can see positive evidence
+    - [[Idea]] Potentially double down on YouTube for accountability
+        - Reach out to Tim
+    - Change is only going to get faster
+    - Will you get closer to your goals today
+    - Sleep is everything no alarms
+    - fix a bad habit with a less bad habit
+    - Health is literally everything
+    - The most absurd thing about you says everything about you
+    - Useless absurdity provides amazing PR
+    - Habituation is soo strong
+    - To kill the power of something flood the world with it
+    - Framing is everything - the frame matters more than the picture
+    - No body cares about you or your invention but you, do what you must 
+        - compelling meaning hook
+        - what the fuck are you doing
+    - Imagine you are talking to Jenny
+    - First 5 seconds
+    - Attention is so valuable now a days
+    - Kaizen incremental improvement is everything
+    - Getting paid to do something you once did for fun will take away the joy of doing that thing
+    - Don’t neglect the small things -weekly check ins and doing more simple things is key
+    - know when to take time to think or when not to type 1 decision when you can’t go back or type 2 when you can
+    - Share failure - out fail your competition
+    - Pressure is a privilege and pursing comfort is not the path to a great life nor good health
+    - Why is this going to fail
+    - Premortem analysis
+        - Your career has failed why was that
+        - this investment fails why did that happend
+    - Skills are worthless the context where you can sell those skills are everything
+    - [[Idea]] Create a game where you place chips and you win if you are the happiness
+    - Death is the greatest gift to Life
+    - Discipline is everything
+    - [[Idea]] Fitness ring - see Steven Bartlett Fitness Blockchain
+    - Remove all friction to achieving your goals
+    - lean into what your good at - building things
+        - can’t organise people but can build shit
+        - can’t write about it
+        - can’t market it
+        - but can get that shit to work
+        - always ask who is the best person to do this for me
+        - your ego will insist you do it but your potential will need for someone else to
+    - create a cult - Aneta did this well
+    - Focus on progress
+    - microgoals
+    - small achievable goals
+    - don’t present challenges or goals as really big
+- Cancel all subscriptions
+- Todo on plane:
+    - Write all TODOs
+        - TLPK what I learned from BD and what problems I want to work on
+        - Research - Blog 20 tasks then Learn operators for 20 tasks then get 100 to work - only operator learning given predicates and skills - Keep diffusion and Alpha type models in mind
+            - Paper Deadlines
+            - Bakrat Econ Papers
+        - MW Todos i.e. Eden and Odyssey and all Projects inside
+        - Quant Research Project and Studying
+        - Cleaning up home and offices
+        - BJJ and getting in shape (vegetarian cooking and diet)
+        - Sev Birthday
+        - Organise all RoamResearch with idea/specific tags
+        - Plan to physically organise research papers and progress
+        - Daily routine to stay balanced
+- BTCOpenForum MVP “messages that last forever”
+    - Send transaction with OPRETURN to Vault (any amount extra - small min amount)
+    - Website for seeing message sorted by Date, Amount, or Search
+    - All proceeds will be sent to future projects to increase decentralisation in the world
+        - Income taken by Virtue Foundation LLC
+- Todo:
+    - Write fall schedule only Econometrics
+        - MW - Stay Home
+        - TThF - Work
+    - Write conference deadlines and plans (3 papers)
+        - RSS - BD
+        - CoLLA - Mar - Personal
+        - ICML - Jan - Behavior + Econ
+        - NeurIPS - May - Econ 
+    - Change goals to couple goals
+    - Sketch out dream house: location, Uzbek style, autonomous and ecologically sustainable, heated towels, nature
+- [[Idea]] Bitcoin Public Ledger - Send Amount to Vault with message and website will host, all money in the vault will stay in the vault and pay for future messages. So messages get cheaper as time goes
+- You can use Odyssey for your own productivity too
+    - Spend most of your time making money on Odyssey
+    - And posting projects on Eden for others to join
+- Get governance tokens by doing tasks on Odyssey
+- Vote on disputes etc
+- Eden for personal Projects and Research
+    - Eden Projects
+        - AnetaBTC (Wrapping) - Odyssey
+        - Predicators (Robots) - Research
+        - Odyssey (Project Payment Management) - Odyssey
+        - LibraryAlexandrAI (AI Library) - Odyssey
+        - VirtueAI/Fabric (Decentralised AI)- Odyssey
+        - BTCOpenForum (Open Forum) - Odyssey
+        - 
+        - OracleChains
+        - Genesis
+        - YARVIS
+        - PlantBots
+        - EmbodiedGoldfish
+- RoamResearch for Notes
+- Binders and Cabinets for Research
+- The perfect day - WFH
+    - Wakeup around 8:30 ish
+    - Simple Morning Workout 15min
+    - Simple Morning Stretches 15min
+    - Shower - 15 min
+    - Simple Morning Meditation 10min
+    - Simple Write Todos 5min
+    - Small Breakfast
+    - Personal Project - 90min
+    - BJJ
+    - Personal Project and Breaks
+    - Dinner
+    - Personal Project and Breaks
+    - Getting Ready for Bed
+    - Break
+    - Read - 30min/1hr
+    - Simple Write Todos 5min
+    - Sleep 11/11:30 for ~9hrs
+- The perfect day - In Office
+    - Wakeup around 8:30 ish
+    - Simple Morning Workout 15min
+    - Simple Morning Stretches 15min
+    - Shower - 15 min
+    - Simple Morning Meditation 10min
+    - Simple Write Todos 5min
+    - Small Breakfast
+    - Go to work
+    - Work
+    - Lunch Break
+    - Work
+    - BJJ
+    - Go to home
+    - Shower
+    - Dinner
+    - Break
+    - Getting Ready for Bed
+    - Break
+    - Read - 30min/1hr
+    - Simple Write Todos 5min
+    - Sleep 11/11:30 for ~9hrs
+- 
+- Todos:
+    - Research
+        - BD - RSS Paper (???)
+        - Behavior - Blog Post + Masters Thesis (ICML)(Jan)
+        - AI+Econ - Bakrat + ICML/Neurips (Jan)
+        - GLIB+ - Me to COLLAs (Mar)
+        - Formal Analysis of a Model Prior
+    - Quant (Now)
+        - WSQ Course - Project - Exit Interviews
+        - Get Internship
+        - 14.32 Econometrics
+        - Daily Practice
+    - Virtue (ASAP by Jan)
+        - Eden (Each project has description, picture, patreon/Kickstarter, and application form)
+            - AnetaBTC (Wrapping) - Odyssey
+                - Maintenance Todos
+            - Predicators (Robots) - Research
+                - ???
+            - Odyssey (Project Payment Management) - Odyssey
+                - MVP
+            - LibraryAlexandrAI (AI Library) - Odyssey
+                - Description to book pipeline and webpage
+            - VirtueAI/Fabric (Decentralised AI)- Odyssey
+                - Lite Paper with Apam Mingonvi see August 31st RoamResearch
+            - BTCOpenForum (Open Forum) - Odyssey
+                - MVP
+            - TBD:
+                - OracleChains
+                - Genesis
+                - YARVIS
+                - PlantBots
+                - EmbodiedGoldfish
+        - Odyssey
+            - Use platform to see current project and tasks and to pay myself accordingly
+            - gamifies decentralised development
+    - Health/BJJ (Now)
+        - MIT BJJ - Frequent
+        - GB - Infrequent get stripes
+        - Mostly Vegetarian - Cook
+    - Next Steps:
+        - Slide - TLPK what I learned from BD and what problems I want to work on:
+            - BD
+            - Behavior
+                - Research - Blog 20 tasks then Learn operators for 20 tasks then get 100 to work - only operator learning given predicates and skills - Keep diffusion and Alpha type models in mind
+            - GLIB+
+            - AI+Econ
+            - Formal Analysis of a Model Prior
+        - Weekly Meetings to schedule and calendar:
+            - TLPK
+            - BD+NTW
+            - Bakrat - AI Econ
+            - Tim - My Brand
+            - Sev - Relationship
+            - Finance Board Game Night
+        - Eden, Odyssey, and BTCOpenForum
+            - Make Eden Website - simple (day max)
+            - Make MVP Odyssey - simple (day max)
+            - Use ^ for BTCOpenForum (day max)
+        - Quant Research Project and Study
+            - Follow-up on Monday with Head Hunters and Schoenfeld (Joe and Sanam)
+            - Interview September 13th
+                - Finish Project
+                - Study
+        - !!!IMPORTANT!!! Clean up home and offices
+            - First thing to do when you get back
+            - Physically organise research papers and progress - in binders
+        - Start frequenting BJJ and allocating time for vegetarian cooking and diet
+        - Sev Birthday
+            - Food and Drinks
+            - Tell Gabi
+        - Will you do your daily routine to stay balanced?
+- 5 Goals:
+    - Mind: PhD in AI and Robotics, Minor in Quantitative Finance
+        - 2023-24 - 3/4 Papers
+            - supportive and understanding
+    - Body: Healthy 165 lbs 12% Body Fat
+        - 2023-24 - ^ get back to this
+            - eat healthy together and get me to excersize more, here’s where you can be a bit harsher
+    - Soul: Meditate regularly
+        - 2023-24 - ^
+            - space at some time in the morning
+            - help clean up the space
+    - Wealth: Ample passive income so we aren’t forced to work anymore ($2500/month each)
+        - 2023-24 - Quant Internship, 
+        - 2023-24 - Odyssey and Eden
+            - be supportive when I fail and open to exploring my own way of getting there
+    - Virtue: Being a well read, traveled, and virtuous person
+        - 2023-24 - 12 books, 4 more countries, 100 days of habits
+            - travel with me and congratulate when completing all habits

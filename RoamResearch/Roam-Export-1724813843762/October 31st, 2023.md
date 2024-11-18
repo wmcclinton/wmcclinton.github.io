@@ -1,0 +1,15 @@
+- Keep Shreding
+    - Compete in BJJ
+- Get PhD
+- Get Citadel Internship
+- Get Fabric Done
+- Keep Studying:
+    - Read Robotics Papers
+    - Read Quant Papers
+    - Read DCI Papers
+    - Make a Binder for Each keep growing
+- Vagueness of Model-Based vs Model-Free:
+    - https://ai.stackexchange.com/questions/14175/why-are-model-based-methods-more-sample-efficient-than-model-free-methods#:~:text=Sample%20efficiency%20tells%20what%20is,does%20only%20have%20the%20policy.
+    - How does the planning prior fit in
+- Be serious and knock out these things ^
+- Genenis Node miner can take any crypto currencies and put responses to fabric network

@@ -1,0 +1,27 @@
+- Call with recruiter Pete 10am EST
+- Think about AI Venture Class
+- Damn Nova Prospect:
+    - IBM VQA
+    - TREC VID
+    - Crypto
+    - German/I’m Dutch
+- [[Research]]:
+    - Learn Operators on top of Aloha and Diffusion Models or hand written skills. Given:
+        - Examples (explorative or demonstrative)
+        - Predicates (hand written or generated)
+        - Also for full task execution and planning + replanning
+            - Goo is TAMP between black box policies
+        - Assume:
+            - That skills can be executed with stochasticity that’s mostly capture within the sampler
+- Indeed Job Post and VirtueAI Paper For Max in Europe
+- Todo (In Amsterdam):
+    - Finish Project on Resume
+    - Arbitrage cBTC
+    - Indeed Job Post and VirtueAI Paper For Max
+    - Record Main WSQ course
+    - Read Active Equity Management and Take Notes
+    - Finish 15.456 Class and take notes
+    - Finish Option, Volatility, and Pricing Book
+    - Study, Study, Study
+    - Grow and be smart
+    - Daily Calisthenics and Meditation

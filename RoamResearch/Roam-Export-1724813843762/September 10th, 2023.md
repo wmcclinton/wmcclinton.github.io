@@ -1,0 +1,19 @@
+- What does it take for a journal paper
+- Simplicity is key
+- Add Quant Meet-up Invites to Calendar
+- Quant Follow up
+    - AJ PDT
+    - Schonfeld Sanam and Joe
+    - Headhunter Pete
+    - Headhunter Gordon
+- Study for Quant finish WSQ Projects
+- Todo:
+    - Write Tasks
+    - MVP of Odyssey and get project links and portal - add to eden
+    - YT Vlog Eden development
+- Eden todos:
+    - images
+    - descriptions
+    - GitHub, Odyssey, and Kickstarter links (if applicable)
+    - btc address
+    - Note to send OPRETURN is you want funds to go to development of certain project

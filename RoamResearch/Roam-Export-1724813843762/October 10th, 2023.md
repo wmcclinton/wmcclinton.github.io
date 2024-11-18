@@ -1,0 +1,88 @@
+- Plane Checklist:
+    - X Mastering Bitcoin Book
+    - X What’s you Color Parachute
+    - X Advanced Portfolio Theory
+    - X Finance Papers
+    - X Passport
+    - Cash
+    - Laptop + Chargers
+    - X Notebook and Pen
+    - X Headphones
+    - Sleeping pillow
+    - X Econometrics HW
+    - X Download MITDCI vids
+- Todo on Plane:
+    - (1) List all clubs memberships, current and future project ideas (update calendar)
+        - MIT Investment Management Club
+            - Basics of Finance
+        - MIT Bitcoin Club
+            - MIT BTC Expo
+            - Community/Network
+        - LIS Lab
+            - PhD - Operator Learning for Bilevel Planning
+            - Personal - Causal Modeling for Agents (Economic Systems)
+            - Boston Dynamics AI Institute
+                - TAMP on Spot
+        - DCI
+            - CBDC Development
+            - FABRIC Development
+            - Multi-Resource Blockchain Consensus (PoWork, PoStorage, PoInference, PoLearning)
+        - Aneta
+            - Wrapping
+        - Polygence
+            - Tutoring
+        - MIT BJJ Club
+        - Gracie Barra BJJ
+        - WSQ
+            - QR Studying and Community
+        - GigaUniversity
+            - Personal Development and Ventures Community
+        - AnthonyGG
+            - Golang and Blockchain Devs
+                - (3) Write about story and life
+                    - Story:
+                        - High School
+                            - Valedictorian with only 3 years
+                            - Neurosurgeon - since Middle School
+                                - Math Team
+                                - High School Basketball (small charter school)
+                            - Shadowed Doctor at Family Practice
+                            - ETV - Automated Seedling counter learned about coding (C++ and Rpi)
+                        - Undergrad
+                            - HHMI Stem Academy
+                            - Met Dr. Basu (Cambridge Black Hole Physicist) - Why not AI (Don’t need to be a Neurosurgeon to understand the brain)
+                            - Research: Biophysics lab, GANs for Brain Tumors, Applied Computer Vision (Mosquitos), Brain Computer Interfaces, RL and Robotics
+                            - Applied to PhD (MIT, UCB, Stanford, CMU) and Industry
+                        - Google
+                            - Deferred PhD work on the Perception Team at Google, learning steerable equivariant representations - https://arxiv.org/pdf/2302.11349.pdf
+                            - Also worked on Hierarchical RL
+                        - Masters/PhD
+                            - Stint in program synthesis
+                            - Started believing in TAMP (a stance on what structure is need to get robots to work - compositionality and symbolic search)
+                            - BEHAVIOR - Proof that we can do household tasks
+                            - Boston Dynamics - implement SeSamE on Spot
+                            - Took Managerial Finance and sat in on Advanced Mathematics for Financial Modeling + Financial Engineering, really like the problems and the Math
+                            - QR interviewing (2 years) - Project + Networking + Datathons
+                                - Get the skills needed to be successful during an internship
+                                - Also learn more about the career
+                            - Taking Econometrics now
+                        - Future
+                            - QR
+                            - DCI
+                            - Fabric
+                            - PhD - Operators, Causality, and Exogenous events
+    - (2) Write essay on current life findings and goals as you approach 25
+        - Life is tough. My goal has been to understand the brain and build an intelligent machine throughout the years. This still is my goal, but I’m realizing you need wealth, data, and economic systems to get there. Cracks at AGI have been hit by numerous companies like OpenAI, Google, and Meta, but I do think a need for these systems to be open access and distributed like the internet is important. I’ve decided to take a detour on the path for AGI through economics and distribution. I want to develop a fabric of AI open like the internet, globally maintained, trained, and held. Bitcoin did a great job of demonstrating how incentive systems can build trust and a decentralized network, I will take inspiration from this to build off of. At the same time while I develop this I need a career that is lucrative enough to provide funding for my ventures and support my family.
+            - Thus my goal in order are: PhD (for clot), QR Trad->Crypto (as lucrative career), Fabric (as main project), BJJ/Sev (for health)
+    - (4) X Do Flower Chart
+    - (5) Do career planning and story MIT Sloan Slides
+    - (6) X Reassess goals:
+        - PhD, QR (full-time), DCI, and Fabric
+        - PhD paper plan, QR study plan, DCI goals, and Fabric Jan Launch Plan 
+    - (***7) Econometrics HW
+    - (***8) X Send Schonfeld Projects (10000 equities, autoregressive limit-order-book, etc)
+    - (9) Fabric White Paper
+    - (10) Fabric MVP
+    - (Later) 20 YouTube thumbnails
+    - (Later) Figure out Finances (monthly income and debt pay off plan)
+- It’s not about money it’s about skills to generate money: Financial IQ

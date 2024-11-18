@@ -1,0 +1,34 @@
+- Bobiverse 
+- The Last Word
+- Project Hail Mary
+- Factorio - Game
+- Von Neumann Machine and Game
+- [[CORL]]
+    - Q-Transformer - Paper
+    - Takeaways - a lot incremental research results that diner amount to anything. There is an art to turning research into reality. Isolating a problem and solving it vs expanding a solution to reality
+- Make list of things you want to do with ChatGPT
+    - Games
+        - Diplomacy+
+        - Make Virtue Games Website and Descriptions better
+        - Real Tear Wild
+    - Robots
+        - Buy unitree dog add chatgpt
+    - Etc
+        - Clean up Fabric Code and Write White Paper
+- TODO:
+    - blog post
+    - Fabric meeting
+    - Millennium Dental Appointment
+- the power of attention
+    - you levitate to what you attend too
+    - so only attend to these things
+        - AI+Robotics/PhD
+            - Get PhD, Become Expert in Applied AI
+        - Fabric/DCI
+            - Get cred, know how blockchains works, cbdc maintainer, build one and know consensus mechanisms
+        - QR/Economics/Schonfeld/FinancialDataScienceJournal
+            - Get knowledge of how Hedge Funds work and the Economics/Finance behind it (also how technology runs it)
+        - Sevara/Family
+            - Make sure wife and kids are happy and secure
+        - BJJ/Health
+            - Make sure I’m fit and taking care of myself

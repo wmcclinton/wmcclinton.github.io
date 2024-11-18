@@ -1,0 +1,6 @@
+- Move stuff from [[August 12th, 2024]]
+- your at MIT figure out what you want to do for each of the seven things and do it or find someone that knows how to do it and learn then do it - nothing is impossible
+- [[Research]]
+    - Nothing is surprising to a animal with no eyes or no senses
+    - This relates to RND to measuring state count to approximate Shannon suprise
+    - If you are sensing everything a really high capacity model with lots of data will be needed to model it. maybe there is a way of modeling at all fidelities

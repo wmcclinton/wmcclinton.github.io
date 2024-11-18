@@ -1,0 +1,13 @@
+- Simple Goals:
+    - Kx Certificate
+    - WSQ Problems - in my notebook
+    - Schonfeld Return Offers (Winter, Summer 2025)
+    - Weight Goals for Hawaii
+    - Pylego - website and sell first product - 3D print designs for 6 items v3
+        - make simple cozmo like cart and pusher
+    - Get into Asset Pricing and Personal Finance + prepare for PhD Graduation in 1-2 years
+- [[Schonfeld]]
+    - Make sure data does not have look ahead bias
+    - Find Signals
+    - Finish Data Loaders
+    - What is MPO

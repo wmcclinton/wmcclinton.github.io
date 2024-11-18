@@ -1,0 +1,1 @@
+- [[Life]] persistence and focus are key

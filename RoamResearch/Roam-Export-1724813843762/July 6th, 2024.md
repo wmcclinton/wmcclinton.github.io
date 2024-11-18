@@ -1,0 +1,24 @@
+- [[Schonfeld]]
+    - You need to prove to yourself that you can make money, that you are worth the half million dollar offer:
+        - This takes finding new alpha
+        - Implementing it
+        - And executing/following thru well
+        - Note: you can do it in these internship, or you can do it at home with crypto, equities, etc
+    - Schonfeld and I have a symbiotic relationship, I get to play around with cool ideas that Ryan and I dream up, and see if we can make money with them. I learn about all the important stuff the team does and they get to learn from my exploration and tinkering. My goal beyond them is to make GTS a money making machine (new outfitted alpha/gts), additional alt data handling - simple to test and mess around with new signals and get visualization
+- Karoke
+    - Sevara
+        - 0 - Russian Song
+        - X 5 -  Chandilier 
+        - 7 - I’m not the only one
+        - 6 - If I was a boy
+        - 7 - Juliet
+    - Madina
+        - 0 - Russian Song
+        - 5 - Chandilier
+        - 8 - wrecking ball
+        - 8 - Skyscraper
+    - Willie
+        - -1 - Billie Ellish
+        - 8 - Photgraph
+        - 6 - Baby
+        - 6.5 - Lose Yourslf

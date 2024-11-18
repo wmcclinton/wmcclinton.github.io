@@ -1,0 +1,10 @@
+- If I’m allowed to think deeply for myself:
+    - Away from the boyz and my wife, and my family, and all the haters and supporters
+    - I would realize I think money doesn’t matter I’ve seen google, I’ve seen MIT, I’ll see quant, I’ve seen what money can buy and what it can’t: Time, Youth, Love, Knowledge. Their are somethings right now and in the future that are infinitely valuable like your autonomy, life, truth, and hope. And tech that can make more of those infinitely powerful things Autonomy, Life, Truth, and Hope. Space is coming, Energy is coming, Intelligence is coming. 
+    - PhD was great and is great, but I’m using it as a crutch as a place to play around and test out ideas in the comfort of my lab.
+    - Quantitative Research is sexy and great, amazing game with so much intellectual problems. Markets are beautiful and would love to live the lavished life.
+    - But when it comes to it the path of my own making is the best one, maybe those closest to me won’t understand and may think I’m crazy, and I might be. But it’s being pulling me every since I was little in high school I levitated to actual solutions to actual problems people care about. I love ideas, research, and philosophy but I can only stomach so much without having to get my hands dirty. I’m not an intellectual I’m an engineer, I’m not a business man I’m an engineer, but I can pretend to be an intellectual and pretend to be a business man. But when it comes down to it I want my autonomy and I want to solve the hard problems, I think I’m way more valuable than a few hundred thousand dollar seven tho people may not see that right now.
+    - I do think it’s foolish to try to do all 3 things well. Life is long though so I should think about time frames.
+    - Grow-up enter the real world and figure out how money works.
+    - People are willing to spend billions of dollars on AI, Automation, Robotics, Energy, Quantum Computing, Biotech why because the pay off is ginormous literally unfathomable
+    - We believe, as Richard Feynman said, “Science is the belief in the ignorance of experts.”

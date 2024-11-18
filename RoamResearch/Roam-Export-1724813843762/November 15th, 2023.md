@@ -1,0 +1,21 @@
+- fix destination connection
+- 
+- Wakeup and prioritize life
+- Cancel All Subscriptions
+    - CORL reimbursement
+    - $100 membership? Patreon
+- Decisions:
+    - Docker is for testing
+    - Everything will be actually installed on the tower with setup.sh script
+- TODO
+    - Email Heather about Mark Raibert -> Manish AIML Conf
+    - Prepare for Neha Meeting (Thursday 2:30)
+    - R&D Conference
+    - Setup LIS Env
+    - BJJ
+    - Testnet (3 Towers)
+- Later:
+    - Thursday BD
+    - TLPK Slides after Reading Leslie Doc
+    - Joe Meeting Friday 10:30
+    - Hannah Meeting Friday 11:15

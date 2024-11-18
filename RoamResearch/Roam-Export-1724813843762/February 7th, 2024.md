@@ -1,0 +1,38 @@
+- X Run 7:30am
+- X Class - Bring Gym Clothes
+- X Email Professors
+- X Boston Dynamics
+- X 3:30pm meet Chaincode
+- X Go to gym before meeting
+- 8:00 Bitcoin Expo 4-237
+- Read Paper Appendix
+- Catch-up in Econ 1723
+- Relax
+- 
+- Thursday Meetings:
+    - 1:30-3
+    - Williams 3
+    - ESO 3:30
+- Friday Meetings:
+    - Rachel Talk 9:30am
+    - DCI
+    - TLPK 1:00-1:30
+    - Catalina 1:30-2
+    - Advay 2-3
+    - DCI
+    - LIS 4-5
+    - Kartin 5
+- 
+- For Friday TLPK Meeting
+    - Give Aruba coins
+    - RSS/BD
+    - Talk about Advay and project
+    - Talk about internship in summer and takings courses to prepare for it
+    - Tell them about thinking about NUS for next Fall+
+    - Also mainly finishing Thesis final section results this semester (testing incrementality/transfer and compositionality)
+        - https://docs.google.com/document/d/1skH0j-mUjen6BGq7-y6zo7bRttu0laasJEqUq4f3ytg/edit
+        - 
+- [[Values]][[Alphanomics]][[2-1-2-11]]
+    - After reading this https://eprints.lse.ac.uk/24675/1/dp477.pdf
+        - Hedge Funds are only allowed for the risk, because on you need to protect the public via transparency and regulation (levraging, short selling) which you can’t reasonably give hedge funds
+        - This make me think maybe you can let the public take the risk them self just give the tools to do it on your own and sell alpha/strats

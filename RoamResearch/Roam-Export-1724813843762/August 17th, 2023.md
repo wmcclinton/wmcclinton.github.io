@@ -1,0 +1,45 @@
+- Goals:
+    - 1. Financial IQ
+        - Businesses (Aneta, VF, VA, Gen), Paper Assets (Vanguard), Real-Estate (Uzb), Commodities (???)
+    - 2. PhD/BD
+        - PhD in Robotics minor in Quant Finance
+    - 3. BJJ/Health
+        - Black Belt - 165 lbs 12% BF
+    - 4. Travel/Russian
+        - See the world - Fluent in Russian
+- Today:
+    - Woke up later 10:30
+    - Morning Routine:
+        - {{TODO}} [[Morning Routine]]
+            - {{TODO}} [[Journalling]]
+                - ... {{word-count}}
+            - {{TODO}} [[Morning Workout]]
+                - 100 Push-ups
+                - 5x5 Ab-Rolls
+    - 10:30-12:00 PhD/Work
+        - ...
+    - 12:00-1:00 Lunch Break
+    - 1:00-2:30 PhD/Work
+        - ...
+    - 2:30-3:00 Afternoon Break
+    - 3:00-4:30 PhD/Work (or Business)
+        - ...
+    - 4:30-6:00 Evening Break
+    - 6:00-7:30 Exercise
+    - 7:30-8:30 Dinner Break
+    - 8:30-10:00 Business
+        - ...
+- [[Notes]]:
+    - I like that Sev is liking her job, liking being a part of the big decisions and strategy. I hope she continues to find her path.
+    - Find your path, work for stability but (real passion is startups)
+    - Challenge is the crucible for greatness
+    - Figure out finances
+    - Potentially close virtue GRID
+    - the art of making money from nothing
+    - BD Problem:
+        - updated position wrong when looking at hammer on platform
+    - Lost 16k today, it was devastating. I knew I shouldn’t been running the inverse of my strategy. protected against crashes but lose with pumps
+    - Need to save and learn to try again 
+    - Deliberate Practice 2hrs a day will keep you the same and more will make you better at a thing
+        - So you can do 3 to 4 things a day
+    - Decentralization is the futures found VirtueAI

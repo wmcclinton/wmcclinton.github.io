@@ -1,0 +1,7 @@
+- cancel Spotify subscription
+- note great people
+    - Andy
+    - Alex Mercier
+    - Keller
+    - Remy (BJJ)
+- I want to study Putnam problems
