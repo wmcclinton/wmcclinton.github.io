@@ -8,42 +8,134 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <style>
-body,h1 {font-family: "Raleway", sans-serif}
-body, html {height: 100%}
+body,h1,h2,h3,p {
+  font-family: "Raleway", sans-serif;
+}
+
+body, html {
+  min-height: 100%;
+  margin: 0;
+}
+
 .bgimg {
   background-image: url('black.jpeg');
-  min-height: 100%;
+  min-height: 100vh;
   background-position: center;
   background-size: cover;
-}
-.overlay {
-    position: relative;
-    z-index: 2; /* Higher layer than the GIF */
-    text-align: center;
-    top: 50%; /* Adjust as needed for positioning */
-    transform: translateY(-50%);
-    color: #fff; /* Adjust text color for better visibility */
+  background-attachment: fixed;
 }
 
+.top-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 24px;
+  font-size: 22px;
+}
+
+.main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 110px 24px 80px 24px;
+  text-align: center;
+}
+
+.main-gif {
+  max-width: 260px;
+  width: 70%;
+  height: auto;
+  display: block;
+  margin: 0 auto 16px auto;
+}
+
+.project-section {
+  max-width: 850px;
+  margin: 44px auto 0 auto;
+}
+
+.project-card {
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 16px 20px;
+  margin: 14px 0;
+  border-radius: 8px;
+  text-align: left;
+  backdrop-filter: blur(4px);
+}
+
+.project-card h3 {
+  margin: 0 0 6px 0;
+  font-size: 20px;
+}
+
+.project-card p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.45;
+}
+
+.project-card a,
+.project-note a {
+  color: white;
+  text-decoration: underline;
+}
+
+.project-note {
+  margin-top: 18px;
+  font-size: 15px;
+}
+
+button a {
+  text-decoration: none;
+  color: black;
+}
+
+@media screen and (max-width: 600px) {
+  .top-title {
+    position: relative;
+    text-align: center;
+    padding: 18px 16px 0 16px;
+    font-size: 17px;
+  }
+
+  .main-content {
+    padding: 40px 18px 70px 18px;
+  }
+
+  .main-gif {
+    max-width: 200px;
+  }
+
+  .project-card {
+    padding: 14px 16px;
+  }
+}
 </style>
 </head>
+
 <body>
 
-<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
-  <div class="overlay">
-    <div class="w3-display-topleft w3-padding-large w3-xlarge">
-      Quantitative Trader | AI Engineer
-    </div>
+<div class="bgimg w3-animate-opacity w3-text-white">
+
+  <div class="top-title">
+    Quantitative Trader & AI Engineer @ Schonfeld | Adjunct Professor @ UM
   </div>
-  <div class="w3-display-middle">
-    <div class="w3-center">
-      <image src="giphy.gif"></image>
-    </div>
-    <h1 class="w3-xxlarge w3-animate-top w3-center">Willie McClinton</h1>
+
+  <div class="main-content">
+
+    <img class="main-gif" src="giphy.gif" alt="Animated logo">
+
+    <h1 class="w3-xxlarge w3-animate-top">Willie McClinton</h1>
+
     <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center"><i>Open Source Innovation - Decentralize Societies - Automate Industries</i></p>
-    <div class="w3-xlarge w3-section w3-center">
+
+    <p class="w3-large">
+      <i>Open Source Innovation - Decentralize Societies - Automate Industries</i>
+    </p>
+
+    <div class="w3-xlarge w3-section">
       <a href="https://scholar.google.com/citations?user=JycsdR0AAAAJ&hl=en&oi=ao"><i class="fa fa-graduation-cap w3-hover-opacity"></i></a>
       <a href="https://www.linkedin.com/in/wbm3/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
       <!-- <a href="https://www.instagram.com/williebmcclinton/"><i class="fa fa-instagram w3-hover-opacity"></i></a> -->
@@ -53,18 +145,58 @@ body, html {height: 100%}
       <a href="https://calendly.com/wbm3"><i class="fa fa-search w3-hover-opacity"></i></a>
       <a href="https://hbrnetwork.github.io/"><i class="fa fa-globe w3-hover-opacity"></i></a>
     </div>
-    <div class="w3-center">
-        <button class="w3-button w3-white" type="submit">
-            <a href="Willie_McClinton_Resume_2024.pdf">Resume</a>
-        </button>
-        <button class="w3-button w3-white" type="submit">
-          <a href="Willie_McClinton_CV_2024.pdf">CV</a>
+
+    <div>
+      <button class="w3-button w3-white" type="button">
+        <a href="Willie_McClinton_Resume_2024.pdf">Resume</a>
+      </button>
+
+      <button class="w3-button w3-white" type="button">
+        <a href="Willie_McClinton_CV_2026.pdf">CV</a>
       </button>
     </div>
-    <div class="w3-center w3-padding-64">
-      <p></p>
+
+    <div class="project-section">
+      <h2>Ongoing Projects</h2>
+
+      <div class="project-card">
+        <h3>
+          <a href="https://hbrnetwork.github.io/" target="_blank">
+            Metal2Humanoid
+          </a>
+        </h3>
+        <p>
+          Metal2Humanoid is the final summer course in a three-part AI and robotics sequence spanning Generative AI (Fall), Trustworthy AI (Spring), and hands-on humanoid robot building (Summer).
+        </p>
+      </div>
+
+      <div class="project-card">
+        <h3>
+          <a href="https://behavior.stanford.edu/challenge/index.html" target="_blank">
+            BEHAVIOR 2026 Competition
+          </a>
+        </h3>
+        <p>
+          We are developing a task and motion planning based solution for the BEHAVIOR 2026 household robot learning competition.
+        </p>
+      </div>
+
+      <div class="project-card">
+        <h3>Stealth Health Tech Robotics Startup</h3>
+        <p>
+          I am advising an early-stage health tech robotics startup focused on bringing robotics and AI into high-impact clinical workflows.
+        </p>
+      </div>
+
+      <p class="project-note">
+        Interested in helping out? Email me at
+        <a href="mailto:wbm3@mit.edu">wbm3@mit.edu</a>.
+        We meet weekly for each of the three projects.
+      </p>
     </div>
+
   </div>
 </div>
+
 </body>
 </html>
